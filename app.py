@@ -10,6 +10,7 @@
     - サイドバーでウォッチリスト(config.yaml)の追加・削除ができる
 """
 
+import json
 from pathlib import Path
 
 import pandas as pd
@@ -38,6 +39,15 @@ def load_last_updated() -> str:
     if not path.exists():
         return "不明"
     return path.read_text(encoding="utf-8").strip()
+
+
+@st.cache_data(ttl=300)
+def load_news(market_key: str) -> dict:
+    path = DATA_DIR / f"news_{market_key}.json"
+    if not path.exists():
+        return {}
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 
 def load_config() -> dict:
@@ -70,13 +80,15 @@ def render_ranking_table(df: pd.DataFrame, sort_col: str, label: str):
         "current_price": "現在値",
         "change_pct": "前日比%",
         "volume_surge_ratio": "出来高急増率",
+        "rsi": "RSI",
+        "news_count": "ニュース件数",
         "total_score": "総合スコア",
     }
     view = sorted_df[list(display_cols.keys())].rename(columns=display_cols)
     st.dataframe(view, width="stretch", hide_index=True)
 
 
-def render_detail(df: pd.DataFrame):
+def render_detail(df: pd.DataFrame, market_key: str):
     if df.empty:
         return
 
@@ -101,11 +113,23 @@ def render_detail(df: pd.DataFrame):
         st.metric("現在値", row["current_price"])
         st.metric("前日比", f"{row['change_pct']}%")
         st.metric("出来高急増率", f"{row['volume_surge_ratio']}倍")
+        st.metric("RSI", row["rsi"])
         st.metric("52週高値 / 安値", f"{row['high_52w']} / {row['low_52w']}")
         st.metric("総合スコア", row["total_score"])
 
     st.markdown("**関連ニュース**")
-    st.caption("ニュース収集機能はフェーズ4で追加予定です。")
+    news_items = load_news(market_key).get(ticker, [])
+    if not news_items:
+        st.caption("関連ニュースが見つかりませんでした。")
+    else:
+        for item in news_items:
+            title = item.get("title") or "(タイトルなし)"
+            url = item.get("url")
+            publisher = item.get("publisher", "")
+            if url:
+                st.markdown(f"- [{title}]({url}) — {publisher}")
+            else:
+                st.markdown(f"- {title} — {publisher}")
 
 
 def render_watchlist_editor(config: dict):
@@ -180,7 +204,7 @@ def main():
         render_ranking_table(df, "volume_surge_ratio", "出来高急増")
 
     st.divider()
-    render_detail(df)
+    render_detail(df, market_key)
 
 
 if __name__ == "__main__":
