@@ -23,7 +23,7 @@ CONFIG_PATH = Path(__file__).parent / "config.yaml"
 
 MARKETS = {"jp": "日本株", "us": "米国株"}
 
-st.set_page_config(page_title="株式自動ランキング", layout="wide")
+st.set_page_config(page_title="株式自動ランキング", page_icon="🔥", layout="wide")
 
 
 @st.cache_data(ttl=300)
