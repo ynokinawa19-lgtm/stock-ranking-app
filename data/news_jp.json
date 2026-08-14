@@ -65,6 +65,12 @@
   ],
   "9984.T": [
     {
+      "title": "Sam Altman Is Pushing for a $1 Trillion IPO Valuation for OpenAI, Even as SoftBank Faces a $40 Billion Loan Deadline in 2027. Here's What That Tension Means for Microsoft and Nvidia Shareholders.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/13/sam-altman-is-pushing-for-a-1-trillion-ipo-valuati/",
+      "published_at": "2026-08-13T18:55:00Z"
+    },
+    {
       "title": "Jensen Huang Just Signed 7 Japanese Industrial Giants Into Nvidia's Physical AI Coalition. Here's Why $1 Trillion in Confirmed Demand Should Matter to Investors.",
       "publisher": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/13/jensen-huang-just-signed-7-japanese-industrial-gia/",
@@ -87,12 +93,6 @@
       "publisher": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-show-financial-force-soothes-203808018.html",
       "published_at": "2026-08-11T20:38:08Z"
-    },
-    {
-      "title": "OpenAI Gives Employees a $7 Billion Cash Exit",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/openai-gives-employees-7-billion-191856869.html",
-      "published_at": "2026-08-11T19:18:56Z"
     }
   ],
   "8306.T": [
@@ -109,12 +109,6 @@
       "published_at": "2026-08-13T09:00:43Z"
     },
     {
-      "title": "Gold Gains on Reduced Fed Rate-Hike Expectations",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-on-reduced-fed-rate-hike-expectations-4497e55a?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-08-13T07:57:00Z"
-    },
-    {
       "title": "BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push",
       "publisher": "Reuters",
       "url": "https://sg.finance.yahoo.com/news/bofa-invest-1-9-billion-154850725.html",
@@ -125,6 +119,12 @@
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081226/card/oil-extends-gains-on-hormuz-deal-skepticism-0ngHHlC9Hm3K7kOfZ3Bf?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-08-12T08:44:57Z"
+    },
+    {
+      "title": "Zacks Industry Outlook Highlights Mitsubishi UFJ Financial, UBS and KB Financial",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-mitsubishi-150800780.html",
+      "published_at": "2026-08-11T15:08:00Z"
     }
   ],
   "6501.T": [
@@ -449,6 +449,12 @@
   ],
   "8058.T": [
     {
+      "title": "Mitsubishi’s large-frame gas turbine backlog reaches 35 GW",
+      "publisher": "Utility Dive",
+      "url": "https://www.utilitydive.com/news/mitsubishi-gas-turbine-backlog-earnings/827761/",
+      "published_at": "2026-08-13T08:00:00Z"
+    },
+    {
       "title": "Mitsubishi eyes EV battery plant in Philippines",
       "publisher": "Just Auto",
       "url": "https://www.just-auto.com/news/mitsubishi-ev-battery-plant-philippines/",
@@ -471,12 +477,6 @@
       "publisher": "Offshore Technology",
       "url": "https://www.offshore-technology.com/news/nyk-targets-midocean-energy-stake/",
       "published_at": "2026-07-31T11:04:39Z"
-    },
-    {
-      "title": "Mitsubishi (TSE:8058) Eyes Taca Taca Stake, Is The 11% Undervaluation Case Convincing?",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-tse-8058-eyes-taca-170855432.html",
-      "published_at": "2026-07-30T17:08:55Z"
     }
   ]
 }
