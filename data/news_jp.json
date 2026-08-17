@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "Toyota steps up efficiency drive under new CEO",
+      "publisher": "Just Auto",
+      "url": "https://www.just-auto.com/news/toyota-steps-up-efficiency-drive-under-new-ceo/",
+      "published_at": "2026-08-17T09:11:05Z"
+    },
+    {
       "title": "Japan's economy manages 1.1% growth rate despite headwinds",
       "publisher": "Associated Press",
       "url": "https://finance.yahoo.com/economy/articles/japans-economy-manages-1-1-023957948.html",
@@ -23,12 +29,6 @@
       "publisher": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-tm-profit-soared-76-190728633.html",
       "published_at": "2026-08-12T19:07:28Z"
-    },
-    {
-      "title": "Toyota Stock Defies 508,354-Vehicle Recall as Shares Rise",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-stock-defies-508-354-192335914.html",
-      "published_at": "2026-08-11T19:23:35Z"
     }
   ],
   "6758.T": [
@@ -65,6 +65,24 @@
   ],
   "9984.T": [
     {
+      "title": "Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal",
+      "publisher": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-invest-1-5-billion-124300582.html",
+      "published_at": "2026-08-17T12:43:00Z"
+    },
+    {
+      "title": "Nvidia cuts OpenAI Ohio data center guarantee to $120 billion",
+      "publisher": "Quartz",
+      "url": "https://qz.com/nvidia-openai-ohio-data-center-backstop-081726",
+      "published_at": "2026-08-17T11:45:17Z"
+    },
+    {
+      "title": "Market Chatter: Nvidia Discussing $3 Billion Investment SB Energy's OpenAI Ohio Data Center",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-discussing-3-081125623.html",
+      "published_at": "2026-08-17T08:11:25Z"
+    },
+    {
       "title": "NVIDIA’s $3 Billion Bet on the Power Behind AI",
       "publisher": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-3-billion-bet-power-202314612.html",
@@ -75,24 +93,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-stock-021003766.html",
       "published_at": "2026-08-16T02:10:03Z"
-    },
-    {
-      "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says",
-      "publisher": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-talks-invest-3-billion-193826586.html",
-      "published_at": "2026-08-15T19:38:26Z"
-    },
-    {
-      "title": "How Investors May Respond To SoftBank Group (TSE:9984) Shifting From TSMC To Capital One After Q1 Results",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-softbank-group-150941472.html",
-      "published_at": "2026-08-15T15:09:41Z"
-    },
-    {
-      "title": "SEC filing shows Softbank initiates stake in Capital One; sells 71.5% of its Taiwan Semi holdings",
-      "publisher": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sec-filing-shows-softbank-initiates-165615828.html",
-      "published_at": "2026-08-14T16:56:15Z"
     }
   ],
   "8306.T": [
@@ -321,6 +321,12 @@
   ],
   "7974.T": [
     {
+      "title": "Why indie games are the next big tech investment: Gaming CEO",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/why-indie-games-next-big-100000670.html",
+      "published_at": "2026-08-17T10:00:00Z"
+    },
+    {
       "title": "Nintendo’s “Pokémon Pokopia” Farms 5 Million Copies",
       "publisher": "Moby",
       "url": "https://app.moby.co/home/news/news-nintendos-pokmon-pokopia-farms-5-million-copies?utm_source=yahoo_finance&utm_medium=rss",
@@ -343,12 +349,6 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-turtle-beach-corporation-080000122.html",
       "published_at": "2026-08-12T08:00:00Z"
-    },
-    {
-      "title": "Nintendo recoups $300M in tariff refunds as memory crunch intensifies",
-      "publisher": "Supply Chain Dive",
-      "url": "https://www.supplychaindive.com/news/nintendo-recoups-300m-in-tariff-refunds-as-memory-crunch-intensifies/827380/",
-      "published_at": "2026-08-11T09:58:00Z"
     }
   ],
   "9983.T": [
@@ -451,7 +451,7 @@
     {
       "title": "Ovo founder in battle for control over £370m tech arm",
       "publisher": "The Telegraph",
-      "url": "https://uk.finance.yahoo.com/news/ovo-founder-battle-control-over-100000439.html",
+      "url": "https://www.telegraph.co.uk/business/2026/08/15/ovo-founder-in-battle-for-control-over-370m-tech-arm/",
       "published_at": "2026-08-15T10:00:00Z"
     },
     {
