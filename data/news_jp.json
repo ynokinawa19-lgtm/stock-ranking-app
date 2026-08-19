@@ -1,6 +1,18 @@
 {
   "7203.T": [
     {
+      "title": "LGES starts production at Lansing battery plant in US",
+      "publisher": "Just Auto",
+      "url": "https://www.just-auto.com/news/lges-production-lansing-battery-plant/",
+      "published_at": "2026-08-19T12:12:03Z"
+    },
+    {
+      "title": "Nexxen Highlights AI, CTV Growth Strategy and Path to 40% EBITDA Margins",
+      "publisher": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/nexxen-highlights-ai-ctv-growth-strategy-and-path-to-40-ebitda-margins-2026-08-19/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "published_at": "2026-08-19T06:01:56Z"
+    },
+    {
       "title": "LG Energy Solution battery plant opens with customers other than GM",
       "publisher": "Detroit Free Press",
       "url": "https://www.freep.com/story/money/cars/general-motors/2026/08/18/lg-energy-solution-battery-plant-lansing/91351782007/",
@@ -17,18 +29,6 @@
       "publisher": "Benzinga",
       "url": "https://finance.yahoo.com/economy/policy/articles/howard-lutnick-says-trumps-auto-193111243.html",
       "published_at": "2026-08-17T19:31:11Z"
-    },
-    {
-      "title": "Toyota steps up efficiency drive under new CEO",
-      "publisher": "Just Auto",
-      "url": "https://www.just-auto.com/news/toyota-steps-up-efficiency-drive-under-new-ceo/",
-      "published_at": "2026-08-17T09:11:05Z"
-    },
-    {
-      "title": "Japan's economy manages 1.1% growth rate despite headwinds",
-      "publisher": "Associated Press",
-      "url": "https://finance.yahoo.com/economy/articles/japans-economy-manages-1-1-023957948.html",
-      "published_at": "2026-08-17T02:39:57Z"
     }
   ],
   "6758.T": [
@@ -65,37 +65,43 @@
   ],
   "9984.T": [
     {
+      "title": "Nvidia’s (NVDA) $105B Ohio Bet: Ecosystem Expansion or Strategic Circularity?",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-105b-ohio-bet-124755581.html",
+      "published_at": "2026-08-19T12:47:55Z"
+    },
+    {
+      "title": "Nvidia credit risk gauge hits new peak as SoftBank readies record bond issue",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-credit-risk-gauge-hits-095605564.html",
+      "published_at": "2026-08-19T09:56:05Z"
+    },
+    {
+      "title": "Nikkei Falls to Two-Week Low on Risk-Off Sentiment",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081926/card/nikkei-falls-to-two-week-low-on-risk-off-sentiment-PkqJMXx0HZFhxFPKPOPM?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-08-19T08:06:11Z"
+    },
+    {
+      "title": "MU, SNDK Dip Overnight: KOSPI Hits Halt Amid Asian Tech Chip Rout, SoftBank, Samsung, SK Hynix Retreat",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/mu-sndk-dip-overnight-kospi-hits-halt-amid-asian-tech-chip-rout-soft-bank-samsung-sk-hynix-retreat/cZYdEEaRJkB",
+      "published_at": "2026-08-19T05:24:38Z"
+    },
+    {
       "title": "Bank of America Thinks Nvidia Stock Could Go 50% Higher",
       "publisher": "BeInCrypto",
       "url": "https://beincrypto.com/nvidia-stock-bofa-350-target/",
       "published_at": "2026-08-18T19:29:15Z"
-    },
-    {
-      "title": "Nvidia Backs OpenAI's Ohio AI Hub With $100 Billion",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backs-openais-ohio-ai-144319382.html",
-      "published_at": "2026-08-18T14:43:19Z"
-    },
-    {
-      "title": "SoftBank Group put 67% of U.S. portfolio into Intel stock",
-      "publisher": "Quartz",
-      "url": "https://qz.com/softbank-intel-13f-sec-filing-081826",
-      "published_at": "2026-08-18T12:15:39Z"
-    },
-    {
-      "title": "SoftBank (TSE:9984) Stock Fair Value Edges Higher As AI Exposure Draws Fresh Analyst Debate",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-tse-9984-stock-fair-101457448.html",
-      "published_at": "2026-08-18T10:14:57Z"
-    },
-    {
-      "title": "Autonomous equipment tech firm Gravis Robotics raises $200M",
-      "publisher": "Construction Dive",
-      "url": "https://www.constructiondive.com/news/gravis-robotics-raises-200M-zurich-softbank/828123/",
-      "published_at": "2026-08-18T09:54:00Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "Gold Slips Ahead of Fed Meeting Minutes",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081926/card/gold-slips-ahead-of-fed-meeting-minutes-Up0SmZl5C1gZClW4iuJS?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-08-19T09:55:08Z"
+    },
     {
       "title": "Global Government Bond Yields Hit Multiyear Highs",
       "publisher": "The Wall Street Journal",
@@ -119,12 +125,6 @@
       "publisher": "Power Technology",
       "url": "https://www.power-technology.com/news/recurrent-energy-cobalt-solar-project/",
       "published_at": "2026-08-14T08:22:00Z"
-    },
-    {
-      "title": "European Indexes Mixed as Tech Stocks Rise, Miners Fall",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/asx-loses-bulls-following-stocks-rerate-dbb0aea8?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-08-14T07:34:00Z"
     }
   ],
   "6501.T": [
@@ -257,6 +257,18 @@
   ],
   "8035.T": [
     {
+      "title": "Korean Stocks Bear Brunt of Chip Selloff on Higher Yield Worry",
+      "publisher": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/korean-stocks-bear-brunt-chip-004252417.html",
+      "published_at": "2026-08-19T00:42:52Z"
+    },
+    {
+      "title": "Japan’s Earnings Surprise Analysts to Fuel Bets for Broad Rally",
+      "publisher": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/japan-earnings-surprise-analysts-fuel-224220635.html",
+      "published_at": "2026-08-18T22:42:20Z"
+    },
+    {
       "title": "European Indexes Rise as Earnings Drive Markets",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/opinion/nikkei-falls-1-3-dragged-by-electronics-stocks-1458be31?siteid=yhoof2&yptr=yahoo",
@@ -273,18 +285,6 @@
       "publisher": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-rebound-ignites-record-rallies-104235010.html",
       "published_at": "2026-07-31T10:42:35Z"
-    },
-    {
-      "title": "Nvidia, AMD, Micron Lead Chip Stocks Selloff as SK hynix Earnings Disappoint",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/nvidia-amd-micron-lead-chip-182255155.html",
-      "published_at": "2026-07-29T18:22:55Z"
-    },
-    {
-      "title": "CoStar Group Q2 Earnings Beat Estimates, Revenues Increase Y/Y",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/costar-group-q2-earnings-beat-172800543.html",
-      "published_at": "2026-07-29T17:28:00Z"
     }
   ],
   "6861.T": [
@@ -451,7 +451,7 @@
     {
       "title": "Ovo founder in battle for control over £370m tech arm",
       "publisher": "The Telegraph",
-      "url": "https://uk.finance.yahoo.com/news/ovo-founder-battle-control-over-100000439.html",
+      "url": "https://www.telegraph.co.uk/business/2026/08/15/ovo-founder-in-battle-for-control-over-370m-tech-arm/",
       "published_at": "2026-08-15T10:00:00Z"
     },
     {
