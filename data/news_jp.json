@@ -1,6 +1,18 @@
 {
   "7203.T": [
     {
+      "title": "Hyundai considers Georgia Metaplant expansion to 800,000 units",
+      "publisher": "Quartz",
+      "url": "https://qz.com/hyundai-georgia-metaplant-capacity-expansion-082126",
+      "published_at": "2026-08-21T11:21:06Z"
+    },
+    {
+      "title": "Walmart’s E-Commerce Sales Rise as Deliveries Accelerate",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/logistics-report/walmarts-e-commerce-sales-rise-as-deliveries-accelerate-ba2643aa?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-08-21T11:03:00Z"
+    },
+    {
       "title": "GM Ruled U.S. Auto Sales for 100 Years. Now Toyota Is Closing In.",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/autos/us-auto-sales-general-motors-toyota-5cf821e5?siteid=yhoof2&yptr=yahoo",
@@ -17,18 +29,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/does-wolfspeed-wolf-q4-reveal-131318937.html",
       "published_at": "2026-08-20T13:13:18Z"
-    },
-    {
-      "title": "Daimler Truck’s Archion share sale raises €600m",
-      "publisher": "Just Auto",
-      "url": "https://www.just-auto.com/news/daimler-truck-archion-share-sale/",
-      "published_at": "2026-08-20T11:25:00Z"
-    },
-    {
-      "title": "LG Energy, once fixed on EV batteries, jumps to Plan B",
-      "publisher": "Reuters",
-      "url": "https://finance.yahoo.com/energy/articles/lg-energy-once-fixed-ev-164432841.html",
-      "published_at": "2026-08-19T16:44:32Z"
     }
   ],
   "6758.T": [
@@ -353,12 +353,6 @@
   ],
   "9983.T": [
     {
-      "title": "Nikkei Falls 0.5%, Tracking Wall Street’s Losses",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-5-tracking-wall-streets-losses-e68ff417?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-08-21T00:39:00Z"
-    },
-    {
       "title": "Uniqlo owner Fast Retailing raises FY2026 outlook after strong Q3 growth",
       "publisher": "Just Style",
       "url": "https://www.just-style.com/news/uniqlo-fast-retailing-fy2026/",
@@ -381,6 +375,12 @@
       "publisher": "Reuters Videos",
       "url": "https://finance.yahoo.com/video/uniqlo-operator-fast-retailings-q3-113035931.html",
       "published_at": "2026-07-09T11:30:35Z"
+    },
+    {
+      "title": "Uniqlo Owner Raises Earnings Outlook After Strong Quarter",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/uniqlo-owner-raises-guidance-after-strong-quarterly-profit-ab5c7c44?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-07-09T11:04:00Z"
     }
   ],
   "4519.T": [
@@ -451,7 +451,7 @@
     {
       "title": "Ovo founder in battle for control over £370m tech arm",
       "publisher": "The Telegraph",
-      "url": "https://uk.finance.yahoo.com/news/ovo-founder-battle-control-over-100000439.html",
+      "url": "https://www.telegraph.co.uk/business/2026/08/15/ovo-founder-in-battle-for-control-over-370m-tech-arm/",
       "published_at": "2026-08-15T10:00:00Z"
     },
     {
