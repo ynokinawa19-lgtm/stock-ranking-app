@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "Archion reports strong maiden Q1 results",
+      "publisher": "Just Auto",
+      "url": "https://www.just-auto.com/news/archion-reports-strong-maiden-q1-results/",
+      "published_at": "2026-08-24T09:15:35Z"
+    },
+    {
       "title": "Ferrari Stock Is Pulling Away From the Pack. Why It Could Rally 15%.",
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/articles/ferrari-stock-autos-technical-analysis-419640db?siteid=yhoof2&yptr=yahoo",
@@ -23,12 +29,6 @@
       "publisher": "Wards Auto",
       "url": "https://www.wardsauto.com/news/lg-energy-solution-starts-production-at-new-michigan-battery-factory/828383/",
       "published_at": "2026-08-21T10:50:00Z"
-    },
-    {
-      "title": "GM Ruled U.S. Auto Sales for 100 Years. Now Toyota Is Closing In.",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/autos/us-auto-sales-general-motors-toyota-5cf821e5?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-08-21T01:00:00Z"
     }
   ],
   "6758.T": [
@@ -65,37 +65,49 @@
   ],
   "9984.T": [
     {
+      "title": "A $30 Billion Reason Why Nvidia Stock In Focus",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/30-billion-reason-why-nvidia-123500863.html",
+      "published_at": "2026-08-24T12:35:00Z"
+    },
+    {
+      "title": "Tech Shares Decline, Pull Down Asian Stock Markets",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/tech-shares-decline-pull-down-104204294.html",
+      "published_at": "2026-08-24T10:42:04Z"
+    },
+    {
+      "title": "Stocks to Watch: Alibaba, Marvell Technology, Coinbase",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/stocks-to-watch-alibaba-marvell-technology-coinbase-z7UifElg34jmJFA3YwzG?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-08-24T09:30:57Z"
+    },
+    {
+      "title": "SoftBank Plans Record Retail Bond Issuance Amid AI Push",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/softbank-plans-record-retail-bond-issuance-amid-ai-push-b8ebd7b8?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-08-24T07:31:00Z"
+    },
+    {
       "title": "Intel (INTC) Stock Became 67% Of A Major Investor’s US Equity Portfolio",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-became-67-170734414.html",
       "published_at": "2026-08-20T17:07:34Z"
-    },
-    {
-      "title": "Masayoshi Son Has 67% of SoftBank's U.S. Stock Portfolio in Intel. He Didn't Buy a Single Share Last Quarter.",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/19/masayoshi-son-has-67-of-softbank-s-u-s-stock-portfolio-in-intel-he-didn-t-buy-a-single-share-last-quarter/",
-      "published_at": "2026-08-20T03:07:01Z"
-    },
-    {
-      "title": "SoftBank Lines Up Another $6.3 Billion for AI",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-lines-another-6-3-215224110.html",
-      "published_at": "2026-08-19T21:52:24Z"
-    },
-    {
-      "title": "New construction robots gain traction on jobsites",
-      "publisher": "Construction Dive",
-      "url": "https://www.constructiondive.com/news/construction-robotics-adoption-investment-nvidia-gravis-bedrock-field-ai/828294/",
-      "published_at": "2026-08-19T13:52:00Z"
-    },
-    {
-      "title": "Nvidia’s (NVDA) $105B Ohio Bet: Ecosystem Expansion or Strategic Circularity?",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-105b-ohio-bet-124755581.html",
-      "published_at": "2026-08-19T12:47:55Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "Canadian Dollar Faces Pressure, Downside Risks as US-Canada Trade Talks Collapse, Economists Say",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/canadian-dollar-faces-pressure-downside-122352962.html",
+      "published_at": "2026-08-24T12:23:52Z"
+    },
+    {
+      "title": "Aditya Birla Renewables secures $1.6bn MUFG loan for Sprng Energy deal",
+      "publisher": "Energy Monitor",
+      "url": "https://www.energymonitor.ai/news/aditya-birla-renewables-secures-mufg-loan/",
+      "published_at": "2026-08-24T11:11:18Z"
+    },
     {
       "title": "Gold Up 2% Amid Weaker Dollar, Falling Bond Yields",
       "publisher": "The Wall Street Journal",
@@ -113,18 +125,6 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/investing/global-government-bond-yields-hit-multiyear-highs-2b47888a?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-08-18T19:45:00Z"
-    },
-    {
-      "title": "Oil Above $90 As Hormuz Deal Prospects Dim",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/oil-above-90-as-hormuz-deal-prospects-dim-epglt3wq7cLRbD2zASW7?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-08-18T09:03:21Z"
-    },
-    {
-      "title": "What Is Drawing Fresh Attention To Mitsubishi UFJ Financial Group (TSE:8306)?",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/drawing-fresh-attention-mitsubishi-ufj-151304467.html",
-      "published_at": "2026-08-14T15:13:04Z"
     }
   ],
   "6501.T": [
