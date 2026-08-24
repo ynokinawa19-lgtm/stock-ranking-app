@@ -1,10 +1,10 @@
 {
   "AAPL": [
     {
-      "title": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada talks break down",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
-      "published_at": "2026-08-24T08:03:06Z"
+      "title": "What's at stake for Paramount, the Ellisons in Warner Bros. takeover bid",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/whats-stake-paramount-ellisons-warner-213000825.html",
+      "published_at": "2026-08-24T21:30:00Z"
     },
     {
       "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
@@ -13,22 +13,22 @@
       "published_at": "2026-08-24T13:57:25Z"
     },
     {
-      "title": "Stock Market Today: Dow Rises Ahead of 'Economic D-Day'; Micron, Sandisk Dive (Live Coverage)",
-      "publisher": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
-      "published_at": "2026-08-24T13:49:34Z"
-    },
-    {
-      "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/the-ai-opportunity-qualcomm-investors-may-be-underestimating/",
-      "published_at": "2026-08-24T13:30:01Z"
-    },
-    {
-      "title": "Netflix Has Changed What It Wants To Be Judged On",
+      "title": "Get Paid 12% A Year To Hold NFLX Stock You Already Own",
       "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/612591/netflix-has-changed-what-it-wants-to-be-judged-on/2026-08-24",
-      "published_at": "2026-08-24T13:27:43Z"
+      "url": "https://www.trefis.com/articles/612532/get-paid-12-a-year-to-hold-nflx-stock-you-already-own/2026-08-24",
+      "published_at": "2026-08-24T21:56:49Z"
+    },
+    {
+      "title": "Q2 Earnings Season Winds Down: 3 Companies That Broke Records",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-winds-down-210300828.html",
+      "published_at": "2026-08-24T21:03:00Z"
+    },
+    {
+      "title": "How to Find the Market's Long-Term Winners",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
+      "published_at": "2026-08-24T20:43:00Z"
     }
   ],
   "MSFT": [
@@ -39,95 +39,43 @@
       "published_at": "2026-08-23T11:25:02Z"
     },
     {
-      "title": "Buy These 3 Pure-Play Server Stocks to Benefit From AI Data Center Boom",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/buy-3-pure-play-server-140000913.html",
-      "published_at": "2026-08-24T14:00:00Z"
+      "title": "Nvidia customers face 15% AI price shock",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/investing/nvidia-customers-face-15-ai-price-shock",
+      "published_at": "2026-08-24T22:03:00Z"
     },
     {
-      "title": "Nvidia raising AI server prices more than 15% amid memory costs",
-      "publisher": "Quartz",
-      "url": "https://qz.com/nvidia-ai-server-price-hike-memory-chips-082426",
-      "published_at": "2026-08-24T13:15:47Z"
+      "title": "Microsoft Rises as $678 Billion Backlog Defies Tech Selloff",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-rises-678-billion-backlog-195022521.html",
+      "published_at": "2026-08-24T19:50:22Z"
     },
     {
-      "title": "Forget the S&P 500: Microsoft Remains One of the Best Stocks to Own",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/24/forget-the-sp-500-microsoft-remains-one-of-the-bes/",
-      "published_at": "2026-08-24T13:02:00Z"
+      "title": "Nvidia Makes Aggressive Move Ahead of Earnings",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-makes-aggressive-move-ahead-191307970.html",
+      "published_at": "2026-08-24T19:13:07Z"
     },
     {
-      "title": "Intuit Stock Nearly Halved While Its Operating Margin Kept Climbing",
-      "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/612585/intuit-stock-nearly-halved-while-its-operating-margin-kept-climbing/2026-08-24",
-      "published_at": "2026-08-24T12:53:18Z"
+      "title": "Forget CoreWeave — This Is the AI Stock You Should Instead Be Buying",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/24/forget-coreweave-this-is-the-ai-stock-you-should-instead-be-buying/",
+      "published_at": "2026-08-24T17:31:26Z"
     }
   ],
   "NVDA": [
     {
-      "title": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html",
-      "published_at": "2026-08-24T12:54:06Z"
-    },
-    {
-      "title": "Nvidia, software giants' earnings: What to watch the week of August 24th",
+      "title": "What's at stake for Paramount, the Ellisons in Warner Bros. takeover bid",
       "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/nvidia-software-giants-earnings-watch-120000803.html",
-      "published_at": "2026-08-24T12:00:00Z"
+      "url": "https://finance.yahoo.com/video/whats-stake-paramount-ellisons-warner-213000825.html",
+      "published_at": "2026-08-24T21:30:00Z"
     },
     {
-      "title": "S&P 500, Nasdaq slip as Iran tensions test markets in high-stakes week",
-      "publisher": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-nasdaq-futures-slip-markets-100932666.html",
-      "published_at": "2026-08-24T14:11:19Z"
-    },
-    {
-      "title": "CoreWeave Just Announced Fantastic News for Nvidia Stock Investors",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/24/coreweave-just-announced-fantastic-news-for-nvidia/",
-      "published_at": "2026-08-24T14:05:00Z"
-    },
-    {
-      "title": "Perplexity Deal Highlights a Pattern in Nvidia's AI Investments",
-      "publisher": "Benzinga Private Markets",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/08/61383040/nvidia-perplexity-investment-ai-strategy?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-      "published_at": "2026-08-24T14:02:51Z"
-    }
-  ],
-  "GOOGL": [
-    {
-      "title": "Nvidia's Q2 earnings to test resurgent AI trade",
+      "title": "Nvidia's valuation looks surprisingly cheap heading into earnings. Could it be an issue for the stock?",
       "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
-      "published_at": "2026-08-23T11:25:02Z"
+      "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-valuation-looks-surprisingly-cheap-heading-into-earnings-could-it-be-an-issue-for-the-stock-191738544.html",
+      "published_at": "2026-08-24T19:17:38Z"
     },
-    {
-      "title": "Buy These 3 Pure-Play Server Stocks to Benefit From AI Data Center Boom",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/buy-3-pure-play-server-140000913.html",
-      "published_at": "2026-08-24T14:00:00Z"
-    },
-    {
-      "title": "Tesla Cybercab to launch Sept. 3 as robotaxi bet ramps up",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/tesla-cybercab-to-launch-sept-3-as-robotaxi-bet-ramps-up-135557945.html",
-      "published_at": "2026-08-24T13:55:57Z"
-    },
-    {
-      "title": "Hugging Face reportedly in talks to be acquired for $13B",
-      "publisher": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hugging-face-reportedly-talks-acquired-134726387.html",
-      "published_at": "2026-08-24T13:47:26Z"
-    },
-    {
-      "title": "SGA Raised Its Bet on Alphabet (GOOG) as AI Demand Accelerates",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sga-raised-bet-alphabet-goog-133755704.html",
-      "published_at": "2026-08-24T13:37:55Z"
-    }
-  ],
-  "AMZN": [
     {
       "title": "Nvidia earnings may come down to guidance and Jensen Huang's confidence",
       "publisher": "Yahoo Finance Video",
@@ -141,22 +89,74 @@
       "published_at": "2026-08-23T11:25:02Z"
     },
     {
-      "title": "Buy These 3 Pure-Play Server Stocks to Benefit From AI Data Center Boom",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/buy-3-pure-play-server-140000913.html",
-      "published_at": "2026-08-24T14:00:00Z"
+      "title": "Fidelity Sells Two Funds With the Same Name and the Same Target Year. One Costs 5x More",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/24/fidelity-sells-two-funds-with-the-same-name-and-the-same-target-year-one-costs-5x-more/",
+      "published_at": "2026-08-24T22:25:39Z"
+    }
+  ],
+  "GOOGL": [
+    {
+      "title": "Tesla to launch Cybercabs in Austin starting Sept. 3",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/tesla-launch-cybercabs-austin-starting-205004873.html",
+      "published_at": "2026-08-24T20:50:04Z"
     },
     {
-      "title": "Tesla Cybercab to launch Sept. 3 as robotaxi bet ramps up",
+      "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
+      "publisher": "decrypt",
+      "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
+      "published_at": "2026-08-24T22:16:04Z"
+    },
+    {
+      "title": "Nvidia customers face 15% AI price shock",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/investing/nvidia-customers-face-15-ai-price-shock",
+      "published_at": "2026-08-24T22:03:00Z"
+    },
+    {
+      "title": "Google plans to move all Pixel manufacturing out of China by 2027: report",
+      "publisher": "Fox Business",
+      "url": "https://www.foxbusiness.com/markets/google-plans-move-all-pixel-manufacturing-out-china-2027",
+      "published_at": "2026-08-24T20:26:56Z"
+    },
+    {
+      "title": "Coinbase Enters the Tokenized Stock Wars",
+      "publisher": "Bankless",
+      "url": "https://www.bankless.com/read/coinbase-enters-the-tokenized-stock-wars",
+      "published_at": "2026-08-24T20:25:42Z"
+    }
+  ],
+  "AMZN": [
+    {
+      "title": "The luxury retail categories that consumers continue to spend the most on",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/luxury-retail-categories-consumers-continue-204500137.html",
+      "published_at": "2026-08-24T20:45:00Z"
+    },
+    {
+      "title": "Nvidia's Q2 earnings to test resurgent AI trade",
       "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/tesla-cybercab-to-launch-sept-3-as-robotaxi-bet-ramps-up-135557945.html",
-      "published_at": "2026-08-24T13:55:57Z"
+      "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
+      "published_at": "2026-08-23T11:25:02Z"
     },
     {
-      "title": "Netflix Has Changed What It Wants To Be Judged On",
+      "title": "Get Paid 12% A Year To Hold NFLX Stock You Already Own",
       "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/612591/netflix-has-changed-what-it-wants-to-be-judged-on/2026-08-24",
-      "published_at": "2026-08-24T13:27:43Z"
+      "url": "https://www.trefis.com/articles/612532/get-paid-12-a-year-to-hold-nflx-stock-you-already-own/2026-08-24",
+      "published_at": "2026-08-24T21:56:49Z"
+    },
+    {
+      "title": "Alibaba Dilutes Shares To Feed Its AI Spending Spree",
+      "publisher": "Moby",
+      "url": "https://app.moby.co/home/news/news-alibaba-dilutes-shares-to-feed-its-ai-spending-spree?utm_source=yahoo_finance&utm_medium=rss",
+      "published_at": "2026-08-24T21:30:26Z"
+    },
+    {
+      "title": "Amazon Has Been Lagging the S&P 500 in 2026. This Is the Only Reason I'd Need to Buy the Stock in August Without Hesitation.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/24/amazon-is-lagging-the-sp-500-in-2026-this-is-the-o/",
+      "published_at": "2026-08-24T20:25:00Z"
     }
   ],
   "META": [
@@ -173,30 +173,30 @@
       "published_at": "2026-08-23T11:25:02Z"
     },
     {
-      "title": "Buy These 3 Pure-Play Server Stocks to Benefit From AI Data Center Boom",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/buy-3-pure-play-server-140000913.html",
-      "published_at": "2026-08-24T14:00:00Z"
+      "title": "Alibaba Dilutes Shares To Feed Its AI Spending Spree",
+      "publisher": "Moby",
+      "url": "https://app.moby.co/home/news/news-alibaba-dilutes-shares-to-feed-its-ai-spending-spree?utm_source=yahoo_finance&utm_medium=rss",
+      "published_at": "2026-08-24T21:30:26Z"
     },
     {
-      "title": "Stock Markets Face Double Blow if Nvidia and the Fed Fail to Deliver",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-market-nvidia-fed-things-to-know-today-319b76a3?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-08-24T12:16:00Z"
+      "title": "Coinbase Enters the Tokenized Stock Wars",
+      "publisher": "Bankless",
+      "url": "https://www.bankless.com/read/coinbase-enters-the-tokenized-stock-wars",
+      "published_at": "2026-08-24T20:25:42Z"
     },
     {
-      "title": "Broadcom Rebounds as Wall Street Sees 25% AI Upside",
+      "title": "Meta Rises as Advertising Growth Beats AI Anxiety",
       "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-rebounds-wall-street-sees-120553781.html",
-      "published_at": "2026-08-24T12:05:53Z"
+      "url": "https://finance.yahoo.com/media-advertising/articles/meta-rises-advertising-growth-beats-195639349.html",
+      "published_at": "2026-08-24T19:56:39Z"
     }
   ],
   "TSLA": [
     {
-      "title": "Tesla Sets Cybercab Launch Event for September 3 but Prediction Markets Doubt It'll Impress",
-      "publisher": "Benzinga Prediction Markets",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61383370/tesla-cybercab-launch-30000-price?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-      "published_at": "2026-08-24T14:10:27Z"
+      "title": "Tesla to launch Cybercabs in Austin starting Sept. 3",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/tesla-launch-cybercabs-austin-starting-205004873.html",
+      "published_at": "2026-08-24T20:50:04Z"
     },
     {
       "title": "Tesla Cybercab to launch Sept. 3 as robotaxi bet ramps up",
@@ -205,118 +205,118 @@
       "published_at": "2026-08-24T13:55:57Z"
     },
     {
-      "title": "Cathie Wood's ARK Goes On $27 Million SpaceX Shopping Spree",
-      "publisher": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/cathie-wood-spacex-tesla-ark-invest-etf/?src=A00220&yptr=yahoo",
-      "published_at": "2026-08-24T13:16:17Z"
-    },
-    {
-      "title": "XPeng Stock Drops on Disappointing Earnings. It Continues to Chase Tesla.",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/xpeng-earnings-stock-price-89965a7e?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-08-24T12:03:00Z"
-    },
-    {
-      "title": "Amazon Could Be Worth More Than Tesla and SpaceX Combined by 2030. Here's the Math.",
+      "title": "Tesla and Other Electric Vehicle Companies Begin Massive China Recall",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/24/amazon-could-be-worth-more-than-tesla-and-spacex-c/",
-      "published_at": "2026-08-24T11:37:00Z"
+      "url": "https://www.fool.com/investing/2026/08/24/tesla-and-other-electric-vehicle-companies-begin-massive-china-recall/",
+      "published_at": "2026-08-24T21:54:01Z"
+    },
+    {
+      "title": "How to Find the Market's Long-Term Winners",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
+      "published_at": "2026-08-24T20:43:00Z"
+    },
+    {
+      "title": "Marvell, Micron, SpaceX, XPeng, Tesla, Moderna, and More Stocks That Explain Today’s Market",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-movers-a25cb190?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-08-24T20:37:00Z"
     }
   ],
   "AVGO": [
     {
-      "title": "Broadcom’s $60 Billion AI Debt Deal Hides a $370 Billion Question Nobody on Wall Street Wants to Answer",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/broadcoms-60-billion-ai-debt-deal-hides-a-370-billion-question-nobody-on-wall-street-wants-to-answer/",
-      "published_at": "2026-08-24T13:59:48Z"
+      "title": "S&P 500, Nasdaq End Lower On Chipmaker Weakness, While Traders Position For Nvidia Earnings This Week — AVGO, INTC, BE, NVDA, PSKY In Focus",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-on-chipmaker-weakness/cZYKu7wRJFn",
+      "published_at": "2026-08-24T21:52:14Z"
     },
     {
-      "title": "NVIDIA Stock Can Fall By A Third Or Rise By Half And Still Be Normal",
+      "title": "After Its Recent Stumble, Is Broadcom Stock An Opportunity Or A Trap?",
       "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/612592/nvidia-stock-can-fall-by-a-third-or-rise-by-half-and-still-be-normal/2026-08-24",
-      "published_at": "2026-08-24T13:57:59Z"
+      "url": "https://www.trefis.com/articles/612526/after-its-recent-stumble-is-broadcom-stock-an-opportunity-or-a-trap/2026-08-24",
+      "published_at": "2026-08-24T21:34:57Z"
     },
     {
-      "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/the-ai-opportunity-qualcomm-investors-may-be-underestimating/",
-      "published_at": "2026-08-24T13:30:01Z"
+      "title": "Marvell Technology Stock More Than Tripled On A Roadmap It Had Been Publishing All Along",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/612589/marvell-technology-stock-more-than-tripled-on-a-roadmap-it-had-been-publishing-all-along/2026-08-24",
+      "published_at": "2026-08-24T21:11:52Z"
     },
     {
-      "title": "Company News for Aug 24, 2026",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-aug-24-2026-132900431.html",
-      "published_at": "2026-08-24T13:29:00Z"
+      "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
+      "publisher": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-down-204939190.html",
+      "published_at": "2026-08-24T20:49:39Z"
     },
     {
-      "title": "The Big Difference Between Broadcom and Marvell Technology",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/the-big-difference-between-broadcom-and-marvell-technology/",
-      "published_at": "2026-08-24T13:05:18Z"
+      "title": "AVGO Stock Slips Nearly 3% — Broadcom’s AI Spending Is Pushing Credit Risks Higher",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-slips-nearly-3-broadcom-s-ai-spending-is-pushing-credit-risks-higher/cZYKsgwRJFN",
+      "published_at": "2026-08-24T20:42:40Z"
     }
   ],
   "AMD": [
     {
-      "title": "NVIDIA Stock Can Fall By A Third Or Rise By Half And Still Be Normal",
+      "title": "How investors should approach Nvidia’s earnings",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/investors-approach-nvidia-earnings-145600454.html",
+      "published_at": "2026-08-24T14:56:00Z"
+    },
+    {
+      "title": "What You Actually Pay To Join The MU Run",
       "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/612592/nvidia-stock-can-fall-by-a-third-or-rise-by-half-and-still-be-normal/2026-08-24",
-      "published_at": "2026-08-24T13:57:59Z"
+      "url": "https://www.trefis.com/articles/612528/what-you-actually-pay-to-join-the-mu-run-2/2026-08-24",
+      "published_at": "2026-08-24T21:45:30Z"
     },
     {
-      "title": "Can AMD (AMD) Win From the Shift Toward More CPU-Heavy AI Data Centers?",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/articles/amd-amd-win-shift-toward-131307134.html",
-      "published_at": "2026-08-24T13:13:07Z"
+      "title": "After Its Recent Stumble, Is Broadcom Stock An Opportunity Or A Trap?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/612526/after-its-recent-stumble-is-broadcom-stock-an-opportunity-or-a-trap/2026-08-24",
+      "published_at": "2026-08-24T21:34:57Z"
     },
     {
-      "title": "JPMorgan’s Berro Says Bond Market Can Handle High-Grade Stampede",
-      "publisher": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/articles/jpmorgan-berro-says-bond-market-131028834.html",
-      "published_at": "2026-08-24T13:10:28Z"
+      "title": "Marvell Technology Stock More Than Tripled On A Roadmap It Had Been Publishing All Along",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/612589/marvell-technology-stock-more-than-tripled-on-a-roadmap-it-had-been-publishing-all-along/2026-08-24",
+      "published_at": "2026-08-24T21:11:52Z"
     },
     {
-      "title": "The EnerSys highlighted as Zacks Bull and AECOM Bear of the Day",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/enersys-highlighted-zacks-bull-aecom-130900852.html",
-      "published_at": "2026-08-24T13:09:00Z"
-    },
-    {
-      "title": "AMD Stock Gets Stunning Price Target From Wall Street",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-gets-stunning-price-124347643.html",
-      "published_at": "2026-08-24T12:43:47Z"
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-72f73701?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-08-24T20:58:00Z"
     }
   ],
   "NFLX": [
     {
-      "title": "Is Netflix (NFLX) a Buying Opportunity After Its Sharp Selloff?",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-buying-opportunity-sharp-135013365.html",
-      "published_at": "2026-08-24T13:50:13Z"
+      "title": "What's at stake for Paramount, the Ellisons in Warner Bros. takeover bid",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/whats-stake-paramount-ellisons-warner-213000825.html",
+      "published_at": "2026-08-24T21:30:00Z"
     },
     {
-      "title": "Netflix Has Changed What It Wants To Be Judged On",
+      "title": "Get Paid 12% A Year To Hold NFLX Stock You Already Own",
       "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/612591/netflix-has-changed-what-it-wants-to-be-judged-on/2026-08-24",
-      "published_at": "2026-08-24T13:27:43Z"
+      "url": "https://www.trefis.com/articles/612532/get-paid-12-a-year-to-hold-nflx-stock-you-already-own/2026-08-24",
+      "published_at": "2026-08-24T21:56:49Z"
     },
     {
-      "title": "Is Netflix (NFLX) Facing a Growth Slowdown After Its Strong First Quarter?",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-facing-growth-slowdown-121811891.html",
-      "published_at": "2026-08-24T12:18:11Z"
+      "title": "Netflix May Be Ready to Do Something It Long Resisted",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/media-advertising/articles/netflix-may-ready-something-long-182835520.html",
+      "published_at": "2026-08-24T18:28:35Z"
     },
     {
-      "title": "Streaming Scale and Global Base Power Netflix’s (NFLX) Next Phase of Monetization",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/media-advertising/articles/streaming-scale-global-power-netflix-120428736.html",
-      "published_at": "2026-08-24T12:04:28Z"
+      "title": "YouTube Could Spark a Creator Bidding War That Hurts Netflix Stock",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/netflix-stock-youtube-creators-content-costs-f2cb9ceb?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-08-24T17:36:00Z"
     },
     {
-      "title": "Does Billionaire Bill Ackman Know Something Wall Street Doesn’t? He Invested in These 2 Stocks That Have Dropped 33% and 18% Over the Past Year",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/does-billionaire-bill-ackman-know-something-wall-street-doesn-t-he-invested-in-these-2-stocks-that-have-dropped-33-and-18-over-the-past-year/",
-      "published_at": "2026-08-23T21:35:01Z"
+      "title": "Is Netflix (NFLX) Trading At A Discount Despite Strong Cash Flow?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-trading-discount-despite-160951664.html",
+      "published_at": "2026-08-24T16:09:51Z"
     }
   ],
   "CRM": [
@@ -327,31 +327,37 @@
       "published_at": "2026-08-24T12:00:00Z"
     },
     {
-      "title": "Is Salesforce (CRM) an Undervalued AI Opportunity Despite Slower Growth?",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-undervalued-ai-opportunity-135316356.html",
-      "published_at": "2026-08-24T13:53:16Z"
+      "title": "NVIDIA and 4 Other Spectacular Earnings Charts You Must See",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-4-other-spectacular-earnings-220900555.html",
+      "published_at": "2026-08-24T22:09:00Z"
     },
     {
-      "title": "Investors May Want To Own Workday Before August 27th",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/investors-may-want-to-own-workday-before-august-27th/",
-      "published_at": "2026-08-24T12:42:21Z"
-    },
-    {
-      "title": "Stocks Down Pre-Bell as Investors Await Key Inflation Data, Warsh Speech, Nvidia Earnings",
+      "title": "Update: Nasdaq, S&P 500 Fall as New Sanctions Plan Targets Iran's Trading Partners",
       "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-down-pre-bell-investors-120804980.html",
-      "published_at": "2026-08-24T12:08:04Z"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-sanctions-204112044.html",
+      "published_at": "2026-08-24T20:41:12Z"
     },
     {
-      "title": "US Equity Investors to Focus on Nvidia's Earnings, Chair Warsh's Jackson Hole Speech, PCE Inflation This Week",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-nvidia-102436982.html",
-      "published_at": "2026-08-24T10:24:36Z"
+      "title": "Nasdaq Drops as Market Bets Against AI Ahead of Nvidia Earnings",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-082426/card/nasdaq-drops-as-market-bets-against-ai-ahead-of-nvidia-earnings-1c8AmVjODQJZdfYpGda4?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-08-24T20:01:35Z"
+    },
+    {
+      "title": "Nvidia-Backed Hugging Face Could Fetch $13 Billion in a Sale",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-hugging-face-could-182628890.html",
+      "published_at": "2026-08-24T18:26:28Z"
     }
   ],
   "ORCL": [
+    {
+      "title": "What's at stake for Paramount, the Ellisons in Warner Bros. takeover bid",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/whats-stake-paramount-ellisons-warner-213000825.html",
+      "published_at": "2026-08-24T21:30:00Z"
+    },
     {
       "title": "Nvidia earnings may come down to guidance and Jensen Huang's confidence",
       "publisher": "Yahoo Finance Video",
@@ -359,31 +365,43 @@
       "published_at": "2026-08-24T14:00:00Z"
     },
     {
-      "title": "Nvidia raising AI server prices more than 15% amid memory costs",
-      "publisher": "Quartz",
-      "url": "https://qz.com/nvidia-ai-server-price-hike-memory-chips-082426",
-      "published_at": "2026-08-24T13:15:47Z"
+      "title": "Nvidia customers face 15% AI price shock",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/investing/nvidia-customers-face-15-ai-price-shock",
+      "published_at": "2026-08-24T22:03:00Z"
     },
     {
-      "title": "Intuit Stock Nearly Halved While Its Operating Margin Kept Climbing",
-      "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/612585/intuit-stock-nearly-halved-while-its-operating-margin-kept-climbing/2026-08-24",
-      "published_at": "2026-08-24T12:53:18Z"
+      "title": "Is Nvidia (NVDA) Stock a Buy Ahead of Q2 Earnings?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-buy-ahead-215800263.html",
+      "published_at": "2026-08-24T21:58:00Z"
     },
     {
-      "title": "Investors May Want To Own Workday Before August 27th",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/investors-may-want-to-own-workday-before-august-27th/",
-      "published_at": "2026-08-24T12:42:21Z"
-    },
-    {
-      "title": "Oracle vs. Amazon: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/oracle-vs-amazon-which-is-the-better-ai-cloud-stoc/",
-      "published_at": "2026-08-23T20:13:00Z"
+      "title": "Oracle (ORCL) Declines More Than Market: Some Information for Investors",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-declines-more-market-214502575.html",
+      "published_at": "2026-08-24T21:45:02Z"
     }
   ],
   "ADBE": [
+    {
+      "title": "Adobe Rises 16% in a Month: Should You Buy, Sell or Hold the Stock?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-rises-16-month-buy-170300387.html",
+      "published_at": "2026-08-24T17:03:00Z"
+    },
+    {
+      "title": "Adobe (ADBE) Stock May Be Below Fair Value After Record Revenue",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-stock-may-below-160956915.html",
+      "published_at": "2026-08-24T16:09:56Z"
+    },
+    {
+      "title": "2 Nasdaq 100 Stocks to Research Further and 1 Facing Challenges",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-nasdaq-100-stocks-research-144136091.html",
+      "published_at": "2026-08-24T14:41:36Z"
+    },
     {
       "title": "Is Adobe (ADBE) Losing Its Edge Despite Strong AI Adoption?",
       "publisher": "Insider Monkey",
@@ -395,27 +413,27 @@
       "publisher": "Motley Fool",
       "url": "https://www.fool.com/coverage/charts/2026/08/24/apple-vs-adobe-seasonal-peaks-vs-steady-growth-in-revenue/",
       "published_at": "2026-08-24T12:20:01Z"
-    },
-    {
-      "title": "Adobe Stock Looks Cheap for a Reason. Here’s Why I’m Buying.",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/22/adobe-stock-looks-cheap-for-a-reason-heres-why-im-buying/",
-      "published_at": "2026-08-22T16:10:40Z"
-    },
-    {
-      "title": "Stocks making big moves this week: Bally's, Adobe, Novavax, Semtech, and STAAR Surgical",
-      "publisher": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-075339221.html",
-      "published_at": "2026-08-22T07:53:39Z"
-    },
-    {
-      "title": "Adobe Systems (ADBE) Outpaces Stock Market Gains: What You Should Know",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-outpaces-stock-214502597.html",
-      "published_at": "2026-08-21T21:45:02Z"
     }
   ],
   "COST": [
+    {
+      "title": "Coca-Cola Just Won a Key Consumer Battle",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-just-won-key-175756255.html",
+      "published_at": "2026-08-24T17:57:56Z"
+    },
+    {
+      "title": "Costco fights customer’s tariff suit as refunds flow in",
+      "publisher": "CFO Dive",
+      "url": "https://www.cfodive.com/news/costco-fights-customers-tariff-suit-refunds-flow/828644/",
+      "published_at": "2026-08-24T15:51:45Z"
+    },
+    {
+      "title": "Will Costco's AI Search Growth Become a Meaningful Sales Catalyst?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/costcos-ai-search-growth-become-153700298.html",
+      "published_at": "2026-08-24T15:37:00Z"
+    },
     {
       "title": "Michael Burry Says LULU Stock Is ‘Screaming Cheap’ While Apple Shares Are ‘Permacostly’ Like Costco",
       "publisher": "Stocktwits",
@@ -427,56 +445,38 @@
       "publisher": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/23/the-ultimate-growth-stock-to-buy-with-10000-right/",
       "published_at": "2026-08-23T09:40:00Z"
-    },
-    {
-      "title": "Target Stock Has Been Crushed. Here’s Why I’m Not Giving Up on It.",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/22/target-stock-has-been-crushed-heres-why-im-not-giving-up-on-it/",
-      "published_at": "2026-08-22T14:30:11Z"
-    },
-    {
-      "title": "Is Costco Wholesale (COST) Fully Valued On Its New Medicare Push?",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/healthcare/articles/costco-wholesale-cost-fully-valued-231122544.html",
-      "published_at": "2026-08-21T23:11:22Z"
-    },
-    {
-      "title": "The Toughest Questions HD Faced On Its Latest Call",
-      "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/612368/the-toughest-questions-hd-faced-on-its-latest-call/2026-08-21",
-      "published_at": "2026-08-21T21:34:57Z"
     }
   ],
   "JPM": [
     {
-      "title": "JPMorgan’s Berro Says Bond Market Can Handle High-Grade Stampede",
-      "publisher": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/articles/jpmorgan-berro-says-bond-market-131028834.html",
-      "published_at": "2026-08-24T13:10:28Z"
+      "title": "What Could JPMorgan Chase (JPM) Lawsuits Mean For Future M And A Deals?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-jpmorgan-chase-jpm-lawsuits-201010465.html",
+      "published_at": "2026-08-24T20:10:10Z"
     },
     {
-      "title": "Morgan Stanley’s Bobby Singh: Why We Are Exploring an International Wealth Push",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/advisor/articles/morgan-stanley-international-wealth-management-bobby-singh-98f01cd7?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-08-24T12:30:00Z"
+      "title": "JPMorgan Jumps as Banks Power the Dow Higher",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-jumps-banks-power-dow-195636057.html",
+      "published_at": "2026-08-24T19:56:36Z"
     },
     {
-      "title": "JP Morgan Warns of Fall Sell-Off Potential: 5 Defensive Dividend Stocks to Buy",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/jpmorgan-warns-of-fall-sell-off-potential-5-defensive-dividend-stocks-to-buy/",
-      "published_at": "2026-08-24T12:20:53Z"
+      "title": "EverQuote (EVER) Shares Skyrocket, What You Need To Know",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/everquote-ever-shares-skyrocket-know-192136823.html",
+      "published_at": "2026-08-24T19:21:36Z"
     },
     {
-      "title": "JPMorgan's Card Credit Trends Improve: Are Losses Past Their Peak?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgans-card-credit-trends-improve-121800875.html",
-      "published_at": "2026-08-24T12:18:00Z"
+      "title": "Market Chatter: JPMorgan, Morgan Stanley Sued Over Role in Multibillion-Dollar Buyout Deals",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-jpmorgan-morgan-stanley-185327224.html",
+      "published_at": "2026-08-24T18:53:27Z"
     },
     {
-      "title": "JPMorgan stays constructive on stocks, expects a grind higher with rotation",
-      "publisher": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stays-constructive-stocks-expects-105737644.html",
-      "published_at": "2026-08-24T10:57:37Z"
+      "title": "JPMorgan sends stark warning on AI stocks, cites dotcom worries",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/investing/jpmorgan-ai-stocks-dotcom-bubble-warning",
+      "published_at": "2026-08-24T18:03:00Z"
     }
   ]
 }
