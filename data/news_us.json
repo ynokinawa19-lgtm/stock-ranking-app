@@ -13,6 +13,12 @@
       "published_at": "2026-08-24T13:57:25Z"
     },
     {
+      "title": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased",
+      "publisher": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-snapped-spacex-shares-11-033507082.html",
+      "published_at": "2026-08-25T03:35:07Z"
+    },
+    {
       "title": "Get Paid 12% A Year To Hold NFLX Stock You Already Own",
       "publisher": "Trefis",
       "url": "https://www.trefis.com/articles/612532/get-paid-12-a-year-to-hold-nflx-stock-you-already-own/2026-08-24",
@@ -23,12 +29,6 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-season-winds-down-210300828.html",
       "published_at": "2026-08-24T21:03:00Z"
-    },
-    {
-      "title": "How to Find the Market's Long-Term Winners",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
-      "published_at": "2026-08-24T20:43:00Z"
     }
   ],
   "MSFT": [
@@ -37,6 +37,18 @@
       "publisher": "Yahoo Finance",
       "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html",
       "published_at": "2026-08-23T11:25:02Z"
+    },
+    {
+      "title": "Alibaba’s $10.2 billion AI bet could reach far beyond investors",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/investing/alibaba-10-billion-ai-bet-could-reach-far-beyond-investors",
+      "published_at": "2026-08-25T00:03:00Z"
+    },
+    {
+      "title": "Is Meta Stock Actually the Cheapest Mega-Cap Tech Bet?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/612529/is-meta-stock-actually-the-cheapest-mega-cap-tech-bet/2026-08-24",
+      "published_at": "2026-08-24T23:28:39Z"
     },
     {
       "title": "Nvidia customers face 15% AI price shock",
@@ -49,18 +61,6 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-rises-678-billion-backlog-195022521.html",
       "published_at": "2026-08-24T19:50:22Z"
-    },
-    {
-      "title": "Nvidia Makes Aggressive Move Ahead of Earnings",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-makes-aggressive-move-ahead-191307970.html",
-      "published_at": "2026-08-24T19:13:07Z"
-    },
-    {
-      "title": "Forget CoreWeave — This Is the AI Stock You Should Instead Be Buying",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/forget-coreweave-this-is-the-ai-stock-you-should-instead-be-buying/",
-      "published_at": "2026-08-24T17:31:26Z"
     }
   ],
   "NVDA": [
@@ -89,10 +89,10 @@
       "published_at": "2026-08-23T11:25:02Z"
     },
     {
-      "title": "Fidelity Sells Two Funds With the Same Name and the Same Target Year. One Costs 5x More",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/08/24/fidelity-sells-two-funds-with-the-same-name-and-the-same-target-year-one-costs-5x-more/",
-      "published_at": "2026-08-24T22:25:39Z"
+      "title": "Morning Bid: Waiting on Nvidia for next leg of AI rally",
+      "publisher": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/morning-bid-waiting-nvidia-next-044130117.html",
+      "published_at": "2026-08-25T04:41:30Z"
     }
   ],
   "GOOGL": [
@@ -103,28 +103,28 @@
       "published_at": "2026-08-24T20:50:04Z"
     },
     {
-      "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
-      "publisher": "decrypt",
-      "url": "https://decrypt.co/376415/hugging-face-13-billion-sale-month-after-openai-hack",
-      "published_at": "2026-08-24T22:16:04Z"
+      "title": "Alibaba Is Selling $10.2 Billion of Stock to Fund AI. Alphabet and Intel Went First.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/24/alibaba-is-selling-usd10-2-billion-of-stock-to-fund-ai-alphabet-and-intel-went-first/",
+      "published_at": "2026-08-25T03:58:01Z"
     },
     {
-      "title": "Nvidia customers face 15% AI price shock",
+      "title": "Big Investors Admit Bitcoin Rally Signals Capital Fleeing an Overheated AI Trade",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/bitcoin-rally-ai-trade-rotation/",
+      "published_at": "2026-08-25T03:05:00Z"
+    },
+    {
+      "title": "Alphabet (GOOGL) Is Moving Local Services Ads Into Google Ads",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/media-advertising/articles/alphabet-googl-moving-local-services-001605720.html",
+      "published_at": "2026-08-25T00:16:05Z"
+    },
+    {
+      "title": "Alibaba’s $10.2 billion AI bet could reach far beyond investors",
       "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/investing/nvidia-customers-face-15-ai-price-shock",
-      "published_at": "2026-08-24T22:03:00Z"
-    },
-    {
-      "title": "Google plans to move all Pixel manufacturing out of China by 2027: report",
-      "publisher": "Fox Business",
-      "url": "https://www.foxbusiness.com/markets/google-plans-move-all-pixel-manufacturing-out-china-2027",
-      "published_at": "2026-08-24T20:26:56Z"
-    },
-    {
-      "title": "Coinbase Enters the Tokenized Stock Wars",
-      "publisher": "Bankless",
-      "url": "https://www.bankless.com/read/coinbase-enters-the-tokenized-stock-wars",
-      "published_at": "2026-08-24T20:25:42Z"
+      "url": "https://www.thestreet.com/investing/alibaba-10-billion-ai-bet-could-reach-far-beyond-investors",
+      "published_at": "2026-08-25T00:03:00Z"
     }
   ],
   "AMZN": [
@@ -141,22 +141,22 @@
       "published_at": "2026-08-23T11:25:02Z"
     },
     {
-      "title": "Get Paid 12% A Year To Hold NFLX Stock You Already Own",
+      "title": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased",
+      "publisher": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-snapped-spacex-shares-11-033507082.html",
+      "published_at": "2026-08-25T03:35:07Z"
+    },
+    {
+      "title": "The Premium On WMT Stock Vs What Its Peers Deliver",
       "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/612532/get-paid-12-a-year-to-hold-nflx-stock-you-already-own/2026-08-24",
-      "published_at": "2026-08-24T21:56:49Z"
+      "url": "https://www.trefis.com/articles/612536/the-premium-on-wmt-stock-vs-what-its-peers-deliver/2026-08-24",
+      "published_at": "2026-08-25T02:16:26Z"
     },
     {
-      "title": "Alibaba Dilutes Shares To Feed Its AI Spending Spree",
-      "publisher": "Moby",
-      "url": "https://app.moby.co/home/news/news-alibaba-dilutes-shares-to-feed-its-ai-spending-spree?utm_source=yahoo_finance&utm_medium=rss",
-      "published_at": "2026-08-24T21:30:26Z"
-    },
-    {
-      "title": "Amazon Has Been Lagging the S&P 500 in 2026. This Is the Only Reason I'd Need to Buy the Stock in August Without Hesitation.",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/24/amazon-is-lagging-the-sp-500-in-2026-this-is-the-o/",
-      "published_at": "2026-08-24T20:25:00Z"
+      "title": "Alibaba’s $10.2 billion AI bet could reach far beyond investors",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/investing/alibaba-10-billion-ai-bet-could-reach-far-beyond-investors",
+      "published_at": "2026-08-25T00:03:00Z"
     }
   ],
   "META": [
@@ -173,22 +173,22 @@
       "published_at": "2026-08-23T11:25:02Z"
     },
     {
-      "title": "Alibaba Dilutes Shares To Feed Its AI Spending Spree",
-      "publisher": "Moby",
-      "url": "https://app.moby.co/home/news/news-alibaba-dilutes-shares-to-feed-its-ai-spending-spree?utm_source=yahoo_finance&utm_medium=rss",
-      "published_at": "2026-08-24T21:30:26Z"
+      "title": "AMD Is Winning Nvidia (NVDA) Customers But Investors May Be Missing The Catch",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-winning-nvidia-nvda-customers-043310331.html",
+      "published_at": "2026-08-25T04:33:10Z"
     },
     {
-      "title": "Coinbase Enters the Tokenized Stock Wars",
-      "publisher": "Bankless",
-      "url": "https://www.bankless.com/read/coinbase-enters-the-tokenized-stock-wars",
-      "published_at": "2026-08-24T20:25:42Z"
+      "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More than SpaceX Before 2026 is Over",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/24/prediction-this-artificial-intelligence-ai-stock-w/",
+      "published_at": "2026-08-25T01:35:00Z"
     },
     {
-      "title": "Meta Rises as Advertising Growth Beats AI Anxiety",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/media-advertising/articles/meta-rises-advertising-growth-beats-195639349.html",
-      "published_at": "2026-08-24T19:56:39Z"
+      "title": "Is Meta Stock Actually the Cheapest Mega-Cap Tech Bet?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/612529/is-meta-stock-actually-the-cheapest-mega-cap-tech-bet/2026-08-24",
+      "published_at": "2026-08-24T23:28:39Z"
     }
   ],
   "TSLA": [
@@ -205,6 +205,12 @@
       "published_at": "2026-08-24T13:55:57Z"
     },
     {
+      "title": "Tesla (TSLA)’s Solar Roof Shutdown Raises Questions About its Energy Ambitions",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/energy/articles/tesla-tsla-solar-roof-shutdown-014101772.html",
+      "published_at": "2026-08-25T01:41:01Z"
+    },
+    {
       "title": "Tesla and Other Electric Vehicle Companies Begin Massive China Recall",
       "publisher": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/24/tesla-and-other-electric-vehicle-companies-begin-massive-china-recall/",
@@ -215,15 +221,27 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/markets-long-term-winners-204300721.html",
       "published_at": "2026-08-24T20:43:00Z"
-    },
-    {
-      "title": "Marvell, Micron, SpaceX, XPeng, Tesla, Moderna, and More Stocks That Explain Today’s Market",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-a25cb190?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-08-24T20:37:00Z"
     }
   ],
   "AVGO": [
+    {
+      "title": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased",
+      "publisher": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-snapped-spacex-shares-11-033507082.html",
+      "published_at": "2026-08-25T03:35:07Z"
+    },
+    {
+      "title": "Berkshire Hathaway Rose While Every Major Chip Stock Fell Monday",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/24/berkshire-hathaway-rose-while-every-major-chip-stock-fell-monday/",
+      "published_at": "2026-08-25T01:07:01Z"
+    },
+    {
+      "title": "Reading Between The Lines Of ADI's Latest Call",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/612549/reading-between-the-lines-of-adis-latest-call/2026-08-24",
+      "published_at": "2026-08-25T00:11:46Z"
+    },
     {
       "title": "S&P 500, Nasdaq End Lower On Chipmaker Weakness, While Traders Position For Nvidia Earnings This Week — AVGO, INTC, BE, NVDA, PSKY In Focus",
       "publisher": "Stocktwits",
@@ -235,24 +253,6 @@
       "publisher": "Trefis",
       "url": "https://www.trefis.com/articles/612526/after-its-recent-stumble-is-broadcom-stock-an-opportunity-or-a-trap/2026-08-24",
       "published_at": "2026-08-24T21:34:57Z"
-    },
-    {
-      "title": "Marvell Technology Stock More Than Tripled On A Roadmap It Had Been Publishing All Along",
-      "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/612589/marvell-technology-stock-more-than-tripled-on-a-roadmap-it-had-been-publishing-all-along/2026-08-24",
-      "published_at": "2026-08-24T21:11:52Z"
-    },
-    {
-      "title": "S&P 500, Nasdaq end down on tech stocks, investors weigh Iran moves",
-      "publisher": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-end-down-204939190.html",
-      "published_at": "2026-08-24T20:49:39Z"
-    },
-    {
-      "title": "AVGO Stock Slips Nearly 3% — Broadcom’s AI Spending Is Pushing Credit Risks Higher",
-      "publisher": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/avgo-stock-slips-nearly-3-broadcom-s-ai-spending-is-pushing-credit-risks-higher/cZYKsgwRJFN",
-      "published_at": "2026-08-24T20:42:40Z"
     }
   ],
   "AMD": [
@@ -261,6 +261,18 @@
       "publisher": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/investors-approach-nvidia-earnings-145600454.html",
       "published_at": "2026-08-24T14:56:00Z"
+    },
+    {
+      "title": "AMD Is Winning Nvidia (NVDA) Customers But Investors May Be Missing The Catch",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-winning-nvidia-nvda-customers-043310331.html",
+      "published_at": "2026-08-25T04:33:10Z"
+    },
+    {
+      "title": "Berkshire Hathaway Rose While Every Major Chip Stock Fell Monday",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/08/24/berkshire-hathaway-rose-while-every-major-chip-stock-fell-monday/",
+      "published_at": "2026-08-25T01:07:01Z"
     },
     {
       "title": "What You Actually Pay To Join The MU Run",
@@ -273,18 +285,6 @@
       "publisher": "Trefis",
       "url": "https://www.trefis.com/articles/612526/after-its-recent-stumble-is-broadcom-stock-an-opportunity-or-a-trap/2026-08-24",
       "published_at": "2026-08-24T21:34:57Z"
-    },
-    {
-      "title": "Marvell Technology Stock More Than Tripled On A Roadmap It Had Been Publishing All Along",
-      "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/612589/marvell-technology-stock-more-than-tripled-on-a-roadmap-it-had-been-publishing-all-along/2026-08-24",
-      "published_at": "2026-08-24T21:11:52Z"
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-72f73701?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-08-24T20:58:00Z"
     }
   ],
   "NFLX": [
@@ -327,6 +327,12 @@
       "published_at": "2026-08-24T12:00:00Z"
     },
     {
+      "title": "Salesforce vs. CrowdStrike: Which Growth Tech Stock Is a Better Investment in 2026?",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/coverage/better-buy/2026/08/24/salesforce-vs-crowdstrike-which-growth-tech-stock-is-a-better-investment-in-2026/",
+      "published_at": "2026-08-24T23:03:34Z"
+    },
+    {
       "title": "NVIDIA and 4 Other Spectacular Earnings Charts You Must See",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-4-other-spectacular-earnings-220900555.html",
@@ -343,12 +349,6 @@
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/livecoverage/stock-market-news-today-082426/card/nasdaq-drops-as-market-bets-against-ai-ahead-of-nvidia-earnings-1c8AmVjODQJZdfYpGda4?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-08-24T20:01:35Z"
-    },
-    {
-      "title": "Nvidia-Backed Hugging Face Could Fetch $13 Billion in a Sale",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-hugging-face-could-182628890.html",
-      "published_at": "2026-08-24T18:26:28Z"
     }
   ],
   "ORCL": [
@@ -385,6 +385,12 @@
   ],
   "ADBE": [
     {
+      "title": "Bank of America raises price targets on 10 software stocks",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/investing/bank-of-america-raises-price-targets-10-software-stocks",
+      "published_at": "2026-08-25T01:17:00Z"
+    },
+    {
       "title": "Adobe Rises 16% in a Month: Should You Buy, Sell or Hold the Stock?",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-rises-16-month-buy-170300387.html",
@@ -407,15 +413,15 @@
       "publisher": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-losing-edge-despite-123249439.html",
       "published_at": "2026-08-24T12:32:49Z"
-    },
-    {
-      "title": "Apple vs. Adobe: Seasonal Peaks vs. Steady Growth in Revenue",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/coverage/charts/2026/08/24/apple-vs-adobe-seasonal-peaks-vs-steady-growth-in-revenue/",
-      "published_at": "2026-08-24T12:20:01Z"
     }
   ],
   "COST": [
+    {
+      "title": "The Premium On WMT Stock Vs What Its Peers Deliver",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/612536/the-premium-on-wmt-stock-vs-what-its-peers-deliver/2026-08-24",
+      "published_at": "2026-08-25T02:16:26Z"
+    },
     {
       "title": "Coca-Cola Just Won a Key Consumer Battle",
       "publisher": "GuruFocus.com",
@@ -439,15 +445,15 @@
       "publisher": "Stocktwits",
       "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-says-lulu-stock-is-screaming-cheap-while-apple-shares-are-permacostly-like-costco/cZYKXPVRJn8",
       "published_at": "2026-08-24T10:32:26Z"
-    },
-    {
-      "title": "The Ultimate Growth Stock to Buy With $10,000 Right Now",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/08/23/the-ultimate-growth-stock-to-buy-with-10000-right/",
-      "published_at": "2026-08-23T09:40:00Z"
     }
   ],
   "JPM": [
+    {
+      "title": "Big Banks Commit Billions to Boost US Housing Supply",
+      "publisher": "CRE Daily",
+      "url": "https://www.credaily.com/briefs/big-banks-commit-billions-to-boost-us-housing-supply/",
+      "published_at": "2026-08-25T04:06:21Z"
+    },
     {
       "title": "What Could JPMorgan Chase (JPM) Lawsuits Mean For Future M And A Deals?",
       "publisher": "Simply Wall St.",
@@ -471,12 +477,6 @@
       "publisher": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-jpmorgan-morgan-stanley-185327224.html",
       "published_at": "2026-08-24T18:53:27Z"
-    },
-    {
-      "title": "JPMorgan sends stark warning on AI stocks, cites dotcom worries",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/investing/jpmorgan-ai-stocks-dotcom-bubble-warning",
-      "published_at": "2026-08-24T18:03:00Z"
     }
   ]
 }
