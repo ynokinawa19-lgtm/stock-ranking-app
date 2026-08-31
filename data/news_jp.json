@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "Analysis-Toyota and Honda may get stuck with the bill for Trump’s Canada tariffs",
+      "publisher": "Reuters",
+      "url": "https://finance.yahoo.com/news/analysis-toyota-honda-may-stuck-034938284.html",
+      "published_at": "2026-08-31T03:49:38Z"
+    },
+    {
       "title": "General Motors (GM) Is Under Pressure In The US Auto Market",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-under-pressure-221901842.html",
@@ -23,12 +29,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-motor-tse-7203-softer-230509224.html",
       "published_at": "2026-08-28T23:05:09Z"
-    },
-    {
-      "title": "Could Toyota Motor (TM)’s Hybrid Boom Finally Put General Motors (GM)’s U.S. Sales Crown at Risk?",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-toyota-motor-tm-hybrid-204118954.html",
-      "published_at": "2026-08-28T20:41:18Z"
     }
   ],
   "6758.T": [
@@ -65,6 +65,12 @@
   ],
   "9984.T": [
     {
+      "title": "The $5.5 Billion Perk SoftBank’s Data-Center Venture Offered to Land OpenAI",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/the-5-5-billion-perk-softbanks-data-center-venture-offered-to-land-openai-a5c7fb5e?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-08-31T03:55:00Z"
+    },
+    {
       "title": "Nikkei Falls 2.2%, Dragged by Chip Stocks",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-stocks-4c65d615?siteid=yhoof2&yptr=yahoo",
@@ -87,12 +93,6 @@
       "publisher": "FastCompany",
       "url": "https://www.fastcompany.com/91596512/why-the-departure-of-openais-data-center-chief-is-not-a-good-look",
       "published_at": "2026-08-27T16:00:00Z"
-    },
-    {
-      "title": "OpenAI expansion plans take a big hit with latest departure",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/technology/openai-expansion-plans-takes-a-big-hit-with-latest-departure",
-      "published_at": "2026-08-27T14:37:00Z"
     }
   ],
   "8306.T": [
@@ -475,7 +475,7 @@
     {
       "title": "Ovo founder in battle for control over £370m tech arm",
       "publisher": "The Telegraph",
-      "url": "https://www.telegraph.co.uk/business/2026/08/15/ovo-founder-in-battle-for-control-over-370m-tech-arm/",
+      "url": "https://uk.finance.yahoo.com/news/ovo-founder-battle-control-over-100000439.html",
       "published_at": "2026-08-15T10:00:00Z"
     }
   ]
