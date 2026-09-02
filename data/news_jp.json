@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "The Zacks Analyst Blog Highlights Toyota, CrowdStrike, Welltower, Blue Ridge Bankshares and Franklin Financial Services",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-toyota-123700328.html",
+      "published_at": "2026-09-02T12:37:00Z"
+    },
+    {
       "title": "The failed Honda-Nissan merger just got a second life",
       "publisher": "TheStreet",
       "url": "https://www.thestreet.com/automotive/failed-honda-nissan-merger-just-got-second-life",
@@ -11,12 +17,6 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-toyota-motor-203900129.html",
       "published_at": "2026-09-01T20:39:00Z"
-    },
-    {
-      "title": "Why Toyota and Honda would get hit hardest by Trump's Canadian auto tariffs",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/why-toyota-and-honda-would-get-hit-hardest-by-trumps-canadian-auto-tariffs-100000036.html",
-      "published_at": "2026-09-01T10:00:00Z"
     },
     {
       "title": "Sector Update: Consumer Stocks Softer Late Afternoon",
@@ -65,6 +65,12 @@
   ],
   "9984.T": [
     {
+      "title": "SoftBank’s SB Energy IPO filing offers 8.8 GW of contracted AI capacity, with most still unbuilt",
+      "publisher": "Blockspace",
+      "url": "https://blockspace.media/insight/sb-energy-ipo-ai-data-center-capacity/",
+      "published_at": "2026-09-02T14:59:41Z"
+    },
+    {
       "title": "European Equities Mixed in Muted Trade",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39?siteid=yhoof2&yptr=yahoo",
@@ -77,25 +83,25 @@
       "published_at": "2026-09-02T01:08:21Z"
     },
     {
+      "title": "SoftBank's SB Energy Files IPO as Backlog Hits $439 Billion",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/softbanks-sb-energy-files-ipo-195451316.html",
+      "published_at": "2026-09-01T19:54:51Z"
+    },
+    {
       "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
       "publisher": "TechCrunch",
       "url": "https://finance.yahoo.com/small-business/articles/india-unacademy-sells-rival-upgrad-135842363.html",
       "published_at": "2026-09-01T13:58:42Z"
-    },
-    {
-      "title": "SB Energy IPO filing: Nvidia invests $3B, OpenAI gets warrants",
-      "publisher": "Quartz",
-      "url": "https://qz.com/sb-energy-ipo-filing-nvidia-softbank-090126",
-      "published_at": "2026-09-01T13:06:14Z"
-    },
-    {
-      "title": "SB Energy Files for IPO With Nvidia Backing",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/investing/sb-energy-files-for-ipo-with-nvidia-backing-b17bd1fc?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-01T11:49:00Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "Wall Street firms are all in on a stablecoin launch",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/wall-street-firms-stablecoin-launch-173000092.html",
+      "published_at": "2026-09-02T17:30:00Z"
+    },
     {
       "title": "Bond Yields Soar Around the World",
       "publisher": "The Wall Street Journal",
@@ -119,15 +125,15 @@
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/livecoverage/stock-market-news-today-090126/card/oil-rises-on-renewed-u-s-iran-hostilities-ojhQLDujqEXmlZjTwJdK?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-09-01T08:44:46Z"
-    },
-    {
-      "title": "Twelve Major Banks Are Building a Stablecoin on Public Chains. That Changes the Competitive Calculus.",
-      "publisher": "Forkast News",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/twelve-major-banks-building-stablecoin-201156000.html",
-      "published_at": "2026-08-28T20:11:56Z"
     }
   ],
   "6501.T": [
+    {
+      "title": "All You Need to Know About Hitachi (HTHIY) Rating Upgrade to Strong Buy",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/know-hitachi-hthiy-rating-upgrade-160002870.html",
+      "published_at": "2026-09-02T16:00:02Z"
+    },
     {
       "title": "Hitachi (HTHIY) is an Incredible Growth Stock: 3 Reasons Why",
       "publisher": "Zacks",
@@ -151,12 +157,6 @@
       "publisher": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/08/13/jensen-huang-just-signed-7-japanese-industrial-gia/",
       "published_at": "2026-08-13T08:41:00Z"
-    },
-    {
-      "title": "SoftBank, Hitachi, LG back Zenity’s $125 million Norwest-led round to police AI agents",
-      "publisher": "Fortune",
-      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-hitachi-lg-back-zenity-130000367.html",
-      "published_at": "2026-08-03T13:00:00Z"
     }
   ],
   "9432.T": [
@@ -289,6 +289,12 @@
   ],
   "6861.T": [
     {
+      "title": "Is Keyence (KYCCF) Outperforming Other Industrial Products Stocks This Year?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/keyence-kyccf-outperforming-other-industrial-134002306.html",
+      "published_at": "2026-09-02T13:40:02Z"
+    },
+    {
       "title": "Is Atkore (ATKR) Outperforming Other Industrial Products Stocks This Year?",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/atkore-atkr-outperforming-other-industrial-134003939.html",
@@ -311,12 +317,6 @@
       "publisher": "Investing.com",
       "url": "https://finance.yahoo.com/news/jpm-starts-cognex-neutral-view-160050118.html",
       "published_at": "2025-09-15T16:00:50Z"
-    },
-    {
-      "title": "Central Bank Outlooks, Politics Lift Asian Stock Markets",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/news/central-bank-outlooks-politics-lift-104540142.html",
-      "published_at": "2025-09-08T10:45:40Z"
     }
   ],
   "7974.T": [
@@ -449,6 +449,12 @@
   ],
   "8058.T": [
     {
+      "title": "Greg Abel says Japan bond yields not a concern for Berkshire trading houses",
+      "publisher": "Quartz",
+      "url": "https://qz.com/berkshire-greg-abel-japan-bond-yields-trading-houses-090226",
+      "published_at": "2026-09-02T13:50:03Z"
+    },
+    {
       "title": "Mitsubishi (TSE:8058) Could Be 11% Below Fair Value Following Quantum Computing Expansion",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-tse-8058-could-11-042344371.html",
@@ -471,12 +477,6 @@
       "publisher": "Just Auto",
       "url": "https://www.just-auto.com/news/mitsubishi-return-to-us-pickup-market/",
       "published_at": "2026-08-27T11:58:44Z"
-    },
-    {
-      "title": "Ovo founder in battle for control over £370m tech arm",
-      "publisher": "The Telegraph",
-      "url": "https://uk.finance.yahoo.com/news/ovo-founder-battle-control-over-100000439.html",
-      "published_at": "2026-08-15T10:00:00Z"
     }
   ]
 }
