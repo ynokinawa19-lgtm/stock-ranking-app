@@ -1,16 +1,22 @@
 {
   "7203.T": [
     {
-      "title": "Why Toyota and Honda would get hit hardest by Trump's Canadian auto tariffs",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/why-toyota-and-honda-would-get-hit-hardest-by-trumps-canadian-auto-tariffs-100000036.html",
-      "published_at": "2026-09-01T10:00:00Z"
+      "title": "The failed Honda-Nissan merger just got a second life",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/automotive/failed-honda-nissan-merger-just-got-second-life",
+      "published_at": "2026-09-02T03:33:00Z"
     },
     {
       "title": "Top Research Reports for Toyota Motor, CrowdStrike & Welltower",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-toyota-motor-203900129.html",
       "published_at": "2026-09-01T20:39:00Z"
+    },
+    {
+      "title": "Why Toyota and Honda would get hit hardest by Trump's Canadian auto tariffs",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/why-toyota-and-honda-would-get-hit-hardest-by-trumps-canadian-auto-tariffs-100000036.html",
+      "published_at": "2026-09-01T10:00:00Z"
     },
     {
       "title": "Sector Update: Consumer Stocks Softer Late Afternoon",
@@ -23,12 +29,6 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/economy/policy/articles/toyota-rises-despite-50-canada-172055623.html",
       "published_at": "2026-08-31T17:20:55Z"
-    },
-    {
-      "title": "Analysis-Toyota and Honda may get stuck with the bill for Trump’s Canada tariffs",
-      "publisher": "Reuters",
-      "url": "https://finance.yahoo.com/news/analysis-toyota-honda-may-stuck-034938284.html",
-      "published_at": "2026-08-31T03:49:38Z"
     }
   ],
   "6758.T": [
@@ -65,16 +65,16 @@
   ],
   "9984.T": [
     {
+      "title": "European Equities Mixed in Muted Trade",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-02T07:26:00Z"
+    },
+    {
       "title": "SoftBank (TSE:9984) Stock Looks Fairly Priced As AI Funding Risk Grows",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-tse-9984-stock-looks-010821570.html",
       "published_at": "2026-09-02T01:08:21Z"
-    },
-    {
-      "title": "Nikkei Falls 2.2%, Dragged by Chip-Related Stocks",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-02T00:39:00Z"
     },
     {
       "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
@@ -257,10 +257,10 @@
   ],
   "8035.T": [
     {
-      "title": "Nikkei Falls 2.2%, Dragged by Chip-Related Stocks",
+      "title": "European Equities Mixed in Muted Trade",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-02T00:39:00Z"
+      "published_at": "2026-09-02T07:26:00Z"
     },
     {
       "title": "Nikkei Falls 2.2%, Dragged by Chip Stocks",
@@ -475,7 +475,7 @@
     {
       "title": "Ovo founder in battle for control over £370m tech arm",
       "publisher": "The Telegraph",
-      "url": "https://www.telegraph.co.uk/business/2026/08/15/ovo-founder-in-battle-for-control-over-370m-tech-arm/",
+      "url": "https://uk.finance.yahoo.com/news/ovo-founder-battle-control-over-100000439.html",
       "published_at": "2026-08-15T10:00:00Z"
     }
   ]
