@@ -65,6 +65,18 @@
   ],
   "9984.T": [
     {
+      "title": "Why SB Energy’s IPO valuation will probably be too rich",
+      "publisher": "Blockspace",
+      "url": "https://blockspace.media/insight/why-sb-energys-ipo-valuation-will-probably-be-too-rich/",
+      "published_at": "2026-09-02T22:37:20Z"
+    },
+    {
+      "title": "SoftBank's $439 Billion AI Backlog Arrives With a $3.21 Billion Loss",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/softbanks-439-billion-ai-backlog-220441803.html",
+      "published_at": "2026-09-02T22:04:41Z"
+    },
+    {
       "title": "SoftBank’s SB Energy IPO filing offers 8.8 GW of contracted AI capacity, with most still unbuilt",
       "publisher": "Blockspace",
       "url": "https://blockspace.media/insight/sb-energy-ipo-ai-data-center-capacity/",
@@ -81,18 +93,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-tse-9984-stock-looks-010821570.html",
       "published_at": "2026-09-02T01:08:21Z"
-    },
-    {
-      "title": "SoftBank's SB Energy Files IPO as Backlog Hits $439 Billion",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/softbanks-sb-energy-files-ipo-195451316.html",
-      "published_at": "2026-09-01T19:54:51Z"
-    },
-    {
-      "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
-      "publisher": "TechCrunch",
-      "url": "https://finance.yahoo.com/small-business/articles/india-unacademy-sells-rival-upgrad-135842363.html",
-      "published_at": "2026-09-01T13:58:42Z"
     }
   ],
   "8306.T": [
@@ -449,6 +449,12 @@
   ],
   "8058.T": [
     {
+      "title": "Nikkei Rises 0.1%, Led by Trading Houses, Financial Stocks",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-trading-houses-financial-stocks-556eb1a1?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-03T00:35:00Z"
+    },
+    {
       "title": "Greg Abel says Japan bond yields not a concern for Berkshire trading houses",
       "publisher": "Quartz",
       "url": "https://qz.com/berkshire-greg-abel-japan-bond-yields-trading-houses-090226",
@@ -471,12 +477,6 @@
       "publisher": "Just Auto",
       "url": "https://www.just-auto.com/news/archion-unveils-new-hino-fuso-trucks-with-shared-platform/",
       "published_at": "2026-08-28T08:24:14Z"
-    },
-    {
-      "title": "Mitsubishi Motors plans return to US pickup market through Nissan partnership",
-      "publisher": "Just Auto",
-      "url": "https://www.just-auto.com/news/mitsubishi-return-to-us-pickup-market/",
-      "published_at": "2026-08-27T11:58:44Z"
     }
   ]
 }
