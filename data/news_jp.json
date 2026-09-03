@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "Toyota Gains 1.1% as Automakers Push Congress to Ban Chinese Cars",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-gains-1-1-automakers-212704655.html",
+      "published_at": "2026-09-03T21:27:04Z"
+    },
+    {
       "title": "A Massachusetts man says eBay withheld over $11,000 from his $23,750 truck sale — then told him to hand over the keys",
       "publisher": "Moneywise",
       "url": "https://finance.yahoo.com/small-business/articles/massachusetts-man-says-ebay-withheld-113000632.html",
@@ -23,15 +29,21 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-toyota-motor-203900129.html",
       "published_at": "2026-09-01T20:39:00Z"
-    },
-    {
-      "title": "Sector Update: Consumer Stocks Softer Late Afternoon",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-softer-afternoon-195906027.html",
-      "published_at": "2026-08-31T19:59:06Z"
     }
   ],
   "6758.T": [
+    {
+      "title": "Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'",
+      "publisher": "decrypt",
+      "url": "https://decrypt.co/377313/sony-dismisses-ps5-buyers-508m-tariff-refund-claim-as-illogical",
+      "published_at": "2026-09-03T16:28:27Z"
+    },
+    {
+      "title": "Is Sony (SONY) a Buy as Wall Street Analysts Look Optimistic?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sony-sony-buy-wall-street-133004177.html",
+      "published_at": "2026-09-03T13:30:04Z"
+    },
     {
       "title": "Anthropic Might Be the Music Industry’s New Napster",
       "publisher": "Moby",
@@ -49,21 +61,15 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/trossen-robotics-collaboration-could-strengthen-143500738.html",
       "published_at": "2026-09-01T14:35:00Z"
-    },
-    {
-      "title": "Zacks Industry Outlook Highlights Sony, Dolby Laboratories and Sonos",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-sony-131900517.html",
-      "published_at": "2026-09-01T13:19:00Z"
-    },
-    {
-      "title": "GoPro Soars 78% as Markiplier Stake Pushes Shares Above $1.50",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/01/gopro-soars-78-as-markiplier-stake-pushes-shares-above-1-50/",
-      "published_at": "2026-09-01T13:17:31Z"
     }
   ],
   "9984.T": [
+    {
+      "title": "CEO Who Just Sold His Data Center Firm to SoftBank for $4 Billion Is Warning of a Late 1990s Moment",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/03/ceo-who-just-sold-his-data-center-firm-to-softbank-for-4-billion-is-warning-of-a-late-1990s-moment/",
+      "published_at": "2026-09-03T17:07:42Z"
+    },
     {
       "title": "Why SB Energy’s IPO valuation will probably be too rich",
       "publisher": "Blockspace",
@@ -87,26 +93,20 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-09-02T07:26:00Z"
-    },
-    {
-      "title": "SoftBank (TSE:9984) Stock Looks Fairly Priced As AI Funding Risk Grows",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-tse-9984-stock-looks-010821570.html",
-      "published_at": "2026-09-02T01:08:21Z"
     }
   ],
   "8306.T": [
-    {
-      "title": "Wall Street firms are all in on a stablecoin launch",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/wall-street-firms-stablecoin-launch-173000092.html",
-      "published_at": "2026-09-02T17:30:00Z"
-    },
     {
       "title": "Canadian Dollar Strengthens as Central Bank Turns More Hawkish on Inflation Risks, MUFG Says",
       "publisher": "MT Newswires",
       "url": "https://finance.yahoo.com/economy/policy/articles/canadian-dollar-strengthens-central-bank-110900177.html",
       "published_at": "2026-09-03T11:09:00Z"
+    },
+    {
+      "title": "Wall Street firms are all in on a stablecoin launch",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/wall-street-firms-stablecoin-launch-173000092.html",
+      "published_at": "2026-09-02T17:30:00Z"
     },
     {
       "title": "Bond Yields Soar Around the World",
