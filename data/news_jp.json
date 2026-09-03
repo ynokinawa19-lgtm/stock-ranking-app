@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "A Massachusetts man says eBay withheld over $11,000 from his $23,750 truck sale — then told him to hand over the keys",
+      "publisher": "Moneywise",
+      "url": "https://finance.yahoo.com/small-business/articles/massachusetts-man-says-ebay-withheld-113000632.html",
+      "published_at": "2026-09-03T11:30:00Z"
+    },
+    {
       "title": "The Zacks Analyst Blog Highlights Toyota, CrowdStrike, Welltower, Blue Ridge Bankshares and Franklin Financial Services",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-toyota-123700328.html",
@@ -23,12 +29,6 @@
       "publisher": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-softer-afternoon-195906027.html",
       "published_at": "2026-08-31T19:59:06Z"
-    },
-    {
-      "title": "Toyota Rises Despite 50% Canada Tariff Threat",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/economy/policy/articles/toyota-rises-despite-50-canada-172055623.html",
-      "published_at": "2026-08-31T17:20:55Z"
     }
   ],
   "6758.T": [
@@ -103,6 +103,12 @@
       "published_at": "2026-09-02T17:30:00Z"
     },
     {
+      "title": "Canadian Dollar Strengthens as Central Bank Turns More Hawkish on Inflation Risks, MUFG Says",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/economy/policy/articles/canadian-dollar-strengthens-central-bank-110900177.html",
+      "published_at": "2026-09-03T11:09:00Z"
+    },
+    {
       "title": "Bond Yields Soar Around the World",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-01-2026/card/bond-yields-soar-around-the-world-ptVMp0vL6eG5mIy3dxtm?siteid=yhoof2&yptr=yahoo",
@@ -119,12 +125,6 @@
       "publisher": "Banking Dive",
       "url": "https://www.bankingdive.com/news/bofa-wells-fargo-citi-back-upcoming-stablecoin-goldman-pnc-capital-one/829318/",
       "published_at": "2026-09-01T12:22:57Z"
-    },
-    {
-      "title": "Oil Rises on Renewed U.S.-Iran Hostilities",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-090126/card/oil-rises-on-renewed-u-s-iran-hostilities-ojhQLDujqEXmlZjTwJdK?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-01T08:44:46Z"
     }
   ],
   "6501.T": [
@@ -353,6 +353,12 @@
   ],
   "9983.T": [
     {
+      "title": "Crude Oil, Bond Yield Outlooks Churn Asian Stock Markets",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/crude-oil-bond-yield-outlooks-104303746.html",
+      "published_at": "2026-09-03T10:43:03Z"
+    },
+    {
       "title": "Uniqlo owner Fast Retailing raises FY2026 outlook after strong Q3 growth",
       "publisher": "Just Style",
       "url": "https://www.just-style.com/news/uniqlo-fast-retailing-fy2026/",
@@ -375,12 +381,6 @@
       "publisher": "Reuters Videos",
       "url": "https://finance.yahoo.com/video/uniqlo-operator-fast-retailings-q3-113035931.html",
       "published_at": "2026-07-09T11:30:35Z"
-    },
-    {
-      "title": "Uniqlo Owner Raises Earnings Outlook After Strong Quarter",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/uniqlo-owner-raises-guidance-after-strong-quarterly-profit-ab5c7c44?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-07-09T11:04:00Z"
     }
   ],
   "4519.T": [
@@ -449,10 +449,10 @@
   ],
   "8058.T": [
     {
-      "title": "Nikkei Rises 0.1%, Led by Trading Houses, Financial Stocks",
+      "title": "European Indexes Little Moved in Early Trade",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-trading-houses-financial-stocks-556eb1a1?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-03T00:35:00Z"
+      "published_at": "2026-09-03T07:23:00Z"
     },
     {
       "title": "Greg Abel says Japan bond yields not a concern for Berkshire trading houses",
