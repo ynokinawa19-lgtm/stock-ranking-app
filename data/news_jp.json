@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "Toyota targets 40% rise in non-vehicle profit – report",
+      "publisher": "Just Auto",
+      "url": "https://www.just-auto.com/news/toyota-40-rise-non-vehicle-profit/",
+      "published_at": "2026-09-07T12:03:00Z"
+    },
+    {
       "title": "Toyota Motor (TSE:7203) Expands Vietnam Production To Add Hybrid Electric Vehicles",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-motor-tse-7203-expands-010819826.html",
@@ -23,12 +29,6 @@
       "publisher": "Moneywise",
       "url": "https://finance.yahoo.com/small-business/articles/massachusetts-man-says-ebay-withheld-113000632.html",
       "published_at": "2026-09-03T11:30:00Z"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights Toyota, CrowdStrike, Welltower, Blue Ridge Bankshares and Franklin Financial Services",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-toyota-123700328.html",
-      "published_at": "2026-09-02T12:37:00Z"
     }
   ],
   "6758.T": [
@@ -65,10 +65,16 @@
   ],
   "9984.T": [
     {
-      "title": "Nikkei Rises 1.8%, Led by Chip-Related Stocks",
+      "title": "What’s Ahead for the AI-Energy Marriage—And How to Invest",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ai-energy-sb-energy-stock-nvidia-softbank-fa522979?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-07T09:55:00Z"
+    },
+    {
+      "title": "European Chip Stocks Rise, Buoyed By Asian Peers",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-related-stocks-37f5728d?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-07T00:18:00Z"
+      "published_at": "2026-09-07T08:50:00Z"
     },
     {
       "title": "SoftBank Soars Nearly 12% While $439 Billion Backlog Faces Its IPO Test",
@@ -87,12 +93,6 @@
       "publisher": "Investing.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/tiktok-owner-bytedance-said-secure-115615239.html",
       "published_at": "2026-09-04T11:56:15Z"
-    },
-    {
-      "title": "Wall Street Cues, Easing Bond Yields Boost Asian Stock Markets",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/wall-street-cues-easing-bond-103805813.html",
-      "published_at": "2026-09-04T10:38:05Z"
     }
   ],
   "8306.T": [
@@ -257,10 +257,10 @@
   ],
   "8035.T": [
     {
-      "title": "Nikkei Rises 1.8%, Led by Chip-Related Stocks",
+      "title": "European Chip Stocks Rise, Buoyed By Asian Peers",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-related-stocks-37f5728d?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-07T00:18:00Z"
+      "published_at": "2026-09-07T08:50:00Z"
     },
     {
       "title": "European Equities Mixed in Muted Trade",
