@@ -1,37 +1,43 @@
 {
   "AAPL": [
     {
+      "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
+      "published_at": "2026-09-07T03:06:47Z"
+    },
+    {
+      "title": "Apple (AAPL) Raises Apple TV and Apple One Prices Again in the U.S.",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/media-advertising/articles/apple-aapl-raises-apple-tv-224834727.html",
+      "published_at": "2026-09-06T22:48:34Z"
+    },
+    {
+      "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
+      "published_at": "2026-09-06T22:31:47Z"
+    },
+    {
+      "title": "Apple (AAPL) Sets iPhone Launch Event. The First Under New CEO John Ternus",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/articles/apple-aapl-sets-iphone-launch-221225248.html",
+      "published_at": "2026-09-06T22:12:25Z"
+    },
+    {
       "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
       "publisher": "TechCrunch",
       "url": "https://finance.yahoo.com/technology/articles/phil-schiller-app-store-exit-214106418.html",
       "published_at": "2026-09-06T21:41:06Z"
-    },
-    {
-      "title": "Dow Jones Futures Eye Iran With Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
-      "publisher": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-      "published_at": "2026-09-06T21:10:14Z"
-    },
-    {
-      "title": "Apple (AAPL)’s New Mac Mini and Studio Bet Big on On-Device AI",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-mac-mini-studio-201609665.html",
-      "published_at": "2026-09-06T20:16:09Z"
-    },
-    {
-      "title": "The 'Waffle House Index' is real, and Apple is filming it",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/entertainment/waffle-house-index-movie-apple-films-plan-b",
-      "published_at": "2026-09-06T18:47:00Z"
-    },
-    {
-      "title": "Inflation, Apple, Adobe, Oracle, Macy’s, and More to Watch This Week",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/inflation-apple-adobe-oracle-macys-and-more-to-watch-this-week-23a2c022?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-06T18:00:00Z"
     }
   ],
   "MSFT": [
+    {
+      "title": "Microsoft (MSFT)’s Outlook and OpenAI’s ChatGPT Work Both Broke the Same Day",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/articles/microsoft-msft-outlook-openai-chatgpt-002934990.html",
+      "published_at": "2026-09-07T00:29:34Z"
+    },
     {
       "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
       "publisher": "Insider Monkey",
@@ -55,12 +61,6 @@
       "publisher": "Forkast News",
       "url": "https://finance.yahoo.com/technology/ai/articles/agent-production-gap-171-roi-123605791.html",
       "published_at": "2026-09-06T12:36:05Z"
-    },
-    {
-      "title": "I Own Both Oracle and NuScale for Different Reasons. Here's How They Fit Together.",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/i-own-both-oracle-and-nuscale-for-different-reason/",
-      "published_at": "2026-09-06T10:12:00Z"
     }
   ],
   "NVDA": [
@@ -71,31 +71,43 @@
       "published_at": "2026-09-06T13:26:55Z"
     },
     {
-      "title": "Anthropic Has Committed More Than $100 Billion to AWS, and Its Prospectus Could Reveal More Details About This Contract",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/anthropic-has-committed-more-than-usd100-billion-to-aws-and-its-prospectus-could-reveal-more-details-about-this-contract/",
-      "published_at": "2026-09-06T21:43:01Z"
-    },
-    {
-      "title": "Jensen Huang Says AGI Has Arrived. He Sells the Machines That Built It",
-      "publisher": "BeInCrypto",
-      "url": "https://beincrypto.com/jensen-huang-agi-nvidia-astra-chips/",
-      "published_at": "2026-09-06T21:39:37Z"
-    },
-    {
-      "title": "Dow Jones Futures Eye Iran With Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
+      "title": "Dow Jones Futures Fall With Iran, Apple, Inflation In Focus; Nvidia, Micron, Sandisk Flash Buy Signals",
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-micron-sandisk-buy-signals-apple-inflation-reports/?src=A00220&yptr=yahoo",
-      "published_at": "2026-09-06T21:10:14Z"
+      "published_at": "2026-09-07T03:06:47Z"
     },
     {
-      "title": "Musk Moves Up SpaceX (SPCX)’s Orbital Data Center Timeline, Again",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/musk-moves-spacex-spcx-orbital-204103387.html",
-      "published_at": "2026-09-06T20:41:03Z"
+      "title": "Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Finished",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/prediction-data-center-passes-70-of-amd-s-revenue-in-2027-before-the-helios-ramp-is-finished/",
+      "published_at": "2026-09-07T02:46:01Z"
+    },
+    {
+      "title": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/nuclear-stock-face-off-is-stock-or-stock-the-bette/",
+      "published_at": "2026-09-07T02:22:00Z"
+    },
+    {
+      "title": "This Vanguard ETF Is Up 27% This Year: Is It Still a Buy for Long-Term Investors?",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/vanguard-etf-up-27-this-year-is-it-still-a-buy-for/",
+      "published_at": "2026-09-07T01:26:00Z"
     }
   ],
   "GOOGL": [
+    {
+      "title": "Google-backed Indian space startup raises $100 million in latest funding round",
+      "publisher": "Reuters",
+      "url": "https://finance.yahoo.com/technology/articles/google-backed-indian-space-startup-013250812.html",
+      "published_at": "2026-09-07T01:32:50Z"
+    },
+    {
+      "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
+      "published_at": "2026-09-06T22:31:47Z"
+    },
     {
       "title": "Musk Moves Up SpaceX (SPCX)’s Orbital Data Center Timeline, Again",
       "publisher": "Insider Monkey",
@@ -113,21 +125,21 @@
       "publisher": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/09/06/will-alphabet-break-warren-buffett-cardinal-rule/",
       "published_at": "2026-09-06T15:15:00Z"
-    },
-    {
-      "title": "Google Unveils Gemini 3.8 Flash and Fairwind Program: How to Play GOOGL Stock Here",
-      "publisher": "Barchart",
-      "url": "https://www.barchart.com/story/news/4467718/google-unveils-gemini-3-8-flash-and-fairwind-program-how-to-play-googl-stock-here",
-      "published_at": "2026-09-06T14:00:02Z"
-    },
-    {
-      "title": "Why Rezolve AI Stock Plummeted This Week",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/06/why-rezolve-ai-stock-plummeted-this-week/",
-      "published_at": "2026-09-06T11:20:00Z"
     }
   ],
   "AMZN": [
+    {
+      "title": "Amazon Cargo Plane Overshoots Runway in Miami, Killing Five People",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/us-news/amazon-cargo-plane-miami-runway-crash-52198128?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-06T22:37:00Z"
+    },
+    {
+      "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-first-ever-ahead-223147950.html",
+      "published_at": "2026-09-06T22:31:47Z"
+    },
     {
       "title": "Anthropic Has Committed More Than $100 Billion to AWS, and Its Prospectus Could Reveal More Details About This Contract",
       "publisher": "Motley Fool",
@@ -135,31 +147,31 @@
       "published_at": "2026-09-06T21:43:01Z"
     },
     {
-      "title": "Miami Flight Delays Mount After Amazon Incident",
+      "title": "5 Dead in Amazon Cargo Plane Crash at Miami International Airport",
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/livecoverage/sunday0906/card/miami-flight-delays-mount-after-amazon-incident-P6NaXGXDxbXy9UtXLCmZ?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-06T20:41:19Z"
+      "published_at": "2026-09-06T21:33:54Z"
     },
     {
       "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
       "publisher": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-prove-doesn-t-202105317.html",
       "published_at": "2026-09-06T20:21:05Z"
-    },
-    {
-      "title": "Amazon.com (AMZN) Deepens Its Foothold In Autonomous Mobility And AI Policy",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-com-amzn-deepens-foothold-200934233.html",
-      "published_at": "2026-09-06T20:09:34Z"
-    },
-    {
-      "title": "Cargo Plane Overshoots Runway in Miami, Crashes Into Vehicles",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/us-news/amazon-cargo-plane-miami-runway-crash-52198128?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-06T20:06:00Z"
     }
   ],
   "META": [
+    {
+      "title": "Meta’s $18 Billion Teen Safety Deal Puts the Pressure on TikTok and YouTube Next",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/media-advertising/articles/meta-18-billion-teen-safety-011613870.html",
+      "published_at": "2026-09-07T01:16:13Z"
+    },
+    {
+      "title": "Norway Skeptical of Smart Spectacles: Leader in EV Adoption Not Ready to Welcome ‘Pervert’ Glasses",
+      "publisher": "Benzinga",
+      "url": "https://www.yahoo.com/news/world/articles/norway-skeptical-smart-spectacles-leader-213019935.html",
+      "published_at": "2026-09-06T21:30:19Z"
+    },
     {
       "title": "Can Nvidia (NVDA) Prove it Doesn’t Live or Die by a Handful of Hyperscalers?",
       "publisher": "Insider Monkey",
@@ -177,21 +189,21 @@
       "publisher": "Benzinga",
       "url": "https://www.yahoo.com/news/politics/articles/mark-zuckerberg-opposes-federal-ai-233016128.html",
       "published_at": "2026-09-05T23:30:16Z"
-    },
-    {
-      "title": "Meta stands to gain as Mark Zuckerberg makes shocking decision",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/technology/mark-zuckerberg-opposes-ai-regulator",
-      "published_at": "2026-09-05T15:33:00Z"
-    },
-    {
-      "title": "‘AI Laggard’ Apple Is Sitting Pretty, But AAPL Stock Might Be Running Out of Room to Outperform",
-      "publisher": "Barchart",
-      "url": "https://www.barchart.com/story/news/4461863/ai-laggard-apple-is-sitting-pretty-but-aapl-stock-might-be-running-out-of-room-to-outperform",
-      "published_at": "2026-09-05T15:02:14Z"
     }
   ],
   "TSLA": [
+    {
+      "title": "Cathie Wood's 2 Biggest Positions Are Both Elon Musk Companies. Together They Are 16% of the Fund.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/cathie-wood-s-2-biggest-positions-are-both-elon-musk-companies-together-they-are-16-of-the-fund/",
+      "published_at": "2026-09-07T01:24:01Z"
+    },
+    {
+      "title": "Tesla (TSLA) Rolls Out its Safety Numbers ahead of a Make-or-Break EU Vote",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-rolls-safety-numbers-011246433.html",
+      "published_at": "2026-09-07T01:12:46Z"
+    },
     {
       "title": "Goldman sees Cybercab giving Tesla a cost advantage in robotaxis",
       "publisher": "Investing.com",
@@ -209,18 +221,6 @@
       "publisher": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/09/06/cathie-wood-ark-annual-return-sp-500-trust/",
       "published_at": "2026-09-06T18:50:00Z"
-    },
-    {
-      "title": "Elon Musk's Tesla Cybertruck Has A New Ford Rival That Wants To Outsell It 5-To-1",
-      "publisher": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-cybertruck-ford-160016241.html",
-      "published_at": "2026-09-06T16:00:16Z"
-    },
-    {
-      "title": "Tesla's Cybercab just met its first real test, and it's federal",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/automotive/teslas-cybercab-just-met-its-first-real-test-and-its-federal",
-      "published_at": "2026-09-06T15:33:00Z"
     }
   ],
   "AVGO": [
@@ -255,7 +255,38 @@
       "published_at": "2026-09-05T19:05:00Z"
     }
   ],
-  "AMD": [],
+  "AMD": [
+    {
+      "title": "Prediction: Data Center Passes 70% of AMD's Revenue in 2027, Before the Helios Ramp Is Finished",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/prediction-data-center-passes-70-of-amd-s-revenue-in-2027-before-the-helios-ramp-is-finished/",
+      "published_at": "2026-09-07T02:46:01Z"
+    },
+    {
+      "title": "Did Nvidia Just Say Checkmate to AMD and Intel?",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/did-nvidia-just-say-checkmate-to-amd-and-intel/",
+      "published_at": "2026-09-06T22:30:01Z"
+    },
+    {
+      "title": "Nvidia Is Near Its High While Its Biggest Chip Peers Sit 18% to 32% Below Theirs. These Are the Chip Stocks to Buy.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/06/nvidia-is-near-its-high-while-its-biggest-chip-peers-sit-18-to-32-below-theirs-these-are-the-chip-stocks-to-buy/",
+      "published_at": "2026-09-06T17:34:01Z"
+    },
+    {
+      "title": "China Is Still Chasing Nvidia’s 3-Year-Old Chip — While Nvidia Has Moved Generations Ahead",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/06/china-is-still-chasing-nvidias-3-year-old-chip-while-nvidia-has-moved-generations-ahead/",
+      "published_at": "2026-09-06T14:35:11Z"
+    },
+    {
+      "title": "AMD Committed Up to $5 Billion to Anthropic, and Anthropic's IPO Prospectus Is Reportedly Days Away",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/05/amd-committed-up-to-usd5-billion-to-anthropic-and-anthropic-s-ipo-prospectus-is-reportedly-days-away/",
+      "published_at": "2026-09-05T22:03:01Z"
+    }
+  ],
   "NFLX": [
     {
       "title": "Netflix Raised U.K. Prices Again. History Says a Netflix Price Increase Has Never Cost It a Year of Revenue Growth.",
@@ -334,6 +365,12 @@
       "published_at": "2026-09-06T18:00:00Z"
     },
     {
+      "title": "Short Trading Week, CPI and Other Key Things to Watch this Week",
+      "publisher": "Barchart",
+      "url": "https://www.barchart.com/story/news/4468421/short-trading-week-cpi-and-other-key-things-to-watch-this-week",
+      "published_at": "2026-09-06T17:00:03Z"
+    },
+    {
       "title": "Stock Market Week Ahead: Week Of The Big Bond Scheme",
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-week-of-the-big-bond-scheme/?src=A00220&yptr=yahoo",
@@ -344,12 +381,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-2-top-growth-stocks-121016991.html",
       "published_at": "2026-09-06T12:10:16Z"
-    },
-    {
-      "title": "What to Expect in Markets This Week: Fresh Inflation Data; Apple’s Fall Launch Event and Oracle Earnings",
-      "publisher": "Investopedia",
-      "url": "https://www.investopedia.com/what-to-expect-in-markets-this-week-fresh-inflation-data-apple-fall-launch-event-and-oracle-earnings-12100794",
-      "published_at": "2026-09-06T11:00:00Z"
     }
   ],
   "ADBE": [
@@ -366,6 +397,12 @@
       "published_at": "2026-09-06T18:00:00Z"
     },
     {
+      "title": "Short Trading Week, CPI and Other Key Things to Watch this Week",
+      "publisher": "Barchart",
+      "url": "https://www.barchart.com/story/news/4468421/short-trading-week-cpi-and-other-key-things-to-watch-this-week",
+      "published_at": "2026-09-06T17:00:03Z"
+    },
+    {
       "title": "Stock Market Week Ahead: Week Of The Big Bond Scheme",
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-week-of-the-big-bond-scheme/?src=A00220&yptr=yahoo",
@@ -376,12 +413,6 @@
       "publisher": "Barchart",
       "url": "https://www.barchart.com/story/news/4467445/dear-adobe-stock-fans-mark-your-calendars-for-september-10",
       "published_at": "2026-09-06T13:00:02Z"
-    },
-    {
-      "title": "Adobe’s New CEO Takes Over in December. Is the Open CFO Search the Bigger Risk?",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-ceo-takes-over-december-001735572.html",
-      "published_at": "2026-09-06T00:17:35Z"
     }
   ],
   "COST": [
