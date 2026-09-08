@@ -1,12 +1,6 @@
 {
   "7203.T": [
     {
-      "title": "Nikkei Falls 0.6%, Dragged by Electronics, Machinery Stocks",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-6-dragged-by-electronics-machinery-stocks-97139a76?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-08T00:19:00Z"
-    },
-    {
       "title": "Toyota targets 40% rise in non-vehicle profit – report",
       "publisher": "Just Auto",
       "url": "https://www.just-auto.com/news/toyota-40-rise-non-vehicle-profit/",
@@ -29,6 +23,12 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-gains-1-1-automakers-212704655.html",
       "published_at": "2026-09-03T21:27:04Z"
+    },
+    {
+      "title": "A Massachusetts man says eBay withheld over $11,000 from his $23,750 truck sale — then told him to hand over the keys",
+      "publisher": "Moneywise",
+      "url": "https://finance.yahoo.com/small-business/articles/massachusetts-man-says-ebay-withheld-113000632.html",
+      "published_at": "2026-09-03T11:30:00Z"
     }
   ],
   "6758.T": [
@@ -129,6 +129,12 @@
   ],
   "6501.T": [
     {
+      "title": "Is Hitachi (HTHIY) Stock Outpacing Its Conglomerates Peers This Year?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hitachi-hthiy-stock-outpacing-conglomerates-134003110.html",
+      "published_at": "2026-09-08T13:40:03Z"
+    },
+    {
       "title": "3 Japanese Defensive Stocks With Earnings Growth Over 9%",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-japanese-defensive-stocks-earnings-001621621.html",
@@ -151,12 +157,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/energy/articles/hitachi-stock-2-japanese-nuclear-001914253.html",
       "published_at": "2026-08-29T00:19:14Z"
-    },
-    {
-      "title": "GE Vernova and Blue Energy Move Forward With 2.5 GW Texas Gas-Nuclear Power Project",
-      "publisher": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/34254/ge-vernova-and-blue-energy-move-forward-with-2-5-gw-texas-gas-nuclear-power-project",
-      "published_at": "2026-08-13T13:33:49Z"
     }
   ],
   "9432.T": [
@@ -225,6 +225,12 @@
   ],
   "4063.T": [
     {
+      "title": "Japan protests as China slaps new measures against its exports of a key chipmaking material",
+      "publisher": "Associated Press",
+      "url": "https://finance.yahoo.com/technology/articles/japan-protests-china-slaps-measures-094505790.html",
+      "published_at": "2026-09-08T09:45:05Z"
+    },
+    {
       "title": "Lower Oil Prices Raise Asian Stock Markets",
       "publisher": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/world-indices/articles/lower-oil-prices-raise-asian-103648061.html",
@@ -247,12 +253,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/shin-etsu-buyback-deep-sea-231200429.html",
       "published_at": "2026-05-23T23:12:00Z"
-    },
-    {
-      "title": "Nvidia AI Outlook Lifts Asian Chip Suppliers",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ai-outlook-lifts-asian-103012226.html",
-      "published_at": "2026-05-22T10:30:12Z"
     }
   ],
   "8035.T": [
@@ -289,6 +289,12 @@
   ],
   "6861.T": [
     {
+      "title": "The Zacks Analyst Blog Highlights FANUY, ABBNY, KYCCF, NVDA, ISRG, ILMN, NOVT, BOTZ, ROBO, ROBT and IBOT",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-fanuy-141100603.html",
+      "published_at": "2026-09-08T14:11:00Z"
+    },
+    {
       "title": "Are Robots the New Normal? Bet on these ETFs to Invest in the Future",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/robots-normal-bet-etfs-invest-114900828.html",
@@ -311,12 +317,6 @@
       "publisher": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/05/31/quantum-computing-just-hit-commercial-viability-and-these-3-etfs-sit-on-top-of-the-compute-transition/",
       "published_at": "2026-05-31T15:15:35Z"
-    },
-    {
-      "title": "Keyence (TSE:6861): Evaluating Valuation as Investors Weigh Modest Share Price Shifts",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/news/keyence-tse-6861-evaluating-valuation-131527727.html",
-      "published_at": "2025-10-03T13:15:27Z"
     }
   ],
   "7974.T": [
