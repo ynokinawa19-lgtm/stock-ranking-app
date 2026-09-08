@@ -1,34 +1,34 @@
 {
   "AAPL": [
     {
-      "title": "How Apple stock usually reacts to big iPhone reveal events",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/how-apple-stock-usually-reacts-to-big-iphone-reveal-events-152915777.html",
-      "published_at": "2026-09-08T15:29:15Z"
-    },
-    {
       "title": "Tech stocks today: Apple kicks off new era Wednesday, Anthropic S1 watch",
       "publisher": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-kicks-off-new-era-wednesday-anthropic-s1-watch-125343211.html",
       "published_at": "2026-09-08T12:53:43Z"
     },
     {
-      "title": "Cramer Says It’s Time To Buy The Dip on JNJ",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/cramer-says-its-time-to-buy-the-dip-on-jnj/",
-      "published_at": "2026-09-08T15:10:12Z"
+      "title": "Apple’s First Foldable iPhone Could Be Huge—but Should You Be an Early Buyer?",
+      "publisher": "Benzinga",
+      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-first-foldable-iphone-could-223056702.html",
+      "published_at": "2026-09-08T22:30:56Z"
     },
     {
-      "title": "Warren Buffett’s Portfolio Has Half Its Stock Money in Just 3 Names. Here Is What They Are.",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/warren-buffetts-portfolio-has-half-its-stock-money-in-just-3-names-here-is-what-they-are/",
-      "published_at": "2026-09-08T15:09:17Z"
+      "title": "Is Dell Making Money Where You Think It Is?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614563/is-dell-making-money-where-you-think-it-is/2026-09-08",
+      "published_at": "2026-09-08T20:50:43Z"
     },
     {
-      "title": "Could Apple Face a $17 Billion Child Safety Settlement Like Meta?",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/could-apple-face-a-17-billion-child-safety-settlement-like-meta/",
-      "published_at": "2026-09-08T15:05:03Z"
+      "title": "Apple Is Set to Reveal New iPhones Wednesday—Here’s What You Need to Know",
+      "publisher": "Investopedia",
+      "url": "https://www.investopedia.com/apple-is-set-to-reveal-new-iphones-wednesday-here-is-what-you-need-to-know-aapl-12110961",
+      "published_at": "2026-09-08T20:41:37Z"
+    },
+    {
+      "title": "Apple's 'Surprise and Shine' Launch: From iPhone 18 Pro to the First Foldable iPhone and Next-Gen Apple Watch, Here's What to Expect",
+      "publisher": "Benzinga",
+      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apples-surprise-shine-launch-iphone-203016982.html",
+      "published_at": "2026-09-08T20:30:16Z"
     }
   ],
   "MSFT": [
@@ -39,31 +39,37 @@
       "published_at": "2026-09-08T15:07:10Z"
     },
     {
-      "title": "Qualcomm Stock Pops as Amazon Deal Ramps Up AI Ambitions",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/qualcomm-stock-amazon-deal-ai-438de808?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-08T14:37:00Z"
+      "title": "Microsoft’s ‘Useful Yield’ Test Raises the Stakes for NVIDIA’s AI Economics",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-useful-yield-test-raises-225832059.html",
+      "published_at": "2026-09-08T22:58:32Z"
     },
     {
-      "title": "Alphabet Stock Is Pulling Back From Its High. Here’s Why I’d Buy the Dip.",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/alphabet-stock-is-pulling-back-from-its-high-heres-why-id-buy-the-dip/",
-      "published_at": "2026-09-08T14:30:15Z"
+      "title": "Goldman's New AI Office Adds Just 1% to Its Engineering Army",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/goldmans-ai-office-adds-just-213259052.html",
+      "published_at": "2026-09-08T21:32:59Z"
     },
     {
-      "title": "One Stock Is Weighing Heavily on the Dow",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-090826/card/one-stock-is-weighing-heavily-on-the-dow-h7FO8LtELGkeENrvWdGQ?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-08T14:13:03Z"
+      "title": "Microsoft's OpenAI Partnership Draws Fresh Legal Fire",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-openai-partnership-draws-fresh-204712188.html",
+      "published_at": "2026-09-08T20:47:12Z"
     },
     {
-      "title": "SanDisk Up Over 40% Past Month: Can the Rally Last?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-over-40-past-month-140000402.html",
-      "published_at": "2026-09-08T14:00:00Z"
+      "title": "Can Selling Puts On Adobe Stock Yield Nearly 10%?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614492/can-selling-puts-on-adobe-stock-yield-nearly-10/2026-09-08",
+      "published_at": "2026-09-08T19:55:37Z"
     }
   ],
   "NVDA": [
+    {
+      "title": "Bond yield worries persist as oil edges higher: AlphaCheck",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/bond-yield-worries-persist-as-oil-edges-higher-alphacheck-135158227.html",
+      "published_at": "2026-09-08T13:51:58Z"
+    },
     {
       "title": "What investors 'really' need to see from Oracle earnings this week",
       "publisher": "Yahoo Finance Video",
@@ -71,28 +77,22 @@
       "published_at": "2026-09-08T15:07:10Z"
     },
     {
-      "title": "Bond yield worries persist as oil edges higher : AlphaCheck",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/bond-yield-worries-persist-as-oil-edges-higher--alphacheck-135158227.html",
-      "published_at": "2026-09-08T13:51:58Z"
-    },
-    {
-      "title": "Where Will CRISPR Therapeutics Stock Be in 5 Years?",
+      "title": "Why Braze Stock Tumbled by Over 5% on Tuesday",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/08/where-will-crispr-therapeutics-stock-be-in-5-years/",
-      "published_at": "2026-09-08T15:20:00Z"
+      "url": "https://www.fool.com/investing/2026/09/08/why-braze-stock-tumbled-by-over-5-on-tuesday/",
+      "published_at": "2026-09-08T23:35:24Z"
     },
     {
-      "title": "Cramer Says It’s Time To Buy The Dip on JNJ",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/cramer-says-its-time-to-buy-the-dip-on-jnj/",
-      "published_at": "2026-09-08T15:10:12Z"
+      "title": "Prediction: Sept. 10 Will Be a Big Day for Nvidia Shareholders. Here’s What to Watch.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/08/prediction-sept-10-will-be-a-big-day-for-nvidia-shareholders-here-s-what-to-watch/",
+      "published_at": "2026-09-08T23:35:01Z"
     },
     {
-      "title": "Jensen Huang just sent Wall Street a message about AGI",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/markets/jensen-huang-just-sent-wall-street-a-message-about-agi",
-      "published_at": "2026-09-08T15:07:00Z"
+      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
+      "published_at": "2026-09-08T23:27:54Z"
     }
   ],
   "GOOGL": [
@@ -103,31 +103,37 @@
       "published_at": "2026-09-08T15:07:10Z"
     },
     {
-      "title": "Uber Technologies Poised to Benefit From Long-Term Trend for Autonomous Vehicles, Wedbush Says",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/articles/uber-technologies-poised-benefit-long-151704061.html",
-      "published_at": "2026-09-08T15:17:04Z"
+      "title": "Bill Ackman Sold His Remaining Alphabet Shares and Bought This Streaming Stock",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-sold-remaining-alphabet-231154144.html",
+      "published_at": "2026-09-08T23:11:54Z"
     },
     {
-      "title": "Could Apple Face a $17 Billion Child Safety Settlement Like Meta?",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/could-apple-face-a-17-billion-child-safety-settlement-like-meta/",
-      "published_at": "2026-09-08T15:05:03Z"
+      "title": "Jim Cramer Says Amazon and Alphabet Are Cheap. Their Cash Flows Complicate the Case",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-amazon-alphabet-231012551.html",
+      "published_at": "2026-09-08T23:10:12Z"
     },
     {
-      "title": "Beyond Social: Meta Is Buying the Future of Compute So I’m Buying It",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/beyond-social-meta-is-buying-the-future-of-compute-so-im-buying-it/",
-      "published_at": "2026-09-08T14:43:14Z"
+      "title": "Druckenmiller Exited Micron and Bought Alphabet. The AI Risks Moved With Him",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/druckenmiller-exited-micron-bought-alphabet-230042923.html",
+      "published_at": "2026-09-08T23:00:42Z"
     },
     {
-      "title": "Alphabet Stock Is Pulling Back From Its High. Here’s Why I’d Buy the Dip.",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/alphabet-stock-is-pulling-back-from-its-high-heres-why-id-buy-the-dip/",
-      "published_at": "2026-09-08T14:30:15Z"
+      "title": "Google Warns EU Regulations Will Result In Lower Search Quality",
+      "publisher": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/417730/google-warns-eu-regulations-will-result-in-lower-s.html",
+      "published_at": "2026-09-08T21:45:49Z"
     }
   ],
   "AMZN": [
+    {
+      "title": "Qualcomm and Amazon ink deal for custom data center chips",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/qualcomm-and-amazon-ink-deal-for-custom-data-center-chips-170048117.html",
+      "published_at": "2026-09-08T17:00:48Z"
+    },
     {
       "title": "What investors 'really' need to see from Oracle earnings this week",
       "publisher": "Yahoo Finance Video",
@@ -135,220 +141,214 @@
       "published_at": "2026-09-08T15:07:10Z"
     },
     {
-      "title": "Amazon Just Handed Qualcomm a Slice of AWS’s AI Buildout",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/amazon-just-handed-qualcomm-a-slice-of-awss-ai-buildout/",
-      "published_at": "2026-09-08T14:56:31Z"
+      "title": "Jim Cramer Says Amazon and Alphabet Are Cheap. Their Cash Flows Complicate the Case",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-amazon-alphabet-231012551.html",
+      "published_at": "2026-09-08T23:10:12Z"
     },
     {
-      "title": "QCOM Stock Jumps After Amazon Inks $60B ‘Multi-Generation’ AI Chip Deal",
+      "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data — META, QCOM, BE, AMZN, AVGO In Focus",
       "publisher": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-jumps-after-amazon-inks-60-b-multi-generation-ai-chip-deal/cZt36BvRJUp",
-      "published_at": "2026-09-08T14:52:33Z"
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-middle-east-tensions-spur-oil-rally/cZtEOUNRJyE",
+      "published_at": "2026-09-08T22:46:39Z"
     },
     {
-      "title": "Cramer Begs Trump Not to Sell Chipmaker That Is Up 311% in a Year",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/cramer-begs-trump-not-to-sell-chipmaker-that-is-up-311-in-a-year/",
-      "published_at": "2026-09-08T14:43:25Z"
-    },
-    {
-      "title": "Beyond Social: Meta Is Buying the Future of Compute So I’m Buying It",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/beyond-social-meta-is-buying-the-future-of-compute-so-im-buying-it/",
-      "published_at": "2026-09-08T14:43:14Z"
+      "title": "DAL Stock Drops: Jefferies Sees Possible Snag To In-Cabin Experience Owing To SPCX-VSAT Spectrum Fight",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/dal-stock-drops-jefferies-sees-possible-snag-to-in-cabin-experience-owing-to-spcx-vsat-spectrum-fight/cZtE95BRJy5",
+      "published_at": "2026-09-08T21:38:30Z"
     }
   ],
   "META": [
     {
-      "title": "Could Apple Face a $17 Billion Child Safety Settlement Like Meta?",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/could-apple-face-a-17-billion-child-safety-settlement-like-meta/",
-      "published_at": "2026-09-08T15:05:03Z"
+      "title": "Why AMD Stock Popped Today?",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-popped-today-212023035.html",
+      "published_at": "2026-09-08T21:20:23Z"
     },
     {
-      "title": "Beyond Social: Meta Is Buying the Future of Compute So I’m Buying It",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/beyond-social-meta-is-buying-the-future-of-compute-so-im-buying-it/",
-      "published_at": "2026-09-08T14:43:14Z"
+      "title": "AMD Guides to $70 Billion of 2027 Data Center Revenue",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-guides-70-billion-2027-211135048.html",
+      "published_at": "2026-09-08T21:11:35Z"
     },
     {
-      "title": "Qualcomm Stock Pops as Amazon Deal Ramps Up AI Ambitions",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/qualcomm-stock-amazon-deal-ai-438de808?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-08T14:37:00Z"
+      "title": "Meta Launches Simple-To-Use Muse Personal AI Agent",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/meta-stock-muse-ai-agent-app/?src=A00220&yptr=yahoo",
+      "published_at": "2026-09-08T20:53:32Z"
     },
     {
-      "title": "Alphabet Stock Is Pulling Back From Its High. Here’s Why I’d Buy the Dip.",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/alphabet-stock-is-pulling-back-from-its-high-heres-why-id-buy-the-dip/",
-      "published_at": "2026-09-08T14:30:15Z"
+      "title": "AMD Reveals AI Numbers That Sent Its Stock Soaring",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-reveals-ai-numbers-sent-204836239.html",
+      "published_at": "2026-09-08T20:48:36Z"
     },
     {
-      "title": "SanDisk Up Over 40% Past Month: Can the Rally Last?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-over-40-past-month-140000402.html",
-      "published_at": "2026-09-08T14:00:00Z"
+      "title": "The Unusual Cash Offer Sitting In TTD Stock",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614513/the-unusual-cash-offer-sitting-in-ttd-stock/2026-09-08",
+      "published_at": "2026-09-08T20:11:30Z"
     }
   ],
   "TSLA": [
     {
-      "title": "Bond yield worries persist as oil edges higher : AlphaCheck",
+      "title": "Bond yield worries persist as oil edges higher: AlphaCheck",
       "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/bond-yield-worries-persist-as-oil-edges-higher--alphacheck-135158227.html",
+      "url": "https://finance.yahoo.com/markets/article/bond-yield-worries-persist-as-oil-edges-higher-alphacheck-135158227.html",
       "published_at": "2026-09-08T13:51:58Z"
     },
     {
-      "title": "Uber Technologies Poised to Benefit From Long-Term Trend for Autonomous Vehicles, Wedbush Says",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/articles/uber-technologies-poised-benefit-long-151704061.html",
-      "published_at": "2026-09-08T15:17:04Z"
+      "title": "Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-leads-chip-stocks-rally-204945385.html",
+      "published_at": "2026-09-08T20:49:45Z"
     },
     {
-      "title": "Can Tesla Overcome Mixed August Registration Trends Across Europe?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-overcome-mixed-august-registration-151400507.html",
-      "published_at": "2026-09-08T15:14:00Z"
+      "title": "Tesla Cybercab Could Beat Waymo on Cost by Up to 30 Cents A Mile, Goldman Says",
+      "publisher": "Benzinga Prediction Markets",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/09/61673636/tesla-cybercab-waymo-cost?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+      "published_at": "2026-09-08T20:38:45Z"
     },
     {
-      "title": "Is Tesla's Cybercab Certification Facing a Regulatory Roadblock?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/teslas-cybercab-certification-facing-regulatory-150700924.html",
-      "published_at": "2026-09-08T15:07:00Z"
+      "title": "Uber Stock Falls As Wall Street Sizes Up Tesla's Cybercab Rollout",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/uber-stock-tesla-cybercab-austin-rollout/?src=A00220&yptr=yahoo",
+      "published_at": "2026-09-08T20:29:18Z"
     },
     {
-      "title": "Most Drivers Are Overpaying. Lemonade CEO Says Two-Thirds Subsidize the Highest-Mileage Third.",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/most-drivers-are-overpaying-lemonade-ceo-says-two-thirds-subsidize-the-highest-mileage-third/",
-      "published_at": "2026-09-08T14:41:02Z"
+      "title": "An Under the Radar Rare Earth Comment From Elon Musk Could Upend Another Industry",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/elon-musk-radar-rare-earth-cybercab-comment-b71c6c0b?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-08T20:29:00Z"
     }
   ],
   "AVGO": [
     {
-      "title": "Amazon Just Handed Qualcomm a Slice of AWS’s AI Buildout",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/amazon-just-handed-qualcomm-a-slice-of-awss-ai-buildout/",
-      "published_at": "2026-09-08T14:56:31Z"
+      "title": "S&P 500, Dow End Lower As Middle East Tensions Spur Oil Rally Ahead Of Key Inflation Data — META, QCOM, BE, AMZN, AVGO In Focus",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-lower-as-middle-east-tensions-spur-oil-rally/cZtEOUNRJyE",
+      "published_at": "2026-09-08T22:46:39Z"
     },
     {
-      "title": "Cathie Wood Just Went Bargain Hunting. Here Are the 3 AI Stocks She Bought.",
+      "title": "Marvell Is Growing Faster And Its Margin Guide Is Standing Still",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614565/marvell-is-growing-faster-and-its-margin-guide-is-standing-still/2026-09-08",
+      "published_at": "2026-09-08T22:08:48Z"
+    },
+    {
+      "title": "Nvidia vs. Broadcom: Comparing Recent Quarterly Revenue Trajectories",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/08/cathie-wood-bargain-ai-stocks-bought/",
-      "published_at": "2026-09-08T14:52:00Z"
+      "url": "https://www.fool.com/coverage/charts/2026/09/08/nvidia-vs-broadcom-comparing-recent-quarterly-revenue-trajectories/",
+      "published_at": "2026-09-08T21:12:17Z"
     },
     {
-      "title": "Queen of Capital Gains: Pelosi Bets $3 Million on Bloom Energy — Then It Got Added to the S&P 500",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/queen-of-capital-gains-pelosi-bets-3-million-on-bloom-energy-then-it-got-added-to-the-sp-500/",
-      "published_at": "2026-09-08T14:34:09Z"
+      "title": "Broadcom CEO Sees AI Value Flowing to Frontier Models and Custom Chips",
+      "publisher": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/event-broadcom-ceo-sees-ai-value-flowing-to-frontier-models-and-custom-chips-2026-09-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "published_at": "2026-09-08T21:02:04Z"
     },
     {
-      "title": "The Zacks Analyst Blog Highlights Apple, Broadcom, Shell and KVH Industries",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-142900957.html",
-      "published_at": "2026-09-08T14:29:00Z"
-    },
-    {
-      "title": "Qualcomm Rises 5% on Multi-Generation Amazon AI Silicon Deal; Broadcom Ticks Up, Amazon Holds Flat",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/qualcomm-rises-5-on-multi-generation-amazon-ai-silicon-deal-broadcom-ticks-up-amazon-holds-flat/",
-      "published_at": "2026-09-08T14:22:23Z"
+      "title": "Intel Leads Chip Stocks Rally as Qualcomm, AMD and Broadcom Stocks Jump",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-leads-chip-stocks-rally-204945385.html",
+      "published_at": "2026-09-08T20:49:45Z"
     }
   ],
   "AMD": [
     {
-      "title": "Advanced Micro Devices Sees AI Boom Fueling MI450, Helios and Server CPU Growth",
-      "publisher": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/event-advanced-micro-devices-sees-ai-boom-fueling-mi450-helios-and-server-cpu-growth-2026-09-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "published_at": "2026-09-08T15:02:52Z"
+      "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo",
+      "published_at": "2026-09-08T23:27:54Z"
     },
     {
-      "title": "AMD Has Something Nvidia Doesn’t. Is the Stock Finally Ready to Break Out?",
+      "title": "Marvell Is Growing Faster And Its Margin Guide Is Standing Still",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614565/marvell-is-growing-faster-and-its-margin-guide-is-standing-still/2026-09-08",
+      "published_at": "2026-09-08T22:08:48Z"
+    },
+    {
+      "title": "QQQ vs QQQM: Same Index, Same Stocks, Different Fee – and the Math Says One Leaves You Thousands Richer",
       "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/amd-has-something-nvidia-doesnt-is-the-stock-finally-ready-to-break-out/",
-      "published_at": "2026-09-08T15:00:32Z"
+      "url": "https://247wallst.com/investing/etf/2026/09/08/qqq-vs-qqqm-same-index-same-stocks-different-fee-and-the-math-says-one-leaves-you-thousands-richer/",
+      "published_at": "2026-09-08T21:45:32Z"
     },
     {
-      "title": "Can Intel's AI PC Innovation With ASU Strengthen Its Market Position?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intels-ai-pc-innovation-asu-145400598.html",
-      "published_at": "2026-09-08T14:54:00Z"
+      "title": "AMD Just Put a $70 Billion Number on Its AI Ambitions",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-just-put-70-billion-212844853.html",
+      "published_at": "2026-09-08T21:28:44Z"
     },
     {
-      "title": "AI-Optimized Processors Fuel Advanced Micro Devices (AMD) Stock Growth",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-optimized-processors-fuel-advanced-143631312.html",
-      "published_at": "2026-09-08T14:36:31Z"
-    },
-    {
-      "title": "Queen of Capital Gains: Pelosi Bets $3 Million on Bloom Energy — Then It Got Added to the S&P 500",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/queen-of-capital-gains-pelosi-bets-3-million-on-bloom-energy-then-it-got-added-to-the-sp-500/",
-      "published_at": "2026-09-08T14:34:09Z"
+      "title": "Why AMD Stock Popped Today?",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-popped-today-212023035.html",
+      "published_at": "2026-09-08T21:20:23Z"
     }
   ],
   "NFLX": [
     {
-      "title": "Why Wall Street’s Breakup Fantasy Doesn’t Work for Netflix",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/why-wall-streets-breakup-fantasy-doesnt-work-for-netflix/",
-      "published_at": "2026-09-08T11:40:17Z"
+      "title": "Bill Ackman Sold His Remaining Alphabet Shares and Bought This Streaming Stock",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-sold-remaining-alphabet-231154144.html",
+      "published_at": "2026-09-08T23:11:54Z"
     },
     {
-      "title": "3 of the Best Growth Stocks to Buy for Less Than $100 Right Now",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/08/3-of-the-best-growth-stocks-to-buy-for-less-than-100-right-now/",
-      "published_at": "2026-09-08T09:20:02Z"
-    },
-    {
-      "title": "Is Netflix Stock More Likely to Hit $100 or $60 by the End of 2026?",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/07/is-netflix-stock-more-likely-to-hit-100-or-60-by-the-end-of-2026/",
-      "published_at": "2026-09-07T16:52:31Z"
-    },
-    {
-      "title": "Investors Heavily Search Netflix, Inc. (NFLX): Here is What You Need to Know",
+      "title": "Netflix (NFLX) Suffers a Larger Drop Than the General Market: Key Insights",
       "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-netflix-inc-130003010.html",
-      "published_at": "2026-09-07T13:00:03Z"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-suffers-larger-drop-214502324.html",
+      "published_at": "2026-09-08T21:45:02Z"
     },
     {
-      "title": "Netflix Has Momentum Despite Being Down in 2026. One Analyst’s Price Target Implies 70% Upside",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/07/netflix-has-momentum-despite-being-down-in-2026-one-analysts-price-target-implies-70-upside/",
-      "published_at": "2026-09-07T12:33:55Z"
+      "title": "Sector Update: Consumer Stocks Decline Late Afternoon",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-decline-afternoon-194609902.html",
+      "published_at": "2026-09-08T19:46:09Z"
+    },
+    {
+      "title": "NFLX Is Opening Up Box Office Numbers For Six Upcoming Films, Says Report — Is Netflix Rethinking Its Movie-Theater Strategy?",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nflx-is-opening-up-box-office-numbers-for-six-upcoming-films-says-report-is-netflix-rethinking-its-movie-theater-strategy/cZtE4kpRJyR",
+      "published_at": "2026-09-08T19:24:06Z"
+    },
+    {
+      "title": "Will Direct TPU Sales Re-Rate Google Stock?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614509/will-direct-tpu-sales-re-rate-google-stock/2026-09-08",
+      "published_at": "2026-09-08T19:15:28Z"
     }
   ],
   "CRM": [
     {
-      "title": "One Stock Is Weighing Heavily on the Dow",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-090826/card/one-stock-is-weighing-heavily-on-the-dow-h7FO8LtELGkeENrvWdGQ?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-08T14:13:03Z"
+      "title": "Snowflake CEO explains how software companies can survive in the AI era",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/snowflake-ceo-explains-software-companies-205556481.html",
+      "published_at": "2026-09-08T20:55:56Z"
     },
     {
-      "title": "Before You Chase Salesforce’s Rally, Take a Closer Look at Its Latest Earnings Beat",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/08/before-you-chase-salesforces-rally-take-a-closer-look-at-its-latest-earnings-beat/",
-      "published_at": "2026-09-08T13:37:42Z"
+      "title": "S&P 500 falls as AI worries hit software makers",
+      "publisher": "Reuters",
+      "url": "https://finance.yahoo.com/markets/articles/wall-st-futures-slip-oil-091327897.html",
+      "published_at": "2026-09-08T20:17:55Z"
     },
     {
-      "title": "Mistral Lands $3 Billion AI Windfall: Samsung and BlackRock Join Investor List",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mistral-lands-3-billion-ai-131718261.html",
-      "published_at": "2026-09-08T13:17:18Z"
+      "title": "Can Selling Puts On Adobe Stock Yield Nearly 10%?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614492/can-selling-puts-on-adobe-stock-yield-nearly-10/2026-09-08",
+      "published_at": "2026-09-08T19:55:37Z"
     },
     {
-      "title": "Salesforce Stock Gains 34% in a Month: Time to Hold or Book Profits?",
+      "title": "ServiceNow Jumps 25% in 3 Months: Buy, Sell or Hold the Stock?",
       "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-gains-34-month-130600766.html",
-      "published_at": "2026-09-08T13:06:00Z"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-jumps-25-3-months-183700784.html",
+      "published_at": "2026-09-08T18:37:00Z"
     },
     {
-      "title": "AI Stocks: OpenAI Declares The 'AGI Era' Is Here Amid IPO Fervor",
-      "publisher": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-sept82026/?src=A00220&yptr=yahoo",
-      "published_at": "2026-09-08T12:31:15Z"
+      "title": "Adobe Before Q3 Earnings: Should You Hold or Fold the ADBE Stock?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-q3-earnings-hold-fold-181600871.html",
+      "published_at": "2026-09-08T18:16:00Z"
     }
   ],
   "ORCL": [
@@ -365,57 +365,69 @@
       "published_at": "2026-09-08T12:00:00Z"
     },
     {
-      "title": "Snowflake Expands in Cloud Analytics: Can It Challenge DELL & ORCL?",
+      "title": "Top Stock Reports for Oracle, Merck & Union Pacific",
       "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/snowflake-expands-cloud-analytics-challenge-152600914.html",
-      "published_at": "2026-09-08T15:26:00Z"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-oracle-merck-231300457.html",
+      "published_at": "2026-09-08T23:13:00Z"
     },
     {
-      "title": "Prediction: Oracle's $638 Billion Cloud Infrastructure Backlog Could Make It One of the Best-Performing AI Stocks Through 2028",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/08/prediction-oracles-638-billion-cloud-infrastructur/",
-      "published_at": "2026-09-08T14:50:00Z"
+      "title": "Oracle and Adobe Earnings: A Closer Look",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-adobe-earnings-closer-look-205200957.html",
+      "published_at": "2026-09-08T20:52:00Z"
     },
     {
-      "title": "Oracle's $638 Billion Backlog Meets Its Balance Sheet on Thursday",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracles-638-billion-backlog-meets-144300499.html",
-      "published_at": "2026-09-08T14:43:00Z"
+      "title": "Update: Equities Dip, Oil Jumps as Middle East Tensions Escalate",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/articles/equities-dip-oil-jumps-middle-202729439.html",
+      "published_at": "2026-09-08T20:27:29Z"
     }
   ],
   "ADBE": [
     {
-      "title": "Adobe (ADBE) Declines on Elevated Investor Hopes",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-declines-elevated-investor-144047481.html",
-      "published_at": "2026-09-08T14:40:47Z"
-    },
-    {
-      "title": "Oracle, Adobe, Micron, Alphabet and Nvidia are part of Zacks Earnings Preview",
+      "title": "Oracle and Adobe Earnings: A Closer Look",
       "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-adobe-micron-alphabet-nvidia-132800804.html",
-      "published_at": "2026-09-08T13:28:00Z"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-adobe-earnings-closer-look-205200957.html",
+      "published_at": "2026-09-08T20:52:00Z"
     },
     {
-      "title": "Rising Oil Prices Pressure Wall Street Pre-Bell; Asia Off, Europe Flat",
+      "title": "Update: Equities Dip, Oil Jumps as Middle East Tensions Escalate",
       "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/rising-oil-prices-pressure-wall-110458020.html",
-      "published_at": "2026-09-08T11:04:58Z"
+      "url": "https://finance.yahoo.com/markets/articles/equities-dip-oil-jumps-middle-202729439.html",
+      "published_at": "2026-09-08T20:27:29Z"
     },
     {
-      "title": "US Equity Investors to Focus on August's Inflation Print as September Fed Rate Increase Probability Remains Elevated",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-investors-focus-august-094012157.html",
-      "published_at": "2026-09-08T09:40:12Z"
+      "title": "Can Selling Puts On Adobe Stock Yield Nearly 10%?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614492/can-selling-puts-on-adobe-stock-yield-nearly-10/2026-09-08",
+      "published_at": "2026-09-08T19:55:37Z"
     },
     {
-      "title": "Adobe Has Handed Over the CEO Job Once in 19 Years. Here's What the Stock Did After the Last Time.",
+      "title": "Adobe's Next Earnings Report on Sept. 10 Could Send the Stock Plunging. Here's Why.",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/08/adobe-has-handed-over-the-ceo-job-once-in-19-years-here-s-what-the-stock-did-after-the-last-time/",
-      "published_at": "2026-09-08T08:51:01Z"
+      "url": "https://www.fool.com/investing/2026/09/08/adobes-next-earnings-report-on-sept-10-could-send-the-stock-plunging-heres-why/",
+      "published_at": "2026-09-08T18:27:23Z"
+    },
+    {
+      "title": "Update: Equities Fall Intraday as Traders Track Middle East Developments",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-traders-track-182132327.html",
+      "published_at": "2026-09-08T18:21:32Z"
     }
   ],
   "COST": [
+    {
+      "title": "Walmart, Ulta and Other Retailers That Can Win With AI",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/walmart-ulta-retail-stocks-ai-89f56474?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-08T17:38:00Z"
+    },
+    {
+      "title": "Costco's famous return policy has a catch members don't know",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/retail/costco-has-a-secret-liquidation-business-you-need-to-know-about",
+      "published_at": "2026-09-08T17:07:00Z"
+    },
     {
       "title": "SpaceX initiated, Intel upgraded: Wall Street's top analyst calls",
       "publisher": "The Fly",
@@ -433,21 +445,27 @@
       "publisher": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/09/07/why-does-amazon-trade-at-a-discount-to-walmart-and/",
       "published_at": "2026-09-07T16:42:00Z"
-    },
-    {
-      "title": "1 Stat That Makes Costco Hard to Ignore this September",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/07/1-stat-that-makes-costco-hard-to-ignore-this-septe/",
-      "published_at": "2026-09-07T15:39:00Z"
-    },
-    {
-      "title": "Loss of Costco deal helps push beverage brand into Chapter 11",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/retail/loss-of-costco-deal-helps-push-focus-factor-maker-into-chapter-11",
-      "published_at": "2026-09-07T15:07:00Z"
     }
   ],
   "JPM": [
+    {
+      "title": "JPMorgan Slips While Its Canadian Revenue Nearly Doubles",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-slips-while-canadian-revenue-213001963.html",
+      "published_at": "2026-09-08T21:30:01Z"
+    },
+    {
+      "title": "Why Corporate Bonds Are Giving Treasuries a Tough Time",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-090826/card/why-corporate-bonds-are-giving-treasuries-a-tough-time-Y8uKIBCpt07Bd0Vmmjzc?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-08T19:05:49Z"
+    },
+    {
+      "title": "Goldman Stock Gains 38.6% in a Year: Buy Now or Wait for a Pullback?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-stock-gains-38-6-153300218.html",
+      "published_at": "2026-09-08T15:33:00Z"
+    },
     {
       "title": "Why Micron Stock Can Benefit from Fresh Memory-Chip Price Data",
       "publisher": "Barrons.com",
@@ -459,24 +477,6 @@
       "publisher": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-starts-fedex-freight-overweight-135904363.html",
       "published_at": "2026-09-08T13:59:04Z"
-    },
-    {
-      "title": "Here is What to Know Beyond Why JPMorgan Chase & Co. (JPM) is a Trending Stock",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-jpmorgan-chase-130003817.html",
-      "published_at": "2026-09-08T13:00:03Z"
-    },
-    {
-      "title": "Market Chatter: Anthropic to Start Marketing IPO Mid-October",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-anthropic-start-marketing-091304446.html",
-      "published_at": "2026-09-08T09:13:04Z"
-    },
-    {
-      "title": "High Mortgage Rates Keep Multifamily Demand Elevated",
-      "publisher": "CRE Daily",
-      "url": "https://www.credaily.com/briefs/high-mortgage-rates-keep-multifamily-demand-elevated/",
-      "published_at": "2026-09-08T08:28:18Z"
     }
   ]
 }
