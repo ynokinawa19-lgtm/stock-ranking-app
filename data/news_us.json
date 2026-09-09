@@ -1,6 +1,24 @@
 {
   "AAPL": [
     {
+      "title": "How John Ternus understood the assignment in the Apple launch event opener",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/john-ternus-understood-assignment-apple-213000340.html",
+      "published_at": "2026-09-09T21:30:00Z"
+    },
+    {
+      "title": "Foldable iPhone Duo's software helps it 'shine' against competitors",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/foldable-iphone-duos-software-helps-193148292.html",
+      "published_at": "2026-09-09T19:31:48Z"
+    },
+    {
+      "title": "Apple reveals the foldable iPhone Duo",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/apple-reveals-foldable-iphone-duo-183645363.html",
+      "published_at": "2026-09-09T18:36:45Z"
+    },
+    {
       "title": "Here's the competition Apple’s foldable iPhone faces",
       "publisher": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/heres-competition-apple-foldable-iphone-150047428.html",
@@ -11,56 +29,38 @@
       "publisher": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/article/john-ternuss-biggest-challenges-as-apples-new-ceo-100000160.html",
       "published_at": "2026-09-01T10:00:00Z"
-    },
-    {
-      "title": "Meta & Lyft Move Higher, Apple's Foldable iPhone | Stock Movers",
-      "publisher": "Bloomberg",
-      "url": "https://finance.yahoo.com/video/meta-lyft-move-higher-apples-143658533.html",
-      "published_at": "2026-09-09T14:36:58Z"
-    },
-    {
-      "title": "Apple Is Raising Streaming Prices and the Next iPhone Could Cost You $500 More",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/apple-is-raising-streaming-prices-and-the-next-iphone-could-cost-you-500-more/",
-      "published_at": "2026-09-09T14:29:40Z"
-    },
-    {
-      "title": "Stock Market Today: Dow Off 350 Points As Oil Surges; Chevron Shares Move Past A Buy Point (Live Coverage)",
-      "publisher": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/?src=A00220&yptr=yahoo",
-      "published_at": "2026-09-09T14:09:37Z"
     }
   ],
   "MSFT": [
     {
-      "title": "Oracle Stock: Wall Street Sees Massive Upside. Here’s My Price Target",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/oracle-stock-wall-street-sees-massive-upside-heres-my-price-target/",
-      "published_at": "2026-09-09T15:00:52Z"
-    },
-    {
-      "title": "Pure-Play AI Cloud vs. Energy-Driven Infrastructure: Nebius Scale Meets IREN Limited’s Efficiency",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/pure-play-ai-cloud-vs-energy-driven-infrastructure-nebius-scale-meets-iren-limiteds-efficiency/",
-      "published_at": "2026-09-09T14:41:35Z"
-    },
-    {
-      "title": "Should You Grab Nebius In Anticipation of Full Capacity Pricing?",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/should-you-grab-nebius-in-anticipation-of-full-capacity-pricing/",
-      "published_at": "2026-09-09T14:33:30Z"
-    },
-    {
-      "title": "Prediction: This Could Be the Next AI Stock to Join the $5 Trillion Club",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/prediction-this-could-be-the-next-ai-stock-to-join-the-5-trillion-club/",
-      "published_at": "2026-09-09T14:30:09Z"
-    },
-    {
-      "title": "Qualcomm's new Amazon deal sent the stock soaring 9%",
+      "title": "HIVE joins Google, Microsoft, and Amazon in new Canada data center pledge",
       "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/investing/qualcomm-amazon-aws-custom-ai-chips-deal",
-      "published_at": "2026-09-09T14:07:00Z"
+      "url": "https://www.thestreet.com/crypto/markets/hive-joins-google-microsoft-and-amazon-in-new-canada-data-center-pledge",
+      "published_at": "2026-09-09T22:53:44Z"
+    },
+    {
+      "title": "Forget VUG. Vanguard’s Value Fund Is Beating Its Growth Twin by 11 Points This Year, With None of the Magnificent Seven",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/etf/2026/09/09/forget-vug-vanguards-value-fund-is-beating-its-growth-twin-by-11-points-this-year-with-none-of-the-magnificent-seven/",
+      "published_at": "2026-09-09T22:15:26Z"
+    },
+    {
+      "title": "Stock Market Today, Sept. 9: Apple Unveils iPhone Duo Foldable and iPhone 18 Pro with AI Upgrades",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/09/stock-market-today-sept-9-apple-unveils-iphone-duo-foldable-and-iphone-18-pro-with-ai-upgrades/",
+      "published_at": "2026-09-09T21:13:22Z"
+    },
+    {
+      "title": "What CRM Shareholders Got Paid While The Stock Stood Still",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614669/what-crm-shareholders-got-paid-while-the-stock-stood-still/2026-09-09",
+      "published_at": "2026-09-09T20:31:42Z"
+    },
+    {
+      "title": "Should You Buy Alphabet Stock For The Chips It Now Sells?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614707/should-you-buy-alphabet-stock-for-the-chips-it-now-sells/2026-09-09",
+      "published_at": "2026-09-09T20:09:19Z"
     }
   ],
   "NVDA": [
@@ -71,31 +71,37 @@
       "published_at": "2026-09-09T14:53:36Z"
     },
     {
-      "title": "Victrex Finds Its High-Performance Groove Again",
-      "publisher": "Moby",
-      "url": "https://app.moby.co/home/news/news-victrex-finds-its-high-performance-groove-again?utm_source=yahoo_finance&utm_medium=rss",
-      "published_at": "2026-09-09T15:12:03Z"
+      "title": "A foldable iPhone is nice, but Apple still needs to improve its AI user experience",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/foldable-iphone-nice-apple-still-141232195.html",
+      "published_at": "2026-09-09T14:12:32Z"
     },
     {
-      "title": "Mark Zuckerberg's Net Worth Jumped $13 Billion in a Week as Meta Stock Extended Its Rally",
+      "title": "As Anthropic's IPO Looms, This Small Financial Powerhouse Just Got Its First Underwriting Job",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/09/mark-zuckerberg-net-worth-jump-billion-meta-ai/",
-      "published_at": "2026-09-09T15:10:00Z"
+      "url": "https://www.fool.com/investing/2026/09/09/as-anthropics-ipo-looms-this-small-financial-power/",
+      "published_at": "2026-09-09T23:25:00Z"
     },
     {
-      "title": "4 AI Stocks Are Joining the S&P 500: Buy, Hold, or Pass?",
+      "title": "Why Sasol Stock Soared Nearly 10% Higher Today",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/09/4-ai-stocks-are-joining-the-sp-500-buy-hold-pass/",
-      "published_at": "2026-09-09T15:03:00Z"
+      "url": "https://www.fool.com/investing/2026/09/09/why-sasol-stock-soared-nearly-10-higher-today/",
+      "published_at": "2026-09-09T23:22:04Z"
     },
     {
-      "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/amd-rises-3-as-cfo-lifts-ai-chip-market-forecast-toward-3-trillion-intel-ticks-up/",
-      "published_at": "2026-09-09T14:45:21Z"
+      "title": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614719/marvell-or-nvidia-which-one-costs-less-per-dollar-of-profit/2026-09-09",
+      "published_at": "2026-09-09T23:02:12Z"
     }
   ],
   "GOOGL": [
+    {
+      "title": "How it feels to handle Apple's foldable iPhone Duo",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/how-it-feels-to-handle-apples-foldable-iphone-duo-202001509.html",
+      "published_at": "2026-09-09T20:20:01Z"
+    },
     {
       "title": "A foldable iPhone is nice, but Apple still needs to improve its AI user experience",
       "publisher": "Yahoo Finance Video",
@@ -103,60 +109,54 @@
       "published_at": "2026-09-09T14:12:32Z"
     },
     {
-      "title": "Top 3 Streaming Stocks to Ride on Rising Ad and Viewing Trends",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/media-advertising/articles/top-3-streaming-stocks-ride-151400775.html",
-      "published_at": "2026-09-09T15:14:00Z"
+      "title": "HIVE joins Google, Microsoft, and Amazon in new Canada data center pledge",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/hive-joins-google-microsoft-and-amazon-in-new-canada-data-center-pledge",
+      "published_at": "2026-09-09T22:53:44Z"
     },
     {
-      "title": "Prediction: This Could Be the Next AI Stock to Join the $5 Trillion Club",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/prediction-this-could-be-the-next-ai-stock-to-join-the-5-trillion-club/",
-      "published_at": "2026-09-09T14:30:09Z"
+      "title": "Star AI Researcher Is Leaving Meta",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/star-ai-researcher-is-leaving-meta-8906e4aa?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-09T22:21:00Z"
     },
     {
-      "title": "Alphabet (GOOG) Surges Over 20% Revenue Growth, Cloud Strength",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-surges-over-20-142626204.html",
-      "published_at": "2026-09-09T14:26:26Z"
-    },
-    {
-      "title": "Alphabet (GOOG) Exit: Monetizing Derivative Gains and Securing Returns",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-goog-exit-monetizing-derivative-141704201.html",
-      "published_at": "2026-09-09T14:17:04Z"
+      "title": "Do Amazon and Alphabet's Combined $420 Billion in Capital Expenditures Make Sense?",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/09/do-amazon-and-alphabets-combined-420-billion-in-ca/",
+      "published_at": "2026-09-09T22:20:00Z"
     }
   ],
   "AMZN": [
     {
-      "title": "Qualcomm and Amazon ink deal for custom data center chips",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/qualcomm-and-amazon-ink-deal-for-custom-data-center-chips-170048117.html",
-      "published_at": "2026-09-08T17:00:48Z"
+      "title": "HIVE joins Google, Microsoft, and Amazon in new Canada data center pledge",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/hive-joins-google-microsoft-and-amazon-in-new-canada-data-center-pledge",
+      "published_at": "2026-09-09T22:53:44Z"
     },
     {
-      "title": "Top 3 Streaming Stocks to Ride on Rising Ad and Viewing Trends",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/media-advertising/articles/top-3-streaming-stocks-ride-151400775.html",
-      "published_at": "2026-09-09T15:14:00Z"
-    },
-    {
-      "title": "Oracle Stock: Wall Street Sees Massive Upside. Here’s My Price Target",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/oracle-stock-wall-street-sees-massive-upside-heres-my-price-target/",
-      "published_at": "2026-09-09T15:00:52Z"
-    },
-    {
-      "title": "Forget Smartphones: Qualcomm Just Landed a Massive AI Deal With Amazon",
+      "title": "Do Amazon and Alphabet's Combined $420 Billion in Capital Expenditures Make Sense?",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/09/forget-smartphones-qualcomm-just-landed-a-massive-ai-deal-with-amazon/",
-      "published_at": "2026-09-09T14:37:05Z"
+      "url": "https://www.fool.com/investing/2026/09/09/do-amazon-and-alphabets-combined-420-billion-in-ca/",
+      "published_at": "2026-09-09T22:20:00Z"
     },
     {
-      "title": "Analyzing Amazon’s (AMZN) Reinvestment Flywheel in the AI Era",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analyzing-amazon-amzn-reinvestment-flywheel-142925704.html",
-      "published_at": "2026-09-09T14:29:25Z"
+      "title": "S&P 500, Dow, Nasdaq End Lower As Oil Crosses $101, Yields Pop Following Bessent’s Expanded Buyback Plan — AAPL, META, AMZN, CRM In Focus",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-end-lower-as-oil-crosses-101-yields-pop/cZt71xeRJCT",
+      "published_at": "2026-09-09T22:01:49Z"
+    },
+    {
+      "title": "Amazon (AMZN) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-sees-more-significant-214504623.html",
+      "published_at": "2026-09-09T21:45:04Z"
+    },
+    {
+      "title": "AMZN, META, GOOGL Might Lose Billions As Ohio State Reconsiders Data Center Tax Breaks, Says Report",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/amzn-meta-googl-might-lose-billions-as-ohio-state-reconsiders-data-center-tax-breaks-says-report/cZt7KbFRJCb",
+      "published_at": "2026-09-09T21:29:22Z"
     }
   ],
   "META": [
@@ -173,22 +173,22 @@
       "published_at": "2026-09-09T13:57:40Z"
     },
     {
-      "title": "Mark Zuckerberg's Net Worth Jumped $13 Billion in a Week as Meta Stock Extended Its Rally",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/09/mark-zuckerberg-net-worth-jump-billion-meta-ai/",
-      "published_at": "2026-09-09T15:10:00Z"
+      "title": "Dow Jones Futures: Oil Prices Keep Rising But Market Hasn't Broken Yet. Inflation Data Due.",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo",
+      "published_at": "2026-09-09T23:33:27Z"
     },
     {
-      "title": "Adult film studio says a Meta exec torrented nearly 20K files on his home internet — wants it folded into a $446M case",
-      "publisher": "Moneywise",
-      "url": "https://finance.yahoo.com/media-advertising/articles/adult-film-studio-says-meta-150000902.html",
-      "published_at": "2026-09-09T15:00:00Z"
+      "title": "HIVE joins Google, Microsoft, and Amazon in new Canada data center pledge",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/hive-joins-google-microsoft-and-amazon-in-new-canada-data-center-pledge",
+      "published_at": "2026-09-09T22:53:44Z"
     },
     {
-      "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/amd-rises-3-as-cfo-lifts-ai-chip-market-forecast-toward-3-trillion-intel-ticks-up/",
-      "published_at": "2026-09-09T14:45:21Z"
+      "title": "Q2 Earnings Roundup: Asana (NYSE:ASAN) And The Rest Of The Productivity Software Segment",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-roundup-asana-nyse-225038281.html",
+      "published_at": "2026-09-09T22:50:38Z"
     }
   ],
   "TSLA": [
@@ -199,95 +199,113 @@
       "published_at": "2026-09-09T13:57:40Z"
     },
     {
-      "title": "Bond yield worries persist as oil edges higher: AlphaCheck",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/bond-yield-worries-persist-as-oil-edges-higher-alphacheck-135158227.html",
-      "published_at": "2026-09-08T13:51:58Z"
+      "title": "Goldman Sachs sends stark message to Tesla investors",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-tesla-stock-rating-cybercab",
+      "published_at": "2026-09-09T23:00:00Z"
     },
     {
-      "title": "Here's Exactly What Drove BYD's 30% Spike in Profits -- Is It Still a Smart Buy?",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/09/heres-exactly-what-drove-byds-30-spike-in-profits/",
-      "published_at": "2026-09-09T14:43:00Z"
+      "title": "This billionaire is now worth more than Jeff Bezos",
+      "publisher": "USA TODAY",
+      "url": "https://www.usatoday.com/story/money/personal-finance/income/2026/09/09/michael-dell-passes-jeff-bezos-forbes-billionaire-rankings/91678135007/",
+      "published_at": "2026-09-09T21:01:35Z"
     },
     {
-      "title": "Seagate Technology and Western Union have been highlighted as Zacks Bull and Bear of the Day",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-western-union-highlighted-143200920.html",
-      "published_at": "2026-09-09T14:32:00Z"
+      "title": "Could Tesla’s (TSLA) Cybercab Unlock a New Growth Driver?",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-tesla-tsla-cybercab-unlock-200632774.html",
+      "published_at": "2026-09-09T20:06:32Z"
     },
     {
-      "title": "Ford Finally Runs Out Of EVs",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/ford-finally-runs-out-of-evs-2/",
-      "published_at": "2026-09-09T14:04:02Z"
+      "title": "Micron, Visa, and Other Growth Stocks Look Ready for a Revival—Here Are the Signs",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/micron-visa-and-other-growth-stocks-look-ready-for-a-revivalhere-are-the-signs-f2d9af9b?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-09T19:42:00Z"
     }
   ],
   "AVGO": [
     {
-      "title": "Truist cuts Broadcom stock target on rattling Q4 outlook",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/truist-cuts-broadcom-avgo-stock-target-on-rattling-q4-outlook",
-      "published_at": "2026-09-09T14:37:00Z"
-    },
-    {
-      "title": "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be the Top Performers to End 2026",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/09/prediction-these-3-ai-stocks-will-be-the-top/",
-      "published_at": "2026-09-09T14:13:00Z"
-    },
-    {
-      "title": "NVDA Stock Is Running. Is There Fuel Left?",
+      "title": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
       "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/614661/nvda-stock-is-running-is-there-fuel-left/2026-09-09",
-      "published_at": "2026-09-09T14:05:42Z"
+      "url": "https://www.trefis.com/articles/614719/marvell-or-nvidia-which-one-costs-less-per-dollar-of-profit/2026-09-09",
+      "published_at": "2026-09-09T23:02:12Z"
     },
     {
-      "title": "Prediction: NVIDIA Stock Has Returned 14,700% in 10 Years. Can It Do It Again?",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/prediction-nvidia-stock-has-returned-14700-in-10-years-can-it-do-it-again/",
-      "published_at": "2026-09-09T14:00:07Z"
+      "title": "Broadcom Forecasts $230 Billion in AI Semiconductor Revenue in 2028. The Stock Could Reach $900 Per Share as a Result.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/09/broadcom-forecasts-230-billion-in-ai-semiconductor/",
+      "published_at": "2026-09-09T22:41:00Z"
     },
     {
-      "title": "Marvell Technology Must Position Itself as The ‘Anti-Broadcom’",
+      "title": "Broadcom (AVGO) Q3 2026 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/09/09/broadcom-avgo-q3-2026-earnings-call-transcript/",
+      "published_at": "2026-09-09T21:28:43Z"
+    },
+    {
+      "title": "The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boom",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/09/the-overlooked-chip-stock-poised-to-outperform-nvi/",
+      "published_at": "2026-09-09T20:43:00Z"
+    },
+    {
+      "title": "What Investors Need To Understand About Broadcom, Credo and Snowflake Earnings",
       "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/marvell-technology-must-position-itself-as-the-anti-broadcom/",
-      "published_at": "2026-09-09T13:47:02Z"
+      "url": "https://247wallst.com/videos/what-investors-need-to-understand-about-broadcom-credo-and-snowflake-earnings/",
+      "published_at": "2026-09-09T19:50:11Z"
     }
   ],
   "AMD": [
     {
-      "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/amd-rises-3-as-cfo-lifts-ai-chip-market-forecast-toward-3-trillion-intel-ticks-up/",
-      "published_at": "2026-09-09T14:45:21Z"
+      "title": "Dow Jones Futures: Oil Prices Keep Rising But Market Hasn't Broken Yet. Inflation Data Due.",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo",
+      "published_at": "2026-09-09T23:33:27Z"
     },
     {
-      "title": "NVDA Stock Is Running. Is There Fuel Left?",
+      "title": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
       "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/614661/nvda-stock-is-running-is-there-fuel-left/2026-09-09",
-      "published_at": "2026-09-09T14:05:42Z"
+      "url": "https://www.trefis.com/articles/614719/marvell-or-nvidia-which-one-costs-less-per-dollar-of-profit/2026-09-09",
+      "published_at": "2026-09-09T23:02:12Z"
     },
     {
-      "title": "Why Qualcomm’s AI Chip Deal Proves Nvidia Is Still Top Dog",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-qualcomm-amazon-28cb9ee5?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-09T14:05:00Z"
-    },
-    {
-      "title": "Apple, Jersey Mike’s, Casey’s, Meta, ServiceTitan, and More Stocks That Explain Today’s Market",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-fa21448d?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-09T14:04:00Z"
-    },
-    {
-      "title": "Zacks Investment Ideas feature highlights: NVIDIA, Alphabet, AMD, Micron, Dell and Cisco",
+      "title": "Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note",
       "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-140400520.html",
-      "published_at": "2026-09-09T14:04:00Z"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-ascends-214504877.html",
+      "published_at": "2026-09-09T21:45:04Z"
+    },
+    {
+      "title": "Could Advanced Micro Devices (AMD)’s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity?",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-advanced-micro-devices-amd-213247998.html",
+      "published_at": "2026-09-09T21:32:47Z"
+    },
+    {
+      "title": "AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/amd-stock-regains-investor-favor/?src=A00220&yptr=yahoo",
+      "published_at": "2026-09-09T20:49:07Z"
     }
   ],
   "NFLX": [
+    {
+      "title": "Florida Accuses Netflix Of Privacy 'Bait-And-Switch'",
+      "publisher": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/417761/florida-accuses-netflix-of-privacy-bait-and-switc.html",
+      "published_at": "2026-09-09T20:47:07Z"
+    },
+    {
+      "title": "Should You Buy Alphabet Stock For The Chips It Now Sells?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614707/should-you-buy-alphabet-stock-for-the-chips-it-now-sells/2026-09-09",
+      "published_at": "2026-09-09T20:09:19Z"
+    },
+    {
+      "title": "Is Netflix a Good Buy? After 10 Years of Covering NFLX, Here's My Honest Answer.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/09/is-netflix-a-good-buy-after-x-years-covering-nflx/",
+      "published_at": "2026-09-09T17:50:00Z"
+    },
     {
       "title": "Apple Is Raising Streaming Prices and the Next iPhone Could Cost You $500 More",
       "publisher": "24/7 Wall St.",
@@ -299,123 +317,117 @@
       "publisher": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/09/09/prediction-netflix-s-advertising-business-passes-usd6-billion-in-2027/",
       "published_at": "2026-09-09T06:01:01Z"
-    },
-    {
-      "title": "Bill Ackman's surprising $934 million bet after dumping Alphabet",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/investing/bill-ackman-surprising-934-million-netflix-bet-after-dumping-alphabet",
-      "published_at": "2026-09-09T03:07:00Z"
-    },
-    {
-      "title": "Bill Ackman Sold His Remaining Alphabet Shares and Bought This Streaming Stock",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-sold-remaining-alphabet-231154144.html",
-      "published_at": "2026-09-08T23:11:54Z"
-    },
-    {
-      "title": "Netflix (NFLX) Suffers a Larger Drop Than the General Market: Key Insights",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-suffers-larger-drop-214502324.html",
-      "published_at": "2026-09-08T21:45:02Z"
     }
   ],
   "CRM": [
     {
-      "title": "Snowflake CEO explains how software companies can survive in the AI era",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/snowflake-ceo-explains-software-companies-205556481.html",
-      "published_at": "2026-09-08T20:55:56Z"
+      "title": "Is Salesforce (CRM)’s Agentforce Growth Enough to Outpace F5 (FFIV)’s AI Security Momentum?",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-agentforce-growth-enough-215747965.html",
+      "published_at": "2026-09-09T21:57:47Z"
     },
     {
-      "title": "Agentforce ARR Hits $1.5B: Can It Boost Salesforce's Revenue Growth?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/agentforce-arr-hits-1-5b-142700697.html",
-      "published_at": "2026-09-09T14:27:00Z"
-    },
-    {
-      "title": "Salesforce is Nearly Fully Priced: Why Bulls Say This is Just the Beginning",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/salesforce-is-nearly-fully-priced-why-bulls-say-this-is-just-the-beginning/",
-      "published_at": "2026-09-09T12:28:39Z"
-    },
-    {
-      "title": "What Qualtrics’ CEO Says Software Companies Must Possess",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/articles/what-qualtrics-ceo-says-software-companies-must-possess-2ab3fe27?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-09T09:54:00Z"
-    },
-    {
-      "title": "SpaceX, Nvidia Lead Schwab Buys As Software Rally Spurs Profit-Taking – Trading Gauge Posts First Dip Since April",
+      "title": "CRM Stock Dips 2% — Salesforce Is Reportedly In Talks To Acquire AI Research Firm Listen Labs For $2B",
       "publisher": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/spacex-nvidia-schwab-buys-software-rally-profit-taking-trading-gauge-first-dip-april/cZtetQiRJyZ",
-      "published_at": "2026-09-09T05:27:01Z"
+      "url": "https://stocktwits.com/news-articles/markets/equity/salesforce-is-reportedly-in-talks-to-acquire-ai-research-firm-listen-labs-for-2-b/cZt7iGLRJz6",
+      "published_at": "2026-09-09T20:51:58Z"
+    },
+    {
+      "title": "What CRM Shareholders Got Paid While The Stock Stood Still",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614669/what-crm-shareholders-got-paid-while-the-stock-stood-still/2026-09-09",
+      "published_at": "2026-09-09T20:31:42Z"
+    },
+    {
+      "title": "Salesforce in talks to acquire AI platform Listen Labs for $2 billion - report",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-talks-acquire-ai-platform-201159735.html",
+      "published_at": "2026-09-09T20:11:59Z"
+    },
+    {
+      "title": "Can Microsoft Stock Keep Earning Like This?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614712/can-microsoft-stock-keep-earning-like-this/2026-09-09",
+      "published_at": "2026-09-09T19:54:39Z"
     }
   ],
   "ORCL": [
     {
-      "title": "Oracle Stock: Wall Street Sees Massive Upside. Here’s My Price Target",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/oracle-stock-wall-street-sees-massive-upside-heres-my-price-target/",
-      "published_at": "2026-09-09T15:00:52Z"
+      "title": "Oracle Reports Thursday. Its Capital Budget Is More Than Twice the Cash Its Business Produces.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/09/oracle-reports-thursday-its-capital-budget-is-more-than-twice-the-cash-its-business-produces/",
+      "published_at": "2026-09-09T22:24:01Z"
     },
     {
-      "title": "Agentforce ARR Hits $1.5B: Can It Boost Salesforce's Revenue Growth?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/agentforce-arr-hits-1-5b-142700697.html",
-      "published_at": "2026-09-09T14:27:00Z"
+      "title": "Could Hewlett Packard (HPE)’s Oracle Corporation (ORCL) Partnership Turn AI Networking into its Next Growth Engine?",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-hewlett-packard-hpe-oracle-210310479.html",
+      "published_at": "2026-09-09T21:03:10Z"
     },
     {
-      "title": "The Zacks Analyst Blog Highlights Oracle, Merck, Union Pacific, CVD Equipment and Koil Energy Solutions",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oracle-142700490.html",
-      "published_at": "2026-09-09T14:27:00Z"
+      "title": "Here’s How Much Oracle Stock Is Expected to Move After Earnings",
+      "publisher": "Investopedia",
+      "url": "https://www.investopedia.com/here-is-how-much-oracle-stock-is-expected-to-move-after-earnings-orcl-q1-fy2027-12111417",
+      "published_at": "2026-09-09T20:45:53Z"
     },
     {
-      "title": "The Zacks Analyst Blog Highlights Oracle, Hitachi, Interactive Brokers and Siemens Energy AG",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oracle-142500997.html",
-      "published_at": "2026-09-09T14:25:00Z"
+      "title": "What CRM Shareholders Got Paid While The Stock Stood Still",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614669/what-crm-shareholders-got-paid-while-the-stock-stood-still/2026-09-09",
+      "published_at": "2026-09-09T20:31:42Z"
     },
     {
-      "title": "Zacks Investment Ideas feature highlights: Oracle",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-141400515.html",
-      "published_at": "2026-09-09T14:14:00Z"
+      "title": "Oracle's Biggest AI Risk May No Longer Be Spending",
+      "publisher": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracles-biggest-ai-risk-may-203014497.html",
+      "published_at": "2026-09-09T20:30:14Z"
     }
   ],
   "ADBE": [
     {
-      "title": "Oracle or Adobe: Which Earnings Report Will Reveal the True Growth Story?",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/09/oracle-or-adobe-which-earnings-report-will-reveal-the-true-growth-story/",
-      "published_at": "2026-09-09T12:05:15Z"
+      "title": "OpenAI restricts rival AI ad campaigns in ChatGPT as competition heats up - report",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-restricts-rival-ai-ad-214145959.html",
+      "published_at": "2026-09-09T21:41:45Z"
     },
     {
-      "title": "Saudi’s Humain turns to outside investment as the kingdom reins in fiscal spending",
-      "publisher": "Fortune",
-      "url": "https://finance.yahoo.com/technology/ai/articles/saudi-humain-turns-outside-investment-095532267.html",
-      "published_at": "2026-09-09T09:55:32Z"
+      "title": "What CRM Shareholders Got Paid While The Stock Stood Still",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/614669/what-crm-shareholders-got-paid-while-the-stock-stood-still/2026-09-09",
+      "published_at": "2026-09-09T20:31:42Z"
     },
     {
-      "title": "Inflation Data, iPhone Event: Still to Come This Week",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-09-2026/card/inflation-data-iphone-event-still-to-come-this-week-KBHdr3yPleErbL56WeYc?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-09T07:58:03Z"
-    },
-    {
-      "title": "Oracle and Adobe Earnings: A Closer Look",
+      "title": "Oracle & Adobe Earnings Ahead: Which Software Giant Has More AI Upside?",
       "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-adobe-earnings-closer-look-205200957.html",
-      "published_at": "2026-09-08T20:52:00Z"
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-adobe-earnings-ahead-software-192100897.html",
+      "published_at": "2026-09-09T19:21:00Z"
     },
     {
-      "title": "Update: Equities Dip, Oil Jumps as Middle East Tensions Escalate",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/articles/equities-dip-oil-jumps-middle-202729439.html",
-      "published_at": "2026-09-08T20:27:29Z"
+      "title": "Adobe Is Inviting Figma Users to Test a New AI Design Tool. Should Investors Worry?",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/adobe-inviting-figma-users-test-184723278.html",
+      "published_at": "2026-09-09T18:47:23Z"
+    },
+    {
+      "title": "Adobe (ADBE) Q3 Earnings: What To Expect",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-q3-earnings-expect-161838876.html",
+      "published_at": "2026-09-09T16:18:38Z"
     }
   ],
   "COST": [
+    {
+      "title": "Costco adds surprising seasonal item to lineup",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/retail/costco-adds-surprising-seasonal-item-to-lineup",
+      "published_at": "2026-09-09T16:33:00Z"
+    },
+    {
+      "title": "I'm 25, Have No Degree and Make $32 an Hour Cutting Meat at Costco. Should I Give Up a Good Job to Go to College?",
+      "publisher": "Benzinga",
+      "url": "https://finance.yahoo.com/small-business/articles/im-25-no-degree-32-154529440.html",
+      "published_at": "2026-09-09T15:45:29Z"
+    },
     {
       "title": "Deutsche Bank expects European consumer staples to underperform as structural pressures mount",
       "publisher": "Proactive",
@@ -429,54 +441,42 @@
       "published_at": "2026-09-09T10:20:02Z"
     },
     {
-      "title": "Costco (COST): Buy, Sell, or Hold Post Q2 Earnings?",
-      "publisher": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-buy-sell-hold-020718032.html",
-      "published_at": "2026-09-09T02:07:18Z"
-    },
-    {
-      "title": "Cramer Warns Costco May Have Lost Its Edge, Days Before Clark Howard Sends Retirees Straight Back",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/personal-finance/2026/09/08/cramer-warns-costco-may-have-lost-its-edge-days-before-clark-howard-sends-retirees-straight-back/",
-      "published_at": "2026-09-09T00:32:24Z"
-    },
-    {
-      "title": "Walmart, Ulta and Other Retailers That Can Win With AI",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/walmart-ulta-retail-stocks-ai-89f56474?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-08T17:38:00Z"
+      "title": "Is conceding to Trump administration on DEI a recipe for business success?",
+      "publisher": "HR Dive",
+      "url": "https://www.hrdive.com/news/companies-stick-with-dei-perform-better-research/829902/",
+      "published_at": "2026-09-09T10:03:59Z"
     }
   ],
   "JPM": [
+    {
+      "title": "Stocks to Consider Before the Fed's September Decision: JPM, EOG, BE",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-consider-feds-september-decision-190000988.html",
+      "published_at": "2026-09-09T19:00:00Z"
+    },
+    {
+      "title": "MicroStrategy Says It Has the One Thing JPMorgan Lacks",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/microstrategy-jpmorgan-permanent-capital-balance-sheet/",
+      "published_at": "2026-09-09T18:58:09Z"
+    },
+    {
+      "title": "JPMorgan Gains as Its European Hiring Offensive Reaches Greece",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-gains-european-hiring-offensive-180015035.html",
+      "published_at": "2026-09-09T18:00:15Z"
+    },
+    {
+      "title": "Perma-Pipe International Q2 Earnings Call Highlights",
+      "publisher": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-perma-pipe-international-q2-earnings-call-highlights-2026-09-09/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "published_at": "2026-09-09T16:05:23Z"
+    },
     {
       "title": "3 S&P 500 Stocks with Open Questions",
       "publisher": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-open-151438373.html",
       "published_at": "2026-09-09T15:14:38Z"
-    },
-    {
-      "title": "Standard Chartered (SCBFF) Soars 5.8%: Is Further Upside Left in the Stock?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/standard-chartered-scbff-soars-5-140100133.html",
-      "published_at": "2026-09-09T14:01:00Z"
-    },
-    {
-      "title": "Goldman's IG Deal Expands Canadian Wealth Reach & AWM Scale",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldmans-ig-deal-expands-canadian-134900537.html",
-      "published_at": "2026-09-09T13:49:00Z"
-    },
-    {
-      "title": "JP Morgan boss to meet Healey amid fears of bank tax raid",
-      "publisher": "The Telegraph",
-      "url": "https://www.telegraph.co.uk/business/2026/09/09/jp-morgan-boss-to-meet-healey-amid-fears-of-bank-tax-raid/",
-      "published_at": "2026-09-09T12:38:54Z"
-    },
-    {
-      "title": "No industry is spared from costly U.S. tariff regime",
-      "publisher": "CFO.com",
-      "url": "https://www.cfo.com/news/no-industry-is-spared-from-costly-us-tariff-regime/829816/",
-      "published_at": "2026-09-09T09:11:10Z"
     }
   ]
 }
