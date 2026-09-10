@@ -65,6 +65,24 @@
   ],
   "9984.T": [
     {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-ad87364c?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-10T11:59:00Z"
+    },
+    {
+      "title": "One Great Chart: SB Energy’s Revenue Timeline",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-10-2026/card/one-great-chart-sb-energy-s-revenue-timeline-S8fCXqxFBETZzOKkB5Za?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-10T10:36:03Z"
+    },
+    {
+      "title": "The IPO That Asks You to Buy AI Hype Today and Get Paid Years Later",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/the-ipo-that-asks-you-to-buy-ai-hype-today-and-get-paid-years-later-1bd97731",
+      "published_at": "2026-09-10T09:30:00Z"
+    },
+    {
       "title": "SoftBank to Repay $40 Billion Bridge Loan for OpenAI Stake",
       "publisher": "Bloomberg",
       "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-repay-40-billion-bridge-084641012.html",
@@ -75,32 +93,14 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-1-led-by-chip-related-stocks-c8902c64?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-09-09T07:39:00Z"
-    },
-    {
-      "title": "AGI is here, Nvidia CEO Jensen Huang has declared. Here’s why the market doesn’t care",
-      "publisher": "Fortune",
-      "url": "https://finance.yahoo.com/technology/ai/articles/agi-nvidia-ceo-jensen-huang-070000560.html",
-      "published_at": "2026-09-09T07:00:00Z"
-    },
-    {
-      "title": "SoftBank Explodes 11.2% as AI Mania Roars Back Across Asia",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-explodes-11-2-ai-214601624.html",
-      "published_at": "2026-09-07T21:46:01Z"
-    },
-    {
-      "title": "What’s Ahead for the AI-Energy Marriage—And How to Invest",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/ai-energy-sb-energy-stock-nvidia-softbank-fa522979?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-07T09:55:00Z"
     }
   ],
   "8306.T": [
     {
-      "title": "Gold Broadly Stable Ahead of Key U.S. Inflation Figures",
+      "title": "Wall Street’s Favorite AI Startup Sets Its Sights on Wealth Management",
       "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-steady-ahead-of-u-s-inflation-data-ac8bcde7?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-10T07:24:00Z"
+      "url": "https://www.wsj.com/finance/banking/wall-streets-favorite-ai-startup-sets-its-sights-on-wealth-management-61b8b5d1",
+      "published_at": "2026-09-10T11:00:00Z"
     },
     {
       "title": "Mitsubishi UFJ (MUFG) Is Up 5.20% in One Week: What You Should Know",
@@ -129,6 +129,12 @@
   ],
   "6501.T": [
     {
+      "title": "Best Momentum Stock to Buy for September 10th",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/best-momentum-stock-buy-september-140000830.html",
+      "published_at": "2026-09-10T14:00:00Z"
+    },
+    {
       "title": "The Zacks Analyst Blog Highlights Oracle, Hitachi, Interactive Brokers and Siemens Energy AG",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oracle-142500997.html",
@@ -151,12 +157,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-japanese-defensive-stocks-earnings-001621621.html",
       "published_at": "2026-09-06T00:16:21Z"
-    },
-    {
-      "title": "All You Need to Know About Hitachi (HTHIY) Rating Upgrade to Strong Buy",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/know-hitachi-hthiy-rating-upgrade-160002870.html",
-      "published_at": "2026-09-02T16:00:02Z"
     }
   ],
   "9432.T": [
@@ -321,6 +321,12 @@
   ],
   "7974.T": [
     {
+      "title": "Why Is Nintendo Stock Falling After Zelda? Look at What Wasn't Announced",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/nintendo-stock-drop-game-reveals/",
+      "published_at": "2026-09-10T09:37:38Z"
+    },
+    {
       "title": "GameStop Bets Big on $100B Collectibles Market as Trading Card Sales Surge",
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/articles/gamestop-bets-big-on-100b-collectibles-market-as-trading-card-sales-surge-88536286?siteid=yhoof2&yptr=yahoo",
@@ -343,12 +349,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nintendo-tse-7974-unveils-switch-201344968.html",
       "published_at": "2026-08-28T20:13:44Z"
-    },
-    {
-      "title": "Nintendo (TSE:7974) Unveils Two New Switch 2 Bundles",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nintendo-tse-7974-unveils-two-181337521.html",
-      "published_at": "2026-08-28T18:13:37Z"
     }
   ],
   "9983.T": [
