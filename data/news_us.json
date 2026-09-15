@@ -1,6 +1,18 @@
 {
   "AAPL": [
     {
+      "title": "Gene Munster Says iPhone 18 Pre-Order Wait Times Are Climbing, Calls It a 'Favorable Sign for Demand'",
+      "publisher": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gene-munster-says-iphone-18-065518667.html",
+      "published_at": "2026-09-15T06:55:18Z"
+    },
+    {
+      "title": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-could-buy-60-billion-041125286.html",
+      "published_at": "2026-09-15T04:11:25Z"
+    },
+    {
       "title": "PayPal takes No. 1 in tech power ranking",
       "publisher": "TheStreet",
       "url": "https://www.thestreet.com/crypto/markets/paypal-takes-no-1-in-tech-power-ranking",
@@ -17,18 +29,6 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/openai-left-exposed-apples-surprise-205620397.html",
       "published_at": "2026-09-14T20:56:20Z"
-    },
-    {
-      "title": "Apple's Siri Upgrade Does Not Require Every User to Buy Another iPhone",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apples-siri-upgrade-does-not-182110757.html",
-      "published_at": "2026-09-14T18:21:10Z"
-    },
-    {
-      "title": "Apple Duo Foldable iPhone a ‘Must Have Product,’ Gary Black Says ‘Don’t Underestimate the Power of the $AAPL Marketing Machine’",
-      "publisher": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/articles/apple-duo-foldable-iphone-must-173028466.html",
-      "published_at": "2026-09-14T17:30:28Z"
     }
   ],
   "MSFT": [
@@ -51,16 +51,16 @@
       "published_at": "2026-09-14T13:35:45Z"
     },
     {
-      "title": "Microsoft Just Made a Move That Could Put More Pressure on Its Azure Business. Here's Why It Could Turn Out Great for the Stock",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/14/microsoft-just-made-a-move-that-could-put-more-pressure-on-its-azure-business-here-s-why-it-could-turn-out-great-for-the-stock/",
-      "published_at": "2026-09-14T23:01:37Z"
+      "title": "Bull of the Day: Caterpillar (CAT)",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-caterpillar-cat-080000592.html",
+      "published_at": "2026-09-15T08:00:00Z"
     },
     {
-      "title": "S&P 500, Nasdaq, Dow Drop On Chipmaker Weakness, Treasury Yield Pressure — MSFT, NFLX, ORCL, CRWD, RBLX In Focus",
-      "publisher": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-drop-on-chipmaker-weakness/cZtm0WRRBTI",
-      "published_at": "2026-09-14T21:53:54Z"
+      "title": "Australia's AI Regulation Debate",
+      "publisher": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/australias-ai-regulation-debate-045117172.html",
+      "published_at": "2026-09-15T04:51:17Z"
     }
   ],
   "NVDA": [
@@ -77,22 +77,22 @@
       "published_at": "2026-09-14T13:45:19Z"
     },
     {
-      "title": "Prediction: Interactive Brokers Ends 2026 With More Than 6 Million Customer Accounts",
+      "title": "2 Popular AI Stocks to Sell Before They Fall 53% and 58%, According to Wall Street Analysts",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/14/prediction-interactive-brokers-ends-2026-with-more-than-6-million-customer-accounts/",
-      "published_at": "2026-09-14T23:46:01Z"
+      "url": "https://www.fool.com/investing/2026/09/15/2-popular-ai-stocks-sell-before-fall-58-wall-street/",
+      "published_at": "2026-09-15T08:24:02Z"
     },
     {
-      "title": "IREN Stock Slips, But A Top Wall Street Bank Is Bullish With Double-Upgrade And 50% Upside",
-      "publisher": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/iren-stock-slips-but-a-top-wall-street-bank-is-bullish/cZtmjA6RBTB",
-      "published_at": "2026-09-14T23:21:53Z"
+      "title": "SpaceX Is Trading Near Its Opening-Day Price Again. Forecasts Say a $5,000 Investment Will Be Worth This Much in 1 Year.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/15/spacex-is-trading-near-its-opening-day-price-again/",
+      "published_at": "2026-09-15T08:22:00Z"
     },
     {
-      "title": "Microsoft Just Made a Move That Could Put More Pressure on Its Azure Business. Here's Why It Could Turn Out Great for the Stock",
+      "title": "Prediction: XRP (Ripple) Will Be Worth This Much in 5 Years",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/14/microsoft-just-made-a-move-that-could-put-more-pressure-on-its-azure-business-here-s-why-it-could-turn-out-great-for-the-stock/",
-      "published_at": "2026-09-14T23:01:37Z"
+      "url": "https://www.fool.com/investing/2026/09/15/prediction-xrp-ripple-will-worth-this-much-5-years/",
+      "published_at": "2026-09-15T08:20:00Z"
     }
   ],
   "GOOGL": [
@@ -109,22 +109,22 @@
       "published_at": "2026-09-14T14:18:18Z"
     },
     {
-      "title": "'We owe it to humanity to try': Anthropic's CEO Just Called For Global AI Slowdown. Elon Musk, Sam Altman, and Google’s AI Chief Agree.",
+      "title": "Bull of the Day: Caterpillar (CAT)",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-caterpillar-cat-080000592.html",
+      "published_at": "2026-09-15T08:00:00Z"
+    },
+    {
+      "title": "Worldline launches UCP payment handler for agentic commerce payments",
+      "publisher": "Electronic Payments",
+      "url": "https://www.electronicpaymentsinternational.com/news/worldline-launches-ucp-payment-handler-for-agentic-commerce-payments/",
+      "published_at": "2026-09-15T07:08:35Z"
+    },
+    {
+      "title": "3 AI Robotics Stocks Worth Owning Over Tesla Right Now",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/14/we-owe-it-to-humanity-to-try-anthropics-ceo-just-called-for-global-ai-slowdown-elon-musk-sam-altman-and-googles-ai-chief-agree/",
-      "published_at": "2026-09-14T22:16:01Z"
-    },
-    {
-      "title": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-issued-220-billion-212946047.html",
-      "published_at": "2026-09-14T21:29:46Z"
-    },
-    {
-      "title": "Maryland Seeks To Reinstate Digital Ad Tax",
-      "publisher": "MediaPost",
-      "url": "https://www.mediapost.com/publications/article/417948/maryland-seeks-to-reinstate-digital-ad-tax.html",
-      "published_at": "2026-09-14T21:04:54Z"
+      "url": "https://www.fool.com/investing/2026/09/15/3-ai-robotics-stocks-worth-owning-over-tesla-right/",
+      "published_at": "2026-09-15T04:35:00Z"
     }
   ],
   "AMZN": [
@@ -141,25 +141,31 @@
       "published_at": "2026-09-14T13:58:23Z"
     },
     {
-      "title": "The Gulf’s AI Nightmare Came Courtesy of an Iranian Drone",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/world/middle-east/the-gulfs-ai-nightmare-came-courtesy-of-an-iranian-drone-3f313cb3?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-14T23:00:00Z"
+      "title": "Bull of the Day: Caterpillar (CAT)",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-caterpillar-cat-080000592.html",
+      "published_at": "2026-09-15T08:00:00Z"
     },
     {
-      "title": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
+      "title": "2 Profitable Stocks to Target This Week and 1 We Turn Down",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-profitable-stocks-target-week-073230456.html",
+      "published_at": "2026-09-15T07:32:30Z"
+    },
+    {
+      "title": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
       "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-issued-220-billion-212946047.html",
-      "published_at": "2026-09-14T21:29:46Z"
-    },
-    {
-      "title": "Amazon Faces Tough Questions After Major Crash",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-faces-tough-questions-major-212445450.html",
-      "published_at": "2026-09-14T21:24:45Z"
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-could-buy-60-billion-041125286.html",
+      "published_at": "2026-09-15T04:11:25Z"
     }
   ],
   "META": [
+    {
+      "title": "Bull of the Day: Caterpillar (CAT)",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-caterpillar-cat-080000592.html",
+      "published_at": "2026-09-15T08:00:00Z"
+    },
     {
       "title": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
       "publisher": "Insider Monkey",
@@ -183,12 +189,6 @@
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/articles/google-meta-stock-ai-slowdown-7205d231?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-09-14T19:51:00Z"
-    },
-    {
-      "title": "AI-Related Debt Sales Are Near $500 Billion. Meta and CoreWeave Show Why the Same Boom Creates Two Different Risks",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-related-debt-sales-near-190243211.html",
-      "published_at": "2026-09-14T19:02:43Z"
     }
   ],
   "TSLA": [
@@ -197,6 +197,18 @@
       "publisher": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/elon-musk-ive-been-sounding-the-alarm-on-ai-for-a-while-141818917.html",
       "published_at": "2026-09-14T14:18:18Z"
+    },
+    {
+      "title": "Tesla, SpaceX Stocks Rise Overnight: Elon Musk Fuels Merger Speculation, ‘Hints’ At Action Amid ‘Close Collaboration’",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/tesla-spacex-elon-musk-merger-speculation-hints-action-close-collaboration/cZtnRwSRBTo",
+      "published_at": "2026-09-15T07:06:11Z"
+    },
+    {
+      "title": "3 AI Robotics Stocks Worth Owning Over Tesla Right Now",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/15/3-ai-robotics-stocks-worth-owning-over-tesla-right/",
+      "published_at": "2026-09-15T04:35:00Z"
     },
     {
       "title": "Analyst calls robotaxi fears completely ridiculous",
@@ -209,18 +221,6 @@
       "publisher": "TheStreet",
       "url": "https://www.thestreet.com/crypto/markets/musk-offers-radical-fix-to-welfare-state-bankruptcy",
       "published_at": "2026-09-14T22:47:46Z"
-    },
-    {
-      "title": "If You'd Invested $1,000 in Tesla Stock 1 Year Ago, Here's How Much You'd Have Today",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/14/if-youd-invested-1000-in-hot-ticker-stock-1-year-a/",
-      "published_at": "2026-09-14T21:53:00Z"
-    },
-    {
-      "title": "Tesla Roadster Reveal Could Be Musk's Biggest Test Yet",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-roadster-reveal-could-musks-212248792.html",
-      "published_at": "2026-09-14T21:22:48Z"
     }
   ],
   "AVGO": [
@@ -229,6 +229,18 @@
       "publisher": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html",
       "published_at": "2026-09-14T14:39:00Z"
+    },
+    {
+      "title": "Chip Stocks Sink on AI Slowdown Calls, But Analysts Doubt a Crash Is Near",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/chip-stocks-ai-slowdown-crash-risk/",
+      "published_at": "2026-09-15T06:05:00Z"
+    },
+    {
+      "title": "AI Slowdown Debate Splits Tech CEOs: Nvidia, Broadcom Dismiss Any Threat While Elon Musk Calls For Peer Review System",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ai-slowdown-debate-splits-tech-ce-os-nvidia-broadcom-dismiss-any-threat-while-elon-musk-calls-for-peer-review-system/cZtVwqtRBTL",
+      "published_at": "2026-09-15T03:16:31Z"
     },
     {
       "title": "3 Stocks That Offer AI Exposure and Dividends",
@@ -241,18 +253,6 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-drops-over-4-21-210015158.html",
       "published_at": "2026-09-14T21:00:15Z"
-    },
-    {
-      "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
-      "publisher": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-warnings-knock-nasdaq-futures-092329455.html",
-      "published_at": "2026-09-14T20:15:55Z"
-    },
-    {
-      "title": "Broadcom buys its Irvine office building",
-      "publisher": "LA Times",
-      "url": "https://finance.yahoo.com/real-estate/articles/broadcom-buys-irvine-office-building-194945873.html",
-      "published_at": "2026-09-14T19:49:45Z"
     }
   ],
   "AMD": [
@@ -269,25 +269,31 @@
       "published_at": "2026-09-14T13:45:19Z"
     },
     {
-      "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
-      "publisher": "The Guardian",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-linked-stocks-slide-tech-181747255.html",
-      "published_at": "2026-09-14T22:10:52Z"
+      "title": "Chip Stocks Sink on AI Slowdown Calls, But Analysts Doubt a Crash Is Near",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/chip-stocks-ai-slowdown-crash-risk/",
+      "published_at": "2026-09-15T06:05:00Z"
     },
     {
-      "title": "Talk of AI pause slams Nvidia, AMD and Intel as fears of doomsday scenarios spread",
-      "publisher": "LA Times",
-      "url": "https://finance.yahoo.com/technology/ai/articles/talk-ai-pause-slams-nvidia-214716918.html",
-      "published_at": "2026-09-14T21:47:16Z"
+      "title": "Donald Trump Rejects Calls For AI Slowdown. That Changes the Game for Nvidia and AMD",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/donald-trump-rejects-calls-ai-040909311.html",
+      "published_at": "2026-09-15T04:09:09Z"
     },
     {
-      "title": "Update: Wall Street Dips as AI Warnings Weigh on Tech Sector",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-dips-ai-warnings-204112098.html",
-      "published_at": "2026-09-14T20:41:12Z"
+      "title": "Why Micron, Intel, AMD, and Other Chip Stocks Fell Today",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/14/why-micron-intel-amd-chip-stocks-fell-today/",
+      "published_at": "2026-09-15T03:28:22Z"
     }
   ],
   "NFLX": [
+    {
+      "title": "2 Internet Stocks for Long-Term Investors and 1 We Question",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-internet-stocks-long-term-080430864.html",
+      "published_at": "2026-09-15T08:04:30Z"
+    },
     {
       "title": "S&P 500, Nasdaq, Dow Drop On Chipmaker Weakness, Treasury Yield Pressure — MSFT, NFLX, ORCL, CRWD, RBLX In Focus",
       "publisher": "Stocktwits",
@@ -311,44 +317,38 @@
       "publisher": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-195035841.html",
       "published_at": "2026-09-14T19:50:35Z"
-    },
-    {
-      "title": "Netflix Stock Rose 4% While the AI Trade Sold Off on Monday. Its Capital Goes Into Shows, Not Silicon.",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/14/netflix-stock-rose-4-while-the-ai-trade-sold-off-on-monday-its-capital-goes-into-shows-not-silicon/",
-      "published_at": "2026-09-14T19:47:01Z"
     }
   ],
   "CRM": [
     {
-      "title": "Stock Market Today: Dow Falls, Cyber Plays Soar Amid AI Fears; Bessent Makes This Move On Iran (Live Coverage)",
-      "publisher": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo",
-      "published_at": "2026-09-14T20:36:26Z"
+      "title": "Salesforce (CRM) Sees Fresh Partner Tools Push Agentic AI Into Enterprise Workflows",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-sees-fresh-partner-032201213.html",
+      "published_at": "2026-09-15T03:22:01Z"
     },
     {
-      "title": "How Far Can Adobe Stock Fall While It Waits On Freemium?",
-      "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/615224/how-far-can-adobe-stock-fall-while-it-waits-on-freemium/2026-09-14",
-      "published_at": "2026-09-14T19:31:47Z"
+      "title": "NOW, INTU, ADBE, CRM Stocks Surge As AI Pacing Debate Hammers Chips: Analyst Says Hardware Vs Software Trade ‘Is Turned On Its Head’",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/now-intu-adbe-crm-stocks-surge-as-ai-pacing-debate-hammers-chips-analyst-says-hardware-vs-software-trade-is-turned-on-its-head/cZtVHXxRBTX",
+      "published_at": "2026-09-15T02:25:24Z"
     },
     {
-      "title": "3 Cloud Giants Are Pouring Billions Into AI. Here Is What Their Spending Numbers Reveal",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/14/3-cloud-giants-are-pouring-billions-into-ai-here-is-what-their-spending-numbers-reveal/",
-      "published_at": "2026-09-14T18:39:05Z"
+      "title": "Wix, BlackLine, Amplitude, Toast, and Sprinklr Shares Are Soaring, What You Need To Know",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wix-blackline-amplitude-toast-sprinklr-021130018.html",
+      "published_at": "2026-09-15T02:11:30Z"
     },
     {
-      "title": "Salesforce Gains Over 2% Before Dreamforce Puts Agentforce Under the Microscope",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-gains-over-2-dreamforce-182503635.html",
-      "published_at": "2026-09-14T18:25:03Z"
+      "title": "Asana, Tenable, UiPath, Guidewire Software, and Pegasystems Shares Are Soaring, What You Need To Know",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asana-tenable-uipath-guidewire-software-020330941.html",
+      "published_at": "2026-09-15T02:03:30Z"
     },
     {
-      "title": "Why CrowdStrike and Palo Alto Are Leading the Software Stock Rally",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/crowdstrike-palo-alto-stock-ai-cybersecurity-software-9334614b?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-14T18:13:00Z"
+      "title": "Procore Technologies, Bentley Systems, PTC, Samsara, and Agilysys Shares Skyrocket, What You Need To Know",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/procore-technologies-bentley-systems-ptc-015530257.html",
+      "published_at": "2026-09-15T01:55:30Z"
     }
   ],
   "ORCL": [
@@ -371,51 +371,69 @@
       "published_at": "2026-09-14T23:16:05Z"
     },
     {
+      "title": "Is Oracle’s AI Buildout Strategy Stretching Its Balance Sheet Too Far for (ORCL) Investors?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-ai-buildout-strategy-stretching-221506199.html",
+      "published_at": "2026-09-14T22:15:06Z"
+    },
+    {
       "title": "S&P 500, Nasdaq, Dow Drop On Chipmaker Weakness, Treasury Yield Pressure — MSFT, NFLX, ORCL, CRWD, RBLX In Focus",
       "publisher": "Stocktwits",
       "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-drop-on-chipmaker-weakness/cZtm0WRRBTI",
       "published_at": "2026-09-14T21:53:54Z"
-    },
-    {
-      "title": "Stocks to Watch Monday Recap: Nvidia, Oracle, SoftBank",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/stocks-to-watch-monday-nvidia-oracle-softbank-z8oHxWLCC1rwQAwr0oUs?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-14T21:37:24Z"
     }
   ],
   "ADBE": [
     {
-      "title": "Adobe (ADBE): A Billion Users, But Wall Street Wants Proof It Pays",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-billion-users-wall-205947269.html",
-      "published_at": "2026-09-14T20:59:47Z"
+      "title": "NOW, INTU, ADBE, CRM Stocks Surge As AI Pacing Debate Hammers Chips: Analyst Says Hardware Vs Software Trade ‘Is Turned On Its Head’",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/now-intu-adbe-crm-stocks-surge-as-ai-pacing-debate-hammers-chips-analyst-says-hardware-vs-software-trade-is-turned-on-its-head/cZtVHXxRBTX",
+      "published_at": "2026-09-15T02:25:24Z"
     },
     {
-      "title": "ServiceNow Jumps 6.4% as AI Slowdown Flips the Software Trade",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-jumps-6-4-ai-205808694.html",
-      "published_at": "2026-09-14T20:58:08Z"
+      "title": "Wix, BlackLine, Amplitude, Toast, and Sprinklr Shares Are Soaring, What You Need To Know",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wix-blackline-amplitude-toast-sprinklr-021130018.html",
+      "published_at": "2026-09-15T02:11:30Z"
     },
     {
-      "title": "How Far Can Adobe Stock Fall While It Waits On Freemium?",
-      "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/615224/how-far-can-adobe-stock-fall-while-it-waits-on-freemium/2026-09-14",
-      "published_at": "2026-09-14T19:31:47Z"
+      "title": "Asana, Tenable, UiPath, Guidewire Software, and Pegasystems Shares Are Soaring, What You Need To Know",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asana-tenable-uipath-guidewire-software-020330941.html",
+      "published_at": "2026-09-15T02:03:30Z"
     },
     {
-      "title": "Adobe Stock Jumps 4.2% as Investors Reassess the AI Software Trade",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/news/adobe-stock-jumps-4-2-190637702.html",
-      "published_at": "2026-09-14T19:06:37Z"
+      "title": "Procore Technologies, Bentley Systems, PTC, Samsara, and Agilysys Shares Skyrocket, What You Need To Know",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/procore-technologies-bentley-systems-ptc-015530257.html",
+      "published_at": "2026-09-15T01:55:30Z"
     },
     {
-      "title": "Why CrowdStrike and Palo Alto Are Leading the Software Stock Rally",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/crowdstrike-palo-alto-stock-ai-cybersecurity-software-9334614b?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-14T18:13:00Z"
+      "title": "Adobe, DocuSign, Intuit, Workiva, and Appian Stocks Trade Up, What You Need To Know",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-docusign-intuit-workiva-appian-014730531.html",
+      "published_at": "2026-09-15T01:47:30Z"
     }
   ],
   "COST": [
+    {
+      "title": "AI Safety Fears Drive Investors to J&J, Costco, and CrowdStrike for Cybersecurity",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/ai-fears-defensive-stocks-rally/",
+      "published_at": "2026-09-15T04:08:56Z"
+    },
+    {
+      "title": "Costco raises price of Kirkland motor oil and limits how much shoppers can buy",
+      "publisher": "Fox Business",
+      "url": "https://www.foxbusiness.com/economy/costco-raises-price-kirkland-motor-oil-limits-how-much-shoppers-can-buy",
+      "published_at": "2026-09-15T01:49:20Z"
+    },
+    {
+      "title": "Costco’s Supply Limits and Sales Growth: What Do They Reveal About COST’s Long-Term Pricing Power?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-supply-limits-sales-growth-231959493.html",
+      "published_at": "2026-09-14T23:19:59Z"
+    },
     {
       "title": "Costco asks members to help make stores better",
       "publisher": "TheStreet",
@@ -427,56 +445,38 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-gains-market-dips-214505336.html",
       "published_at": "2026-09-14T21:45:05Z"
-    },
-    {
-      "title": "Costco's motor oil costs over $20 more than last year. Here's why",
-      "publisher": "USA TODAY",
-      "url": "https://www.usatoday.com/story/money/retail/2026/09/14/costco-motor-oil-20-dollar-price-hike/91691498007/",
-      "published_at": "2026-09-14T19:10:09Z"
-    },
-    {
-      "title": "Get in Line. Costco Is Rationing Motor Oil.",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/costco-motor-oil-6a560c5b?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-14T18:30:00Z"
-    },
-    {
-      "title": "Should You Buy Costco Stock Before Sept. 24?",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/09/14/should-you-buy-costco-stock-before-sept-24/",
-      "published_at": "2026-09-14T17:26:22Z"
     }
   ],
   "JPM": [
+    {
+      "title": "Should JPMorgan’s Long-Dated Callable Debt Push Require Action From JPMorgan Chase (JPM) Investors?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-long-dated-callable-debt-043146577.html",
+      "published_at": "2026-09-15T04:31:46Z"
+    },
+    {
+      "title": "Billionaire Ken Griffin Just Loaded Up on This Dividend King, and Wall Street Still Sees Upside",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/14/billionaire-ken-griffin-just-loaded-up-on-this-div/",
+      "published_at": "2026-09-15T03:35:00Z"
+    },
+    {
+      "title": "Top Bank Warns 12 Million Small Businesses Could Change Hands Over the Next Decade — 70% of Owners Are Still in Early Succession Planning",
+      "publisher": "Benzinga",
+      "url": "https://finance.yahoo.com/small-business/articles/top-bank-warns-12-million-003005342.html",
+      "published_at": "2026-09-15T00:30:05Z"
+    },
+    {
+      "title": "J.P. Morgan nears $1 trillion, but your gains hinge on 1 office",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/investing/jpmorgan-nears-1-trillion-dimon-succession",
+      "published_at": "2026-09-15T00:03:00Z"
+    },
     {
       "title": "JPMorgan Chase & Co. (JPM) Declines More Than Market: Some Information for Investors",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-co-jpm-declines-214506421.html",
       "published_at": "2026-09-14T21:45:06Z"
-    },
-    {
-      "title": "Stock Market Today, Sept. 14: Bank of America Slides on Investment Banking Fee Surprise",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/09/14/stock-market-today-sept-14-bank-of-america-slides-on-investment-banking-fee-surprise/",
-      "published_at": "2026-09-14T21:17:02Z"
-    },
-    {
-      "title": "Bank of America CEO Sparks Bank Stock Selloff With One Small Word",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/bank-of-america-ceo-stock-selloff-d260ee22?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-14T20:42:00Z"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195503944.html",
-      "published_at": "2026-09-14T19:55:03Z"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Retreat Monday Afternoon",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-retreat-monday-174712870.html",
-      "published_at": "2026-09-14T17:47:12Z"
     }
   ]
 }
