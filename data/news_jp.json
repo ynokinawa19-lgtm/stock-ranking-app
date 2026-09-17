@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "GAC to acquire stake in an FAW (Toyota) joint venture",
+      "publisher": "Just Auto",
+      "url": "https://www.just-auto.com/news/gac-to-acquire-stake-in-an-faw-toyota-joint-venture/",
+      "published_at": "2026-09-17T08:38:43Z"
+    },
+    {
       "title": "Toyota Boshoku (TSE:3116) Stock Looks Expensive Based On Current Earnings",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-boshoku-tse-3116-stock-211220187.html",
@@ -23,12 +29,6 @@
       "publisher": "InvestorsHub",
       "url": "https://investorshub.advfn.com/market-news/article/36384/gms-limited-hybrid-lineup-leaves-automaker-exposed-to-rising-us-demand",
       "published_at": "2026-09-16T10:49:35Z"
-    },
-    {
-      "title": "BYD sends Toyota, Detroit clear message on solid-state batteries",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/automotive/byd-solid-state-battery-2027",
-      "published_at": "2026-09-15T23:37:00Z"
     }
   ],
   "6758.T": [
@@ -65,6 +65,12 @@
   ],
   "9984.T": [
     {
+      "title": "Market Chatter: Apollo Global Weighs Boosting SoftBank Loan to $9 Billion for OpenAI Investment",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-apollo-global-weighs-083147739.html",
+      "published_at": "2026-09-17T08:31:47Z"
+    },
+    {
       "title": "Apollo Mulls Raising SoftBank Loan to $9 Billion for OpenAI Bets",
       "publisher": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/apollo-mulls-raising-softbank-loan-061750760.html",
@@ -87,44 +93,38 @@
       "publisher": "Stocktwits",
       "url": "https://stocktwits.com/news-articles/business/others/former-mossad-chief-yossi-cohen-strategic-advisor-to-soft-bank-joins-quantum-x-labs-as-president-of-scientific-advisory-board/cZtnWyvRBcS",
       "published_at": "2026-09-15T15:54:49Z"
-    },
-    {
-      "title": "SoftBank Raises Stakes in Its Biggest AI Bet",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-raises-stakes-biggest-ai-122124347.html",
-      "published_at": "2026-09-15T12:21:24Z"
     }
   ],
   "8306.T": [
     {
-      "title": "Gold Slips as Investors Mull Rate Trajectory",
+      "title": "Oil Futures Extend Decline on Easing Supply Worries",
       "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-ticks-up-as-markets-weigh-fed-path-eeb22df6?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-17T07:47:00Z"
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-to-contain-mideast-crude-supply-disruption-e7e3d9f0?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-17T14:14:00Z"
+    },
+    {
+      "title": "Basic Materials Roundup: Market Talk",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-234fc45c?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-17T12:37:00Z"
+    },
+    {
+      "title": "Gold Slips as Investors Mull Rate Trajectory",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-091726/card/gold-slips-as-investors-mull-rate-trajectory-2sislWyfE2NBqJSoxjFp?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-17T09:07:11Z"
     },
     {
       "title": "Oil Falls as Traders Assess Return of Saudi Arabian Volumes",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-to-contain-mideast-crude-supply-disruption-e7e3d9f0?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-17T07:24:00Z"
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-091726/card/oil-falls-as-traders-assess-return-of-saudi-arabian-volumes-h0cbwyyTbWYkWfoCNCTG?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-17T08:34:20Z"
     },
     {
       "title": "Oil Futures Pull Back From 4-Month Highs",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/commodities-futures/oil-declines-but-remains-elevated-amid-supply-concerns-geopolitical-risks-15e97c33?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-09-16T13:33:00Z"
-    },
-    {
-      "title": "Gold Boosted by Easing Oil Prices, Treasury Yields",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-091626/card/gold-boosted-by-easing-oil-prices-treasury-yields-YXfYPWUroVoL4VvCK2Gb?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-16T09:06:06Z"
-    },
-    {
-      "title": "Oil Prices Retreat as U.S. Inventories Rise",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-091626/card/oil-prices-retreat-as-u-s-inventories-rise-kbLpH58fwffiHZW6jmtm?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-16T08:23:26Z"
     }
   ],
   "6501.T": [
@@ -321,7 +321,7 @@
   ],
   "7974.T": [
     {
-      "title": "Small but mighty! Remembering the GameCube, Nintendo’s purple bundle of joy",
+      "title": "Small but mighty! Remembering the GameCube, Nintendo’s purple box of delights",
       "publisher": "The Guardian",
       "url": "https://uk.finance.yahoo.com/news/small-mighty-remembering-gamecube-nintendo-140021766.html",
       "published_at": "2026-09-16T14:00:21Z"
