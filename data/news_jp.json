@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "Daimler Truck brings NextGenH2 to IAA as hydrogen pact forms",
+      "publisher": "FreightWaves",
+      "url": "https://finance.yahoo.com/energy/articles/daimler-truck-brings-nextgenh2-iaa-034737617.html",
+      "published_at": "2026-09-18T03:47:37Z"
+    },
+    {
       "title": "GAC to acquire stake in an FAW (Toyota) joint venture",
       "publisher": "Just Auto",
       "url": "https://www.just-auto.com/news/gac-to-acquire-stake-in-an-faw-toyota-joint-venture/",
@@ -23,12 +29,6 @@
       "publisher": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/09/16/the-joby-aviation-bull-case-comes-down-to-one-question/",
       "published_at": "2026-09-16T14:30:40Z"
-    },
-    {
-      "title": "GM’s Limited Hybrid Lineup Leaves Automaker Exposed to Rising US Demand",
-      "publisher": "InvestorsHub",
-      "url": "https://investorshub.advfn.com/market-news/article/36384/gms-limited-hybrid-lineup-leaves-automaker-exposed-to-rising-us-demand",
-      "published_at": "2026-09-16T10:49:35Z"
     }
   ],
   "6758.T": [
@@ -129,6 +129,18 @@
   ],
   "6501.T": [
     {
+      "title": "Hitachi (TSE:6501) Could Be 8% Above Fair Value Following Data Center Partnership",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hitachi-tse-6501-could-8-051610592.html",
+      "published_at": "2026-09-18T05:16:10Z"
+    },
+    {
+      "title": "01 Quantum Inc (OONEF) Q3 2026 Earnings Call Highlights: Quantum-Safe Email Opportunity and ...",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/01-quantum-inc-oonef-q3-010024415.html",
+      "published_at": "2026-09-18T01:00:24Z"
+    },
+    {
       "title": "Hitachi (TSE:6501) Is Up 5.7% After US Transformer Build-Out And Modular Data Center Tie-Up",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/hitachi-tse-6501-5-7-211329075.html",
@@ -145,18 +157,6 @@
       "publisher": "Investment Monitor",
       "url": "https://www.investmentmonitor.ai/news/hitachi-energy-528m-transformer-plant-mississippi/",
       "published_at": "2026-09-16T13:19:11Z"
-    },
-    {
-      "title": "Hitachi Energy to build $528m transformer plant in Mississippi, US",
-      "publisher": "Power Technology",
-      "url": "https://www.power-technology.com/news/hitachi-energy-build-transformer-plant/",
-      "published_at": "2026-09-16T08:37:56Z"
-    },
-    {
-      "title": "Best Momentum Stock to Buy for September 10th",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/best-momentum-stock-buy-september-140000830.html",
-      "published_at": "2026-09-10T14:00:00Z"
     }
   ],
   "9432.T": [
@@ -275,16 +275,16 @@
       "published_at": "2026-08-31T00:18:00Z"
     },
     {
-      "title": "Korean Stocks Bear Brunt of Chip Selloff on Higher Yield Worry",
-      "publisher": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/korean-stocks-bear-brunt-chip-004252417.html",
-      "published_at": "2026-08-19T00:42:52Z"
-    },
-    {
       "title": "European Indexes Rise as Earnings Drive Markets",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/opinion/nikkei-falls-1-3-dragged-by-electronics-stocks-1458be31?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-08-06T07:37:00Z"
+    },
+    {
+      "title": "Nikkei 225 Jumps 3% as Chip Stocks Rally on Iran Deal Hopes",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/nikkei-225-chip-stocks-iran-deal/",
+      "published_at": "2026-08-05T04:58:36Z"
     }
   ],
   "6861.T": [
