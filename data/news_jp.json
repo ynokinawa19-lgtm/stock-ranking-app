@@ -65,6 +65,18 @@
   ],
   "9984.T": [
     {
+      "title": "TSMC Spent $15.59 Billion on CapEx in a Single Quarter, 42% More Than the Quarter Before. Here’s What It Means For the Stock.",
+      "publisher": "TIKR",
+      "url": "https://www.tikr.com/blog/tsmc-spent-15-59-billion-on-capex-in-a-single-quarter-42-more-than-the-quarter-before-heres-what-it-means-for-the-stock?ref=yahoofinance",
+      "published_at": "2026-09-22T10:22:37Z"
+    },
+    {
+      "title": "SoftBank Draws Over $20 Billion of Early Interest in Junk Bond",
+      "publisher": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-draws-over-20-billion-084641856.html",
+      "published_at": "2026-09-22T08:46:41Z"
+    },
+    {
       "title": "Junk-Bond Market Gets AI Jolt from SoftBank",
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/articles/junk-bond-ai-softbank-36be982c?siteid=yhoof2&yptr=yahoo",
@@ -81,27 +93,9 @@
       "publisher": "Moby",
       "url": "https://app.moby.co/home/news/news-softbank-borrows-even-more-money-for-openai?utm_source=yahoo_finance&utm_medium=rss",
       "published_at": "2026-09-21T17:09:02Z"
-    },
-    {
-      "title": "SoftBank launches $11 billion bond sale to fund OpenAI investment",
-      "publisher": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1098830/softbank-launches-11-billion-bond-sale-to-fund-openai-investment-1098830.html",
-      "published_at": "2026-09-21T13:58:00Z"
-    },
-    {
-      "title": "SoftBank Seeks $11 Billion in What Would Be a Record Junk Bond Sale",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/options/articles/softbank-seeks-11-billion-record-122341820.html",
-      "published_at": "2026-09-21T12:23:41Z"
     }
   ],
   "8306.T": [
-    {
-      "title": "Stocks rise on AI buzz, drop in oil prices",
-      "publisher": "AFP",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-ai-buzz-drop-023748822.html",
-      "published_at": "2026-09-22T08:08:37Z"
-    },
     {
       "title": "Gold Settles Lower After Three Sessions of Gains",
       "publisher": "The Wall Street Journal",
@@ -125,6 +119,12 @@
       "publisher": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144144656.html",
       "published_at": "2026-09-18T14:41:44Z"
+    },
+    {
+      "title": "Crude Oil Futures Settle Lower For Second Session",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/oil-falls-amid-hopes-to-contain-mideast-crude-supply-disruption-e7e3d9f0?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-17T20:52:00Z"
     }
   ],
   "6501.T": [
@@ -287,38 +287,7 @@
       "published_at": "2026-08-05T04:58:36Z"
     }
   ],
-  "6861.T": [
-    {
-      "title": "Is Enersys (ENS) Outperforming Other Industrial Products Stocks This Year?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/enersys-ens-outperforming-other-industrial-134003119.html",
-      "published_at": "2026-09-18T13:40:03Z"
-    },
-    {
-      "title": "This AI ETF Is Missing the Biggest AI Winners",
-      "publisher": "MarketBeat",
-      "url": "https://www.marketbeat.com/articles/this-ai-etf-is-missing-the-biggest-ai-winners/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "published_at": "2026-09-11T14:20:00Z"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights FANUY, ABBNY, KYCCF, NVDA, ISRG, ILMN, NOVT, BOTZ, ROBO, ROBT and IBOT",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-fanuy-141100603.html",
-      "published_at": "2026-09-08T14:11:00Z"
-    },
-    {
-      "title": "Are Robots the New Normal? Bet on these ETFs to Invest in the Future",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/robots-normal-bet-etfs-invest-114900828.html",
-      "published_at": "2026-09-04T11:49:00Z"
-    },
-    {
-      "title": "Is Keyence (KYCCF) Outperforming Other Industrial Products Stocks This Year?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/keyence-kyccf-outperforming-other-industrial-134002306.html",
-      "published_at": "2026-09-02T13:40:02Z"
-    }
-  ],
+  "6861.T": [],
   "7974.T": [
     {
       "title": "GameStop vs. Home Depot: Which Consumer Stock Is a Better Buy in 2026?",
