@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "Sector Update: Energy Stocks Fall Monday Afternoon",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-monday-180054749.html",
+      "published_at": "2026-09-21T18:00:54Z"
+    },
+    {
       "title": "4 Dividend-Friendly Auto Stocks to Weather the Industry Challenges",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/4-dividend-friendly-auto-stocks-152800483.html",
@@ -23,12 +29,6 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-motor-corporation-tm-stock-215003649.html",
       "published_at": "2026-09-18T21:50:03Z"
-    },
-    {
-      "title": "Market Chatter: Toyota, General Motors, Ford Join Coalition Asking Trump to Maintain Bar on Chinese Carmakers in US",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/policy/articles/market-chatter-toyota-general-motors-171106269.html",
-      "published_at": "2026-09-18T17:11:06Z"
     }
   ],
   "6758.T": [
@@ -65,6 +65,18 @@
   ],
   "9984.T": [
     {
+      "title": "Junk-Bond Market Gets AI Jolt from SoftBank",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/junk-bond-ai-softbank-36be982c?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-21T22:29:00Z"
+    },
+    {
+      "title": "Oura Targets $15.6 Billion Valuation in Test of IPO Market",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/oura-ipo-valuation-stock-7ed6de72?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-21T18:12:00Z"
+    },
+    {
       "title": "SoftBank Borrows Even More Money for OpenAI",
       "publisher": "Moby",
       "url": "https://app.moby.co/home/news/news-softbank-borrows-even-more-money-for-openai?utm_source=yahoo_finance&utm_medium=rss",
@@ -81,32 +93,20 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/options/articles/softbank-seeks-11-billion-record-122341820.html",
       "published_at": "2026-09-21T12:23:41Z"
-    },
-    {
-      "title": "SoftBank launches $11 billion junk bond deal for OpenAI bet",
-      "publisher": "Quartz",
-      "url": "https://qz.com/softbank-junk-bond-openai-investment-092126",
-      "published_at": "2026-09-21T11:53:46Z"
-    },
-    {
-      "title": "Market Chatter: Microsoft-backed OpenAI Seeks Valuation Above $1.2 Trillion Despite Projected $278 Billion Cash Burn",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-backed-openai-090300004.html",
-      "published_at": "2026-09-21T09:03:00Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "Gold Settles Lower After Three Sessions of Gains",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-monitor-central-bank-clues-on-rates-77edee32?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-21T18:17:00Z"
+    },
     {
       "title": "Is Mitsubishi UFJ Financial Group (TSE:8306) Undervalued As Fresh Bond Issuance Tests Its Valuation?",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-ufj-financial-group-tse-151329912.html",
       "published_at": "2026-09-21T15:13:29Z"
-    },
-    {
-      "title": "Gold Futures Lose Ground After Three-Session Climb",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-monitor-central-bank-clues-on-rates-77edee32?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-21T14:33:00Z"
     },
     {
       "title": "Gold Falls as Focus Remains on Rate Outlook",
@@ -132,7 +132,7 @@
       "title": "Manufacturing output down in August; investments by Reckitt, Hitachi",
       "publisher": "Manufacturing Dive",
       "url": "https://www.manufacturingdive.com/news/reckitt-hitachi-energy-aricast-hovione-economic-warn-act-layoffs/830764/",
-      "published_at": "2026-09-18T09:36:07Z"
+      "published_at": "2026-09-18T13:36:07Z"
     },
     {
       "title": "Hitachi to double US production of small and medium-sized power transformers",
@@ -336,7 +336,7 @@
       "title": "Nintendo, tariff refunds and the question of how to repay customers",
       "publisher": "CX Dive",
       "url": "https://www.customerexperiencedive.com/news/nintendo-tariff-refunds-how-to-repay-customers/830459/",
-      "published_at": "2026-09-16T07:00:00Z"
+      "published_at": "2026-09-16T11:00:00Z"
     },
     {
       "title": "Why Is Nintendo Stock Falling After Zelda? Look at What Wasn't Announced",
