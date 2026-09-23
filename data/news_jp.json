@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "Boston Dynamics launches robot training centre at Hyundai’s US Metaplant",
+      "publisher": "Just Auto",
+      "url": "https://www.just-auto.com/news/boston-dynamics-launches-robot-training-centre-at-hyundais-us-metaplant/",
+      "published_at": "2026-09-23T09:14:36Z"
+    },
+    {
       "title": "Sector Update: Energy Stocks Fall Monday Afternoon",
       "publisher": "MT Newswires",
       "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-monday-180054749.html",
@@ -23,15 +29,15 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/lifestyle/cars/2027-subaru-trailseeker-review-8de259d4?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-09-19T09:30:00Z"
-    },
-    {
-      "title": "Toyota Motor Corporation (TM) Stock Drops Despite Market Gains: Important Facts to Note",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-motor-corporation-tm-stock-215003649.html",
-      "published_at": "2026-09-18T21:50:03Z"
     }
   ],
   "6758.T": [
+    {
+      "title": "Why Sony Group Corporation (SONY) Remains a Key Gabelli Holding",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-sony-group-corporation-sony-140539104.html",
+      "published_at": "2026-09-23T14:05:39Z"
+    },
     {
       "title": "Sony (SONY) Stock Drops Despite Market Gains: Important Facts to Note",
       "publisher": "Zacks",
@@ -55,20 +61,26 @@
       "publisher": "MarketBeat",
       "url": "https://www.marketbeat.com/articles/gta-vis-console-problem-isnt-take-twos-problem/?utm_source=yahoofinance&utm_medium=yahoofinance",
       "published_at": "2026-09-05T13:45:00Z"
-    },
-    {
-      "title": "Sony Dismisses PS5 Buyers' $508M Tariff Refund Claim as 'Illogical'",
-      "publisher": "decrypt",
-      "url": "https://decrypt.co/377313/sony-dismisses-ps5-buyers-508m-tariff-refund-claim-as-illogical",
-      "published_at": "2026-09-03T16:28:27Z"
     }
   ],
   "9984.T": [
+    {
+      "title": "OpenAI IPO Collapse?",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/23/openai-ipo-collapse/",
+      "published_at": "2026-09-23T14:17:37Z"
+    },
     {
       "title": "Morning Bid: A$ gets a bit part as AI steals the show",
       "publisher": "Reuters",
       "url": "https://finance.yahoo.com/markets/articles/morning-bid-gets-bit-part-043525187.html",
       "published_at": "2026-09-23T04:35:25Z"
+    },
+    {
+      "title": "SoftBank Starts Jumbo High-Yield Bond Sale to Finance AI Push",
+      "publisher": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-starts-jumbo-high-yield-024210528.html",
+      "published_at": "2026-09-23T02:42:10Z"
     },
     {
       "title": "Nvidia Backed SB Energy’s $50 Billion Valuation Push. Wall Street Just Hit the Brakes",
@@ -81,18 +93,6 @@
       "publisher": "TIKR",
       "url": "https://www.tikr.com/blog/tsmc-spent-15-59-billion-on-capex-in-a-single-quarter-42-more-than-the-quarter-before-heres-what-it-means-for-the-stock?ref=yahoofinance",
       "published_at": "2026-09-22T10:22:37Z"
-    },
-    {
-      "title": "SoftBank Draws Over $20 Billion of Early Interest in Junk Bond",
-      "publisher": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-draws-over-20-billion-084641856.html",
-      "published_at": "2026-09-22T08:46:41Z"
-    },
-    {
-      "title": "Junk-Bond Market Gets AI Jolt from SoftBank",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/junk-bond-ai-softbank-36be982c?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-21T22:29:00Z"
     }
   ],
   "8306.T": [
@@ -193,6 +193,12 @@
   ],
   "6098.T": [
     {
+      "title": "Are Business Services Stocks Lagging  Healthcare Services Group (HCSG) This Year?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/business-services-stocks-lagging-healthcare-134005952.html",
+      "published_at": "2026-09-23T13:40:05Z"
+    },
+    {
       "title": "Is Recruit Holdings Co. (RCRUY) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/recruit-holdings-co-rcruy-solid-164501087.html",
@@ -215,12 +221,6 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/recent-price-trend-recruit-holdings-125502315.html",
       "published_at": "2026-08-05T12:55:02Z"
-    },
-    {
-      "title": "Recruit Holdings (TSE:6098) Stock Could Be A Bargain Below Fair Value",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/recruit-holdings-tse-6098-stock-101014896.html",
-      "published_at": "2026-07-26T10:10:14Z"
     }
   ],
   "4063.T": [
