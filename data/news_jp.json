@@ -1,6 +1,18 @@
 {
   "7203.T": [
     {
+      "title": "UK consumers urged to sign up for share of £56m new car delivery compensation",
+      "publisher": "PA Media: Money",
+      "url": "https://uk.finance.yahoo.com/news/uk-consumers-urged-sign-share-113811619.html",
+      "published_at": "2026-09-24T12:34:01Z"
+    },
+    {
+      "title": "European Union Car Registrations Rise 4.5% in August; Tesla's Figures Up 53% Year Over Year",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/european-union-car-registrations-rise-094730891.html",
+      "published_at": "2026-09-24T09:47:30Z"
+    },
+    {
       "title": "Boston Dynamics launches robot training centre at Hyundai’s US Metaplant",
       "publisher": "Just Auto",
       "url": "https://www.just-auto.com/news/boston-dynamics-launches-robot-training-centre-at-hyundais-us-metaplant/",
@@ -17,21 +29,15 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/4-dividend-friendly-auto-stocks-152800483.html",
       "published_at": "2026-09-21T15:28:00Z"
-    },
-    {
-      "title": "Why the Best Price on Your Next Car Is Getting Harder to Find",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/autos/why-the-best-price-on-your-next-car-is-getting-harder-to-find-c32e80de?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-20T23:00:00Z"
-    },
-    {
-      "title": "The All-Electric Subaru That Practically Screams Toyota",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/lifestyle/cars/2027-subaru-trailseeker-review-8de259d4?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-19T09:30:00Z"
     }
   ],
   "6758.T": [
+    {
+      "title": "Dolby Expands Meta Partnership With Atmos and Vision Across Devices",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/media-advertising/articles/dolby-expands-meta-partnership-atmos-115900681.html",
+      "published_at": "2026-09-24T11:59:00Z"
+    },
     {
       "title": "Why Sony Group Corporation (SONY) Remains a Key Gabelli Holding",
       "publisher": "Insider Monkey",
@@ -55,44 +61,38 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/media-advertising/articles/top-3-streaming-stocks-ride-151400775.html",
       "published_at": "2026-09-09T15:14:00Z"
-    },
-    {
-      "title": "GTA VI's Console Problem Isn't Take-Two's Problem",
-      "publisher": "MarketBeat",
-      "url": "https://www.marketbeat.com/articles/gta-vis-console-problem-isnt-take-twos-problem/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "published_at": "2026-09-05T13:45:00Z"
     }
   ],
   "9984.T": [
     {
-      "title": "Nasdaq climbs higher, McDonald's investor day updates",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/nasdaq-climbs-higher-mcdonalds-investor-day-updates-141449878.html",
-      "published_at": "2026-09-23T14:14:49Z"
+      "title": "Why the 7-Year Treasury Auction Suddenly Matters",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/seven-year-treasury-auction-bond-yields-fdd4bf3e?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-24T15:20:00Z"
     },
     {
-      "title": "Nikkei Rises 1.8%, Led by Chip-Related Stocks",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-related-stocks-73eeb3c9?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-24T00:47:00Z"
+      "title": "Why Oracle Stock Just Dropped",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/24/why-oracle-stock-just-dropped/",
+      "published_at": "2026-09-24T15:06:29Z"
     },
     {
-      "title": "SoftBank Group (TSE:9984) Lines Up $11 Billion Junk Bond In Record Debt Deal",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-tse-9984-lines-201630784.html",
-      "published_at": "2026-09-23T20:16:30Z"
+      "title": "Oracle shares fall as company invokes 'force majeure' over New Mexico data center project",
+      "publisher": "Proactive",
+      "url": "https://www.proactiveinvestors.com/companies/news/1099090/oracle-shares-fall-as-company-invokes-force-majeure-over-new-mexico-data-center-project-1099090.html",
+      "published_at": "2026-09-24T14:31:00Z"
     },
     {
-      "title": "SoftBank Is Raising $11 Billion for OpenAI. Its Arm Stake Backs a $25 Billion Loan Facility",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-raising-11-billion-openai-185239787.html",
-      "published_at": "2026-09-23T18:52:39Z"
+      "title": "Oracle stock drops as the company moves to shield itself from costs linked to controversial data center",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/oracle-stock-drops-as-the-company-moves-to-shield-itself-from-costs-linked-to-controversial-data-center-133351264.html",
+      "published_at": "2026-09-24T13:33:51Z"
     },
     {
-      "title": "OpenAI IPO Collapse?",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/23/openai-ipo-collapse/",
-      "published_at": "2026-09-23T14:17:37Z"
+      "title": "SoftBank Just Raised $11.1 Billion to Fund Its Massive AI Bet",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-just-raised-11-1-122344889.html",
+      "published_at": "2026-09-24T12:23:44Z"
     }
   ],
   "8306.T": [
@@ -129,6 +129,18 @@
   ],
   "6501.T": [
     {
+      "title": "Are Conglomerates Stocks Lagging  Hitachi (HTHIY) This Year?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/conglomerates-stocks-lagging-hitachi-hthiy-124003965.html",
+      "published_at": "2026-09-24T12:40:03Z"
+    },
+    {
+      "title": "GE Vernova, Hitachi, and Samsung Are Bringing Small Modular Reactors to Europe",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/09/24/ge-vernova-hitachi-and-samsung-are-bringing-small-modular-reactors-to-europe/",
+      "published_at": "2026-09-24T08:10:14Z"
+    },
+    {
       "title": "How a Trade Deal With Japan Could Change the Face of U.S. Energy",
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/articles/natural-gas-energy-trump-japan-data-centers-22c7a2ed?siteid=yhoof2&yptr=yahoo",
@@ -145,21 +157,15 @@
       "publisher": "Utility Dive",
       "url": "https://www.utilitydive.com/news/hitachi-to-double-us-production-of-small-and-medium-sized-power-transformer/830762/",
       "published_at": "2026-09-18T08:42:36Z"
-    },
-    {
-      "title": "Hitachi (TSE:6501) Could Be 8% Above Fair Value Following Data Center Partnership",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hitachi-tse-6501-could-8-051610592.html",
-      "published_at": "2026-09-18T05:16:10Z"
-    },
-    {
-      "title": "01 Quantum Inc (OONEF) Q3 2026 Earnings Call Highlights: Quantum-Safe Email Opportunity and ...",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/01-quantum-inc-oonef-q3-010024415.html",
-      "published_at": "2026-09-18T01:00:24Z"
     }
   ],
   "9432.T": [
+    {
+      "title": "NTTYY vs. RAL: Which Stock Should Value Investors Buy Now?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nttyy-vs-ral-stock-value-144005055.html",
+      "published_at": "2026-09-24T14:40:05Z"
+    },
     {
       "title": "Are Business Services Stocks Lagging  ENPRO INC (NPO) This Year?",
       "publisher": "Zacks",
@@ -183,12 +189,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-ntt-tse-9432-back-181729147.html",
       "published_at": "2026-08-25T18:17:29Z"
-    },
-    {
-      "title": "NTT (TSE:9432) Stock Looks Fully Priced After A Strong Run",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ntt-tse-9432-stock-looks-081727302.html",
-      "published_at": "2026-08-25T08:17:27Z"
     }
   ],
   "6098.T": [
