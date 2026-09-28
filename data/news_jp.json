@@ -1,6 +1,18 @@
 {
   "7203.T": [
     {
+      "title": "The minivan renaissance: Why SUV sales are falling behind",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/minivan-renaissance-why-suv-sales-175042823.html",
+      "published_at": "2026-09-28T17:50:42Z"
+    },
+    {
+      "title": "Sector Update: Consumer Stocks Mixed Monday Afternoon",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-monday-180230880.html",
+      "published_at": "2026-09-28T18:02:30Z"
+    },
+    {
       "title": "Honda Motor Eyes First New North American Factory in Nearly 20 Years With $2.5 Billion Ohio Hybrid Plant: Report",
       "publisher": "Benzinga",
       "url": "https://finance.yahoo.com/economy/policy/articles/honda-motor-eyes-first-north-013035794.html",
@@ -17,18 +29,6 @@
       "publisher": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/09/26/joby-stock-has-a-futuristic-story-heres-my-long-term-price-prediction/",
       "published_at": "2026-09-26T15:30:15Z"
-    },
-    {
-      "title": "GM and Ford Just Got a Troubling New Signal From U.S. Car Buyers",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gm-ford-just-got-troubling-152051587.html",
-      "published_at": "2026-09-25T15:20:51Z"
-    },
-    {
-      "title": "Toyota Motor (TSE:7203) Plans 400,000 Humanoid Robots Across Global Plants",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/toyota-motor-tse-7203-plans-101121250.html",
-      "published_at": "2026-09-25T10:11:21Z"
     }
   ],
   "6758.T": [
@@ -65,6 +65,18 @@
   ],
   "9984.T": [
     {
+      "title": "Goldman warns high-yield bond supply surge pressuring markets",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-warns-high-yield-bond-162609856.html",
+      "published_at": "2026-09-28T16:26:09Z"
+    },
+    {
+      "title": "Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5%",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/28/arm-sinks-9-as-chip-selloff-deepens-qualcomm-drops-6-marvell-slides-5/",
+      "published_at": "2026-09-28T15:51:29Z"
+    },
+    {
       "title": "SoftBank (TSE:9984) Stock May Still Be A Bargain On Fresh AI Debt Moves",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-tse-9984-stock-may-130814240.html",
@@ -81,21 +93,15 @@
       "publisher": "TIKR",
       "url": "https://www.tikr.com/blog/arm-holdings-stock-fell-8-in-a-day-heres-what-softbanks-25-billion-loan-means-for-the-stock?ref=yahoofinance",
       "published_at": "2026-09-26T02:58:15Z"
-    },
-    {
-      "title": "SoftBank Forms JV With Industrial Vehicle Automation Company",
-      "publisher": "Bisnow",
-      "url": "https://www.bisnow.com/news/national/construction-development/softbank-forms-jv-with-industrial-vehicle-automation-company",
-      "published_at": "2026-09-25T19:18:15Z"
-    },
-    {
-      "title": "SoftBank Drops 3.2% as OpenAI Financing Locks In 9.41%",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-drops-3-2-openai-175150864.html",
-      "published_at": "2026-09-25T17:51:50Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "Here's Why Mitsubishi UFJ (MUFG) is a Great Momentum Stock to Buy",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-mitsubishi-ufj-mufg-150001042.html",
+      "published_at": "2026-09-28T15:00:01Z"
+    },
     {
       "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading; Down for Week",
       "publisher": "MT Newswires",
@@ -119,12 +125,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-ufj-financial-group-tse-151329912.html",
       "published_at": "2026-09-21T15:13:29Z"
-    },
-    {
-      "title": "Gold Falls as Focus Remains on Rate Outlook",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-092126/card/gold-falls-as-focus-remains-on-rate-outlook-3FCcf49kyUxM6h0NXnyv?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-21T09:28:35Z"
     }
   ],
   "6501.T": [
@@ -385,6 +385,12 @@
   ],
   "4519.T": [
     {
+      "title": "Roche Halts Development of Obesity Drug Candidate",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/roche-halts-development-of-obesity-drug-candidate-a88b5ace?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-28T12:48:00Z"
+    },
+    {
       "title": "Chugai Pharmaceutical And 2 Japanese AI Healthcare Stocks To Own",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/healthcare/articles/chugai-pharmaceutical-2-japanese-ai-001327188.html",
@@ -407,12 +413,6 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/healthcare/articles/travere-therapeutics-inc-tvtx-q2-050518742.html",
       "published_at": "2026-08-05T05:05:18Z"
-    },
-    {
-      "title": "Major Asian Stock Markets Fall Amid Renewed Middle East Tensions",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/major-asian-stock-markets-fall-104005637.html",
-      "published_at": "2026-05-26T10:40:05Z"
     }
   ],
   "6367.T": [
