@@ -1,17 +1,482 @@
 {
-  "7203.T": [],
-  "6758.T": [],
-  "9984.T": [],
-  "8306.T": [],
-  "6501.T": [],
-  "9432.T": [],
-  "6098.T": [],
-  "4063.T": [],
-  "8035.T": [],
-  "6861.T": [],
-  "7974.T": [],
-  "9983.T": [],
-  "4519.T": [],
-  "6367.T": [],
-  "8058.T": []
+  "7203.T": [
+    {
+      "title": "Ford, GM and Stellantis invest under $400 per vehicle in EVs — Chinese rivals spend up to $2,750, analyst warns",
+      "publisher": "Moneywise",
+      "url": "https://finance.yahoo.com/economy/policy/articles/ford-gm-stellantis-invest-under-090000247.html",
+      "published_at": "2026-09-30T09:00:00Z"
+    },
+    {
+      "title": "GAC agrees to acquire FAW Group’s 50% stake in FAW Toyota",
+      "publisher": "Just Auto",
+      "url": "https://www.just-auto.com/news/gac-acquire-50-stake-faw-toyota/",
+      "published_at": "2026-09-29T15:13:34Z"
+    },
+    {
+      "title": "Toyota’s global sales fall 7.5% in August",
+      "publisher": "Just Auto",
+      "url": "https://www.just-auto.com/news/toyotas-global-sales-fall-7-5-in-august/",
+      "published_at": "2026-09-29T11:48:50Z"
+    },
+    {
+      "title": "Toyota car sales fall for seventh straight month in Aug on China weakness",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-car-sales-fall-seventh-063942340.html",
+      "published_at": "2026-09-29T06:39:42Z"
+    },
+    {
+      "title": "Sector Update: Consumer Stocks Mixed Monday Afternoon",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-monday-180230880.html",
+      "published_at": "2026-09-28T18:02:30Z"
+    }
+  ],
+  "6758.T": [
+    {
+      "title": "Sony (SONY) Outperforms Broader Market: What You Need to Know",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sony-sony-outperforms-broader-market-205004551.html",
+      "published_at": "2026-09-25T20:50:04Z"
+    },
+    {
+      "title": "Dolby Expands Meta Partnership With Atmos and Vision Across Devices",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/media-advertising/articles/dolby-expands-meta-partnership-atmos-115900681.html",
+      "published_at": "2026-09-24T11:59:00Z"
+    },
+    {
+      "title": "Why Sony Group Corporation (SONY) Remains a Key Gabelli Holding",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-sony-group-corporation-sony-140539104.html",
+      "published_at": "2026-09-23T14:05:39Z"
+    },
+    {
+      "title": "Sony (SONY) Stock Drops Despite Market Gains: Important Facts to Note",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sony-sony-stock-drops-despite-215002685.html",
+      "published_at": "2026-09-18T21:50:02Z"
+    },
+    {
+      "title": "Sony Group (TSE:6758) Moved, What Is Behind The Attention Now?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sony-group-tse-6758-moved-032251019.html",
+      "published_at": "2026-09-15T03:22:51Z"
+    }
+  ],
+  "9984.T": [
+    {
+      "title": "European Indexes Open Higher, Gains Across Sectors",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-5-led-by-chip-bank-stocks-c8b678d7?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-30T07:31:00Z"
+    },
+    {
+      "title": "Asia stocks gain ahead of U.S. PCE inflation; regional data in focus",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-mixed-ahead-u-044137676.html",
+      "published_at": "2026-09-30T04:41:37Z"
+    },
+    {
+      "title": "OpenAI targets $30 billion funding round at $1.4 trillion valuation",
+      "publisher": "Quartz",
+      "url": "https://qz.com/openai-funding-round-30-billion-valuation-092926",
+      "published_at": "2026-09-29T18:50:08Z"
+    },
+    {
+      "title": "Rising Treasury Yields Threaten to Increase Debt Costs for AI Infrastructure Providers",
+      "publisher": "TIKR",
+      "url": "https://www.tikr.com/blog/coreweave-stock-rising-treasury-yields-ai-debt-costs?ref=yahoofinance",
+      "published_at": "2026-09-29T14:11:50Z"
+    },
+    {
+      "title": "Intel Is Trying to Reinvent Itself. Here’s Where INTC Stock Could Be in 2027",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/29/intel-is-trying-to-reinvent-itself-heres-where-intc-stock-could-be-in-2027/",
+      "published_at": "2026-09-29T12:30:10Z"
+    }
+  ],
+  "8306.T": [
+    {
+      "title": "Here's Why Mitsubishi UFJ (MUFG) is a Great Momentum Stock to Buy",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-mitsubishi-ufj-mufg-150001042.html",
+      "published_at": "2026-09-28T15:00:01Z"
+    },
+    {
+      "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading; Down for Week",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144123090.html",
+      "published_at": "2026-09-25T14:41:23Z"
+    },
+    {
+      "title": "European AI-Related Stocks Rally as Confidence Returns",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-5-led-by-bank-stocks-84a84690?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-25T09:49:00Z"
+    },
+    {
+      "title": "Gold Settles Lower After Three Sessions of Gains",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-investors-monitor-central-bank-clues-on-rates-77edee32?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-21T18:17:00Z"
+    },
+    {
+      "title": "Is Mitsubishi UFJ Financial Group (TSE:8306) Undervalued As Fresh Bond Issuance Tests Its Valuation?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-ufj-financial-group-tse-151329912.html",
+      "published_at": "2026-09-21T15:13:29Z"
+    }
+  ],
+  "6501.T": [
+    {
+      "title": "How GE Vernova Has Jumped Into the Lead in the Nuclear Race",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ge-vernova-stock-hitachi-nuclear-energy-10815e0a?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-29T20:55:00Z"
+    },
+    {
+      "title": "CIB vs. HTHIY: Which Stock Is the Better Value Option?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cib-vs-hthiy-stock-better-144004496.html",
+      "published_at": "2026-09-29T14:40:04Z"
+    },
+    {
+      "title": "Hitachi Heads These 3 Japanese Nuclear Stocks To Watch",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/hitachi-heads-3-japanese-nuclear-161419299.html",
+      "published_at": "2026-09-26T16:14:19Z"
+    },
+    {
+      "title": "Is Hitachi (HTHIY) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hitachi-hthiy-solid-growth-stock-154503713.html",
+      "published_at": "2026-09-24T15:45:03Z"
+    },
+    {
+      "title": "Are Conglomerates Stocks Lagging  Hitachi (HTHIY) This Year?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/conglomerates-stocks-lagging-hitachi-hthiy-124003965.html",
+      "published_at": "2026-09-24T12:40:03Z"
+    }
+  ],
+  "9432.T": [
+    {
+      "title": "NTT Inc's Dividend Analysis",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ntt-incs-dividend-analysis-110336119.html",
+      "published_at": "2026-09-29T11:03:36Z"
+    },
+    {
+      "title": "NTTYY vs. RAL: Which Stock Should Value Investors Buy Now?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nttyy-vs-ral-stock-value-144005055.html",
+      "published_at": "2026-09-24T14:40:05Z"
+    },
+    {
+      "title": "Are Business Services Stocks Lagging  ENPRO INC (NPO) This Year?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/business-services-stocks-lagging-enpro-134005423.html",
+      "published_at": "2026-09-15T13:40:05Z"
+    },
+    {
+      "title": "All You Need to Know About NTT (NTTYY) Rating Upgrade to Strong Buy",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/know-ntt-nttyy-rating-upgrade-160001829.html",
+      "published_at": "2026-09-07T16:00:01Z"
+    },
+    {
+      "title": "NTTYY or PSN: Which Is the Better Value Stock Right Now?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nttyy-psn-better-value-stock-154005381.html",
+      "published_at": "2026-09-07T15:40:05Z"
+    }
+  ],
+  "6098.T": [
+    {
+      "title": "Are Business Services Stocks Lagging  Healthcare Services Group (HCSG) This Year?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/business-services-stocks-lagging-healthcare-134005952.html",
+      "published_at": "2026-09-23T13:40:05Z"
+    },
+    {
+      "title": "Is Recruit Holdings Co. (RCRUY) a Solid Growth Stock? 3 Reasons to Think \"Yes\"",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/recruit-holdings-co-rcruy-solid-164501087.html",
+      "published_at": "2026-09-08T16:45:01Z"
+    },
+    {
+      "title": "Job Market Uncertainty Pushes Commercial Staffing Stocks Up 80% This Year",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/job-market-staffing-services-ai-labor-hiring/?src=A00220&yptr=yahoo",
+      "published_at": "2026-08-28T15:39:08Z"
+    },
+    {
+      "title": "Are Business Services Stocks Lagging  Cricut (CRCT) This Year?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/business-services-stocks-lagging-cricut-134004838.html",
+      "published_at": "2026-08-07T13:40:04Z"
+    },
+    {
+      "title": "Recent Price Trend in Recruit Holdings Co. (RCRUY) is Your Friend, Here's Why",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/recent-price-trend-recruit-holdings-125502315.html",
+      "published_at": "2026-08-05T12:55:02Z"
+    }
+  ],
+  "4063.T": [
+    {
+      "title": "Japan protests as China slaps new measures against its exports of a key chipmaking material",
+      "publisher": "Associated Press",
+      "url": "https://finance.yahoo.com/technology/articles/japan-protests-china-slaps-measures-094505790.html",
+      "published_at": "2026-09-08T09:45:05Z"
+    },
+    {
+      "title": "Lower Oil Prices Raise Asian Stock Markets",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/lower-oil-prices-raise-asian-103648061.html",
+      "published_at": "2026-07-27T10:36:48Z"
+    },
+    {
+      "title": "NVIDIA CEO Courts Japan Suppliers as $5.1 Trillion AI Push Expands",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-courts-japan-suppliers-194801151.html",
+      "published_at": "2026-07-16T19:48:01Z"
+    },
+    {
+      "title": "Shin-Etsu Chemical Co Ltd: A Significant Move by Hennessy Japan Fund",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/shin-etsu-chemical-co-ltd-230519962.html",
+      "published_at": "2026-06-25T23:05:19Z"
+    },
+    {
+      "title": "Shin-Etsu Buyback And Deep-Sea Rare Earths Reshape Investor Outlook",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/shin-etsu-buyback-deep-sea-231200429.html",
+      "published_at": "2026-05-23T23:12:00Z"
+    }
+  ],
+  "8035.T": [
+    {
+      "title": "European Indexes Open Higher, Gains Across Sectors",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-5-led-by-chip-bank-stocks-c8b678d7?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-30T07:31:00Z"
+    },
+    {
+      "title": "Tokyo Electron Ltd's Dividend Analysis",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tokyo-electron-ltds-dividend-analysis-110118801.html",
+      "published_at": "2026-09-29T11:01:18Z"
+    },
+    {
+      "title": "European Chip Stocks Rise, Buoyed By Asian Peers",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-8-led-by-chip-related-stocks-37f5728d?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-07T08:50:00Z"
+    },
+    {
+      "title": "European Equities Mixed in Muted Trade",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-02T07:26:00Z"
+    },
+    {
+      "title": "Nikkei Falls 2.2%, Dragged by Chip Stocks",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-stocks-4c65d615?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-08-31T00:18:00Z"
+    }
+  ],
+  "6861.T": [
+    {
+      "title": "Is Enersys (ENS) Outperforming Other Industrial Products Stocks This Year?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/enersys-ens-outperforming-other-industrial-134003119.html",
+      "published_at": "2026-09-18T13:40:03Z"
+    },
+    {
+      "title": "This AI ETF Is Missing the Biggest AI Winners",
+      "publisher": "MarketBeat",
+      "url": "https://www.marketbeat.com/articles/this-ai-etf-is-missing-the-biggest-ai-winners/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "published_at": "2026-09-11T14:20:00Z"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights FANUY, ABBNY, KYCCF, NVDA, ISRG, ILMN, NOVT, BOTZ, ROBO, ROBT and IBOT",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-fanuy-141100603.html",
+      "published_at": "2026-09-08T14:11:00Z"
+    },
+    {
+      "title": "Are Robots the New Normal? Bet on these ETFs to Invest in the Future",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/robots-normal-bet-etfs-invest-114900828.html",
+      "published_at": "2026-09-04T11:49:00Z"
+    },
+    {
+      "title": "Is Keyence (KYCCF) Outperforming Other Industrial Products Stocks This Year?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/keyence-kyccf-outperforming-other-industrial-134002306.html",
+      "published_at": "2026-09-02T13:40:02Z"
+    }
+  ],
+  "7974.T": [
+    {
+      "title": "Meta's Muse AI teams up with Shopify, lifting its stock",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/metas-muse-ai-teams-up-with-shopify-lifting-its-stock-195026601.html",
+      "published_at": "2026-09-22T19:50:26Z"
+    },
+    {
+      "title": "GameStop vs. Home Depot: Which Consumer Stock Is a Better Buy in 2026?",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/coverage/better-buy/2026/09/18/gamestop-vs-home-depot-which-consumer-stock-is-a-better-buy-in-2026/",
+      "published_at": "2026-09-18T18:32:01Z"
+    },
+    {
+      "title": "Small but mighty! Remembering the GameCube, Nintendo’s purple box of delights",
+      "publisher": "The Guardian",
+      "url": "https://uk.finance.yahoo.com/news/small-mighty-remembering-gamecube-nintendo-140021766.html",
+      "published_at": "2026-09-16T14:00:21Z"
+    },
+    {
+      "title": "Nintendo, tariff refunds and the question of how to repay customers",
+      "publisher": "CX Dive",
+      "url": "https://www.customerexperiencedive.com/news/nintendo-tariff-refunds-how-to-repay-customers/830459/",
+      "published_at": "2026-09-16T11:00:00Z"
+    },
+    {
+      "title": "Why Is Nintendo Stock Falling After Zelda? Look at What Wasn't Announced",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/nintendo-stock-drop-game-reveals/",
+      "published_at": "2026-09-10T09:37:38Z"
+    }
+  ],
+  "9983.T": [
+    {
+      "title": "Crude Oil, Bond Yield Outlooks Churn Asian Stock Markets",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/crude-oil-bond-yield-outlooks-104303746.html",
+      "published_at": "2026-09-03T10:43:03Z"
+    },
+    {
+      "title": "Uniqlo owner Fast Retailing raises FY2026 outlook after strong Q3 growth",
+      "publisher": "Just Style",
+      "url": "https://www.just-style.com/news/uniqlo-fast-retailing-fy2026/",
+      "published_at": "2026-07-10T11:57:06Z"
+    },
+    {
+      "title": "Uniqlo parent Fast Retailing raises FY26 outlook after 17% revenue growth",
+      "publisher": "Retail Insight Network",
+      "url": "https://www.retail-insight-network.com/news/fast-retailing-raises-fy26-outlook/",
+      "published_at": "2026-07-10T09:27:31Z"
+    },
+    {
+      "title": "Fast Retailing Q3 earnings beat, raises FY2026 profit outlook",
+      "publisher": "Quartz",
+      "url": "https://qz.com/fast-retailing-uniqlo-earnings-profit-outlook-raised-070926",
+      "published_at": "2026-07-09T13:19:53Z"
+    },
+    {
+      "title": "Uniqlo operator Fast Retailing's Q3 profit jumps 45.7%, raises forecast",
+      "publisher": "Reuters Videos",
+      "url": "https://finance.yahoo.com/video/uniqlo-operator-fast-retailings-q3-113035931.html",
+      "published_at": "2026-07-09T11:30:35Z"
+    }
+  ],
+  "4519.T": [
+    {
+      "title": "Oil Bills, Bond Yields, Tech Jitters Damp Asian Stock Markets",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/oil-bills-bond-yields-tech-104741409.html",
+      "published_at": "2026-09-29T10:47:41Z"
+    },
+    {
+      "title": "Roche Halts Development of Obesity Drug Candidate",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/roche-halts-development-of-obesity-drug-candidate-a88b5ace?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-28T12:48:00Z"
+    },
+    {
+      "title": "Chugai Pharmaceutical And 2 Japanese AI Healthcare Stocks To Own",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/healthcare/articles/chugai-pharmaceutical-2-japanese-ai-001327188.html",
+      "published_at": "2026-09-26T00:13:27Z"
+    },
+    {
+      "title": "3 Japanese Undervalued Stocks With ROE Over 22%",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-japanese-undervalued-stocks-roe-021631033.html",
+      "published_at": "2026-09-04T02:16:31Z"
+    },
+    {
+      "title": "3 Japanese AI Healthcare Stocks Investors May Want To Watch",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/healthcare/articles/3-japanese-ai-healthcare-stocks-043928190.html",
+      "published_at": "2026-08-27T04:39:28Z"
+    }
+  ],
+  "6367.T": [
+    {
+      "title": "Daikin Industries Ltd's Dividend Analysis",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/daikin-industries-ltds-dividend-analysis-110836196.html",
+      "published_at": "2026-09-29T11:08:36Z"
+    },
+    {
+      "title": "Daikin IndustriesLtd (TSE:6367) Draws Climate Week Focus While Valuation Signals Stay Mixed",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/daikin-industriesltd-tse-6367-draws-071415107.html",
+      "published_at": "2026-09-20T07:14:15Z"
+    },
+    {
+      "title": "DKILY or MAIR: Which Is the Better Value Stock Right Now?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dkily-mair-better-value-stock-154002413.html",
+      "published_at": "2026-07-03T15:40:02Z"
+    },
+    {
+      "title": "DKILY vs. ROK: Which Stock Is the Better Value Option?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dkily-vs-rok-stock-better-154005101.html",
+      "published_at": "2026-06-17T15:40:05Z"
+    },
+    {
+      "title": "DKILY or ROK: Which Is the Better Value Stock Right Now?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dkily-rok-better-value-stock-154002617.html",
+      "published_at": "2026-06-01T15:40:02Z"
+    }
+  ],
+  "8058.T": [
+    {
+      "title": "LNG Canada to Double Export Capacity After Shell Approves Phase 2",
+      "publisher": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/lng-canada-double-export-capacity-133000351.html",
+      "published_at": "2026-09-29T13:30:00Z"
+    },
+    {
+      "title": "Are Conglomerates Stocks Lagging  ITT (ITT) This Year?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/conglomerates-stocks-lagging-itt-itt-124003299.html",
+      "published_at": "2026-09-29T12:40:03Z"
+    },
+    {
+      "title": "Shell approves LNG Canada Phase 2 expansion to 28 mtpa",
+      "publisher": "Quartz",
+      "url": "https://qz.com/shell-lng-canada-phase-2-final-investment-decision-092926",
+      "published_at": "2026-09-29T12:25:27Z"
+    },
+    {
+      "title": "Mitsubishi Corp's Dividend Analysis",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-corps-dividend-analysis-110205842.html",
+      "published_at": "2026-09-29T11:02:05Z"
+    },
+    {
+      "title": "Ayala Corp. CEO Consing on Strategic Deal With Mitsubishi",
+      "publisher": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/ayala-corp-ceo-consing-strategic-042042457.html",
+      "published_at": "2026-09-23T04:20:42Z"
+    }
+  ]
 }
