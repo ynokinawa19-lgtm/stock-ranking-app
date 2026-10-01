@@ -1,43 +1,37 @@
 {
   "AAPL": [
     {
-      "title": "Apple’s new CEO John Ternus plans on making some changes",
+      "title": "Apple's new CEO John Ternus plans on making some changes",
       "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/apple-ceo-john-ternus-plans-135700100.html",
+      "url": "https://finance.yahoo.com/video/apples-ceo-john-ternus-plans-135700100.html",
       "published_at": "2026-09-30T13:57:00Z"
     },
     {
       "title": "OpenAI is releasing newer models faster. Is that a good thing?",
       "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/openai-is-releasing-newer-models-faster-is-that-a-good-thing-133003219.html",
+      "url": "https://finance.yahoo.com/video/openai-releasing-newer-models-faster-133003219.html",
       "published_at": "2026-09-30T13:30:03Z"
     },
     {
-      "title": "Cramer Says Buy Apple Before New Phone Comes Out. Because Apple’s Duo Model Is, “Kind Of Astounding”",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/30/cramer-says-buy-apple-before-new-phone-comes-out-because-apples-duo-model-is-kind-of-astounding/",
-      "published_at": "2026-09-30T16:46:59Z"
+      "title": "Apple Predicted To Sell 6 Million iPhone Duo Handsets This Year",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/apple-stock-aapl-iphone-duo-2026-sales-forecast/?src=A00220&yptr=yahoo",
+      "published_at": "2026-09-30T21:06:15Z"
     },
     {
-      "title": "Apple to enter smart-home market with Siri AI hub",
-      "publisher": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1099394/apple-to-enter-smart-home-market-with-siri-ai-hub-1099394.html",
-      "published_at": "2026-09-30T16:24:00Z"
+      "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
+      "publisher": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
+      "published_at": "2026-09-30T20:35:11Z"
     },
     {
-      "title": "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/30/alphabet-rallies-3-as-traders-weigh-white-house-safety-accord-apple-gains-2-5-meta-platforms-treads-water/",
-      "published_at": "2026-09-30T16:07:35Z"
+      "title": "What Is The Case For Waiting On Qualcomm Stock?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/617167/what-is-the-case-for-waiting-on-qualcomm-stock/2026-09-30",
+      "published_at": "2026-09-30T18:51:54Z"
     }
   ],
   "MSFT": [
-    {
-      "title": "Nvidia CEO Jensen Huang: AI data center build-out could create 1 million jobs and reshape the US economy",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huang-ai-data-center-build-out-could-create-1-million-jobs-and-reshape-the-us-economy-110706514.html",
-      "published_at": "2026-09-30T11:07:06Z"
-    },
     {
       "title": "AI in America has a huge 1.7 million job shortage problem",
       "publisher": "Yahoo Finance",
@@ -45,54 +39,60 @@
       "published_at": "2026-09-30T10:08:47Z"
     },
     {
-      "title": "Piper Sandler Raises Microsoft Target, Sees Billions in Potential From E7 and AI",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/30/piper-sandler-raises-microsoft-target-sees-billions-in-potential-from-e7-and-ai/",
-      "published_at": "2026-09-30T16:15:26Z"
+      "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-rises-earnings-treasury-yields/?src=A00220&yptr=yahoo",
+      "published_at": "2026-10-01T00:40:06Z"
     },
     {
-      "title": "Is CrowdStrike Stock Paying You Enough For The Swings?",
+      "title": "Microsoft (MSFT) Could Be 21% Above Fair Value After ClickHouse Expansion",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-could-21-above-200925837.html",
+      "published_at": "2026-09-30T20:09:25Z"
+    },
+    {
+      "title": "Was There Any Sign Palantir Stock Would Run?",
       "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/617148/is-crowdstrike-stock-paying-you-enough-for-the-swings/2026-09-30",
-      "published_at": "2026-09-30T15:40:50Z"
+      "url": "https://www.trefis.com/articles/617133/was-there-any-sign-palantir-stock-would-run/2026-09-30",
+      "published_at": "2026-09-30T19:23:31Z"
     },
     {
-      "title": "Why Gabelli Bought Microsoft Corporation (MSFT) Near Its 52-Week Lows",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-gabelli-bought-microsoft-corporation-153902653.html",
-      "published_at": "2026-09-30T15:39:02Z"
+      "title": "How This Beaten-Down Quantum Stock Could Rise 150%",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/pasqal-stock-buy-quantum-computing-4e255a8c?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-30T18:23:00Z"
     }
   ],
   "NVDA": [
     {
       "title": "Breaking down Jensen Huang's biggest moves of Q3 2026",
       "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/breaking-down-jensen-huangs-biggest-moves-of-q3-2026-141014414.html",
+      "url": "https://finance.yahoo.com/video/breaking-down-jensen-huangs-biggest-141014414.html",
       "published_at": "2026-09-30T14:10:14Z"
     },
     {
-      "title": "AI in America has a huge 1.7 million job shortage problem",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/ai-in-america-has-a-huge-17-million-job-shortage-problem-100847922.html",
-      "published_at": "2026-09-30T10:08:47Z"
-    },
-    {
-      "title": "Elon Musk: 'Scaling energy' is the long-term challenge with AI",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/elon-musk-scaling-energy-long-213824681.html",
-      "published_at": "2026-09-29T21:38:24Z"
-    },
-    {
-      "title": "What is a stock buyback? Everything shareholders need to know.",
-      "publisher": "Yahoo Personal Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/what-is-a-stock-buyback-171919070.html",
-      "published_at": "2026-09-29T17:19:19Z"
-    },
-    {
-      "title": "Cramer Says Buy Apple Before New Phone Comes Out. Because Apple’s Duo Model Is, “Kind Of Astounding”",
+      "title": "Forget Waiting Three Months for SPY’s Dividend. Invesco’s High-Dividend Fund Pays Every Month",
       "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/30/cramer-says-buy-apple-before-new-phone-comes-out-because-apples-duo-model-is-kind-of-astounding/",
-      "published_at": "2026-09-30T16:46:59Z"
+      "url": "https://247wallst.com/investing/etf/2026/09/30/forget-waiting-three-months-for-spys-dividend-invescos-high-dividend-fund-pays-every-month/",
+      "published_at": "2026-09-30T23:06:29Z"
+    },
+    {
+      "title": "Tech CEOs Privately Questioned Amodei for Sounding AI Alarm Bells",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/tech-ceos-privately-questioned-amodei-for-sounding-ai-alarm-bells-aaa47df3?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-30T22:38:00Z"
+    },
+    {
+      "title": "In AI Race, Software Is Now Winning Alongside Chips",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ai-agents-meta-muse-stocks-chips-cb06386a?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-30T22:05:00Z"
+    },
+    {
+      "title": "Stock Market Today: Dow Knocked Down, Nasdaq Pares Gain; Micron Holds Firm After Earnings Soar",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-micron-earnings-mu-stock/?src=A00220&yptr=yahoo",
+      "published_at": "2026-09-30T20:54:22Z"
     }
   ],
   "GOOGL": [
@@ -109,29 +109,29 @@
       "published_at": "2026-09-30T10:08:47Z"
     },
     {
-      "title": "US launches AI-powered website America.gov for navigating federal programs",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/us-launches-ai-powered-website-193520074.html",
-      "published_at": "2026-09-29T19:35:20Z"
+      "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-rises-earnings-treasury-yields/?src=A00220&yptr=yahoo",
+      "published_at": "2026-10-01T00:40:06Z"
     },
     {
-      "title": "Alphabet Rallies 3% as Traders Weigh White House Safety Accord; Apple Gains 2.5%, Meta Platforms Treads Water",
+      "title": "VIG Cannot Own Meta’s or Alphabet’s Dividends Until 2035 at the Earliest: The 10-Year Rule Written Into Its Index",
       "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/30/alphabet-rallies-3-as-traders-weigh-white-house-safety-accord-apple-gains-2-5-meta-platforms-treads-water/",
-      "published_at": "2026-09-30T16:07:35Z"
+      "url": "https://247wallst.com/investing/etf/2026/09/30/vig-cannot-own-metas-or-alphabets-dividends-until-2035-at-the-earliest-the-10-year-rule-written-into-its-index/",
+      "published_at": "2026-09-30T22:35:21Z"
     },
     {
-      "title": "The AI Revolution Could Be Microsoft’s Next Trillion-Dollar Opportunity",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/30/the-ai-revolution-could-be-microsofts-next-trillion-dollar-opportunity/",
-      "published_at": "2026-09-30T15:30:51Z"
+      "title": "Google Unveils New AI Model Gemini 4 Argon, Sending Alphabet Stock Higher",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/google-ai-gemini-4-argon-alphabet-stock-d3df631c?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-30T21:35:00Z"
     }
   ],
   "AMZN": [
     {
       "title": "Elon Musk takes aim at Delta for refusing to use Starlink for Wi-Fi",
       "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/elon-musk-takes-aim-at-delta-for-refusing-to-use-starlink-for-wi-fi-131005924.html",
+      "url": "https://finance.yahoo.com/video/elon-musk-takes-aim-delta-131005924.html",
       "published_at": "2026-09-30T13:10:05Z"
     },
     {
@@ -141,159 +141,153 @@
       "published_at": "2026-09-30T11:00:00Z"
     },
     {
-      "title": "Amazon Stocks Rise 1.7% as AWS Cuts Bank Diagnosis Time 71%",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stocks-rise-1-7-165751011.html",
-      "published_at": "2026-09-30T16:57:51Z"
+      "title": "Constellation Energy stock climbs on Amazon nuclear power deal",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-stock-climbs-amazon-204446267.html",
+      "published_at": "2026-09-30T20:44:46Z"
     },
     {
-      "title": "S&P 500, Nasdaq advance as soft inflation tempers Fed rate-hike bets",
+      "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
       "publisher": "Reuters",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
-      "published_at": "2026-09-30T16:05:01Z"
+      "published_at": "2026-09-30T20:35:11Z"
     },
     {
-      "title": "Polymarket Adds Self-Exclusion, Deposit Limits to Curb Addictive Trading",
-      "publisher": "CryptoProwl",
-      "url": "https://www.cryptoprowl.com/releases/polymarket-adds-self-exclusion-deposit-limits-to-curb-addictive-trading-7184",
-      "published_at": "2026-09-30T15:58:00Z"
+      "title": "Amazon Signs $1 Billion Synopsys Deal as AWS Steps Up Nvidia Challenge",
+      "publisher": "Benzinga Prediction Markets",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-signs-1-billion-synopsys-193319799.html",
+      "published_at": "2026-09-30T19:33:19Z"
     }
   ],
   "META": [
     {
       "title": "Big Tech's equally big debt pile is raising concerns about the AI boom",
       "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/big-techs-equally-big-debt-pile-is-raising-concerns-about-the-ai-boom-135017077.html",
+      "url": "https://finance.yahoo.com/video/big-techs-equally-big-debt-135017077.html",
       "published_at": "2026-09-30T13:50:17Z"
     },
     {
-      "title": "AI in America has a huge 1.7 million job shortage problem",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/ai-in-america-has-a-huge-17-million-job-shortage-problem-100847922.html",
-      "published_at": "2026-09-30T10:08:47Z"
-    },
-    {
-      "title": "What we know about Trump's meeting with Alex Karp, Jensen Huang, & other AI leaders",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/know-trumps-meeting-alex-karp-194043343.html",
-      "published_at": "2026-09-29T19:40:43Z"
-    },
-    {
-      "title": "OpenAI debuts Dots AI agents in challenge to Meta's popular Muse agent",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/openai-debuts-dots-ai-agents-in-challenge-to-metas-popular-muse-agent-174616593.html",
-      "published_at": "2026-09-29T17:46:16Z"
-    },
-    {
-      "title": "Needham names top SaaS picks amid Meta Enterprise Platform concerns",
+      "title": "Tech CEOs questioned Anthropic leader over AI safety warnings, WSJ reports",
       "publisher": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/articles/needham-names-top-saas-picks-161032003.html",
-      "published_at": "2026-09-30T16:10:32Z"
+      "url": "https://finance.yahoo.com/technology/ai/articles/tech-ceos-questioned-anthropic-leader-223321385.html",
+      "published_at": "2026-09-30T22:33:21Z"
+    },
+    {
+      "title": "In AI Race, Software Is Now Winning Alongside Chips",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ai-agents-meta-muse-stocks-chips-cb06386a?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-30T22:05:00Z"
+    },
+    {
+      "title": "Alexandr Wang Praises Meta's Muse for Tackling an Everyday Neighborhood Problem: 'Seriously Awesome Use Case'",
+      "publisher": "Benzinga",
+      "url": "https://tech.yahoo.com/ai/meta-ai/articles/alexandr-wang-praises-metas-muse-203010636.html",
+      "published_at": "2026-09-30T20:30:10Z"
+    },
+    {
+      "title": "Mike Johnson Says US Must ‘Strike the Right Balance’ on AI as Trump Meets Zuckerberg, Huang, Amodei and Brockman Amid Growing Safety Debate",
+      "publisher": "Benzinga",
+      "url": "https://www.yahoo.com/news/politics/articles/mike-johnson-says-us-must-193031375.html",
+      "published_at": "2026-09-30T19:30:31Z"
     }
   ],
   "TSLA": [
     {
-      "title": "Nvidia CEO Jensen Huang: AI data center build-out could create 1 million jobs and reshape the US economy",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huang-ai-data-center-build-out-could-create-1-million-jobs-and-reshape-the-us-economy-110706514.html",
-      "published_at": "2026-09-30T11:07:06Z"
+      "title": "Elon Musk's Tesla Postpones Roadster Reveal Event to October 15, Cites Severe Weather Conditions",
+      "publisher": "Benzinga",
+      "url": "https://autos.yahoo.com/ev-and-future-tech/articles/elon-musks-tesla-postpones-roadster-233017063.html",
+      "published_at": "2026-09-30T23:30:17Z"
     },
     {
-      "title": "What we know about Trump's meeting with Alex Karp, Jensen Huang, & other AI leaders",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/know-trumps-meeting-alex-karp-194043343.html",
-      "published_at": "2026-09-29T19:40:43Z"
-    },
-    {
-      "title": "S&P 500, Nasdaq advance as soft inflation tempers Fed rate-hike bets",
+      "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
       "publisher": "Reuters",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
-      "published_at": "2026-09-30T16:05:01Z"
+      "published_at": "2026-09-30T20:35:11Z"
     },
     {
-      "title": "Why Tesla’s $25 Billion Credit Line Is a High-Stakes Bet on AI and Robotaxis",
+      "title": "SpaceX Just Got a Little Closer to a Tesla Merger",
       "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/teslas-stock-cash-crunch-ai-55963c4d?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-30T15:28:00Z"
+      "url": "https://www.barrons.com/articles/spacex-tesla-stock-merger-bb985d61?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-30T20:25:00Z"
     },
     {
-      "title": "Tesla Stocks Fall 1.7% Although Croatia Clears Supervised FSD Rollout",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-fall-1-7-152636022.html",
-      "published_at": "2026-09-30T15:26:36Z"
+      "title": "Consumer Confidence Fell to Its Lowest Level Since 2014 and Consumer Stocks Are Already Paying for It",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/30/consumer-confidence-fell-to-its-lowest-level-since-2014-and-consumer-stocks-are-already-paying-for-it/",
+      "published_at": "2026-09-30T18:55:30Z"
+    },
+    {
+      "title": "Which Automaker Stock Dominated in September: Tesla, Ford, or General Motors?",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/30/which-automaker-stock-dominated-in-september-tesla-ford-or-general-motors/",
+      "published_at": "2026-09-30T18:53:28Z"
     }
   ],
   "AVGO": [
     {
-      "title": "3 AI Stocks With Revenue Growth Up To 34%",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-revenue-growth-162445641.html",
-      "published_at": "2026-09-30T16:24:45Z"
+      "title": "What Changed In Marvell's Story?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/616923/what-changed-in-marvells-story/2026-09-30",
+      "published_at": "2026-09-30T20:52:26Z"
     },
     {
-      "title": "S&P 500, Nasdaq advance as soft inflation tempers Fed rate-hike bets",
+      "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
       "publisher": "Reuters",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
-      "published_at": "2026-09-30T16:05:01Z"
+      "published_at": "2026-09-30T20:35:11Z"
     },
     {
-      "title": "Broadcom Stocks Edge Higher as Netlist Seeks AI-Memory Import Ban",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-edge-higher-netlist-152136505.html",
-      "published_at": "2026-09-30T15:21:36Z"
-    },
-    {
-      "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
+      "title": "SCHD’s Rules Sold Broadcom in March 2024. The Stock Is Up About 183% Since, and SCHD Holders Missed the Run",
       "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/30/heres-what-the-apple-patent-renewal-really-does-for-qualcomm-and-why-im-buying/",
-      "published_at": "2026-09-30T14:45:08Z"
+      "url": "https://247wallst.com/investing/etf/2026/09/30/schds-rules-sold-broadcom-in-march-2024-the-stock-is-up-about-183-since-and-schd-holders-missed-the-run/",
+      "published_at": "2026-09-30T20:01:47Z"
     },
     {
-      "title": "What Is The True Hidden Price Of Marvell Stock?",
+      "title": "Is Cerebras' Next Big Thing Already Here?",
       "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/617122/what-is-the-true-hidden-price-of-marvell-stock/2026-09-30",
-      "published_at": "2026-09-30T14:17:33Z"
+      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-next-big-thing-already-191532128.html",
+      "published_at": "2026-09-30T19:15:32Z"
+    },
+    {
+      "title": "What Is The Case For Waiting On Qualcomm Stock?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/617167/what-is-the-case-for-waiting-on-qualcomm-stock/2026-09-30",
+      "published_at": "2026-09-30T18:51:54Z"
     }
   ],
   "AMD": [
     {
-      "title": "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/09/30/intel-rises-3-as-chip-contender-caps-off-surprisingly-strong-september-nvidia-ticks-up-amd-slips/",
-      "published_at": "2026-09-30T16:29:13Z"
+      "title": "In AI Race, Software Is Now Winning Alongside Chips",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ai-agents-meta-muse-stocks-chips-cb06386a?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-30T22:05:00Z"
+    },
+    {
+      "title": "What Changed In Marvell's Story?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/616923/what-changed-in-marvells-story/2026-09-30",
+      "published_at": "2026-09-30T20:52:26Z"
     },
     {
       "title": "HPE, IBD Stock Of The Day, Breaks Out On Hiked Guidance, AI Momentum",
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/research/ibd-stock-of-the-day/hpe-stock-juniper-amd-oracle-investor-day/?src=A00220&yptr=yahoo",
-      "published_at": "2026-09-30T16:10:55Z"
+      "published_at": "2026-09-30T20:48:55Z"
     },
     {
-      "title": "S&P 500, Nasdaq advance as soft inflation tempers Fed rate-hike bets",
+      "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
       "publisher": "Reuters",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
-      "published_at": "2026-09-30T16:05:01Z"
+      "published_at": "2026-09-30T20:35:11Z"
     },
     {
-      "title": "Cathie Wood Just Dropped $78 Million on This Red-Hot Chip Stock",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-dropped-78-142805716.html",
-      "published_at": "2026-09-30T14:28:05Z"
-    },
-    {
-      "title": "Cathie Wood Just Dumped $110 Million of AMD--and Bought Nvidia and Broadcom",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-dumped-110-142431421.html",
-      "published_at": "2026-09-30T14:24:31Z"
+      "title": "Nvidia, AMD Collaborator Teases Breakout To Record High. These Clues Bode Well.",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/semtech-stock-teases-record-high-nvidia-amd-enter-buy-range/?src=A00220&yptr=yahoo",
+      "published_at": "2026-09-30T20:19:14Z"
     }
   ],
   "NFLX": [
-    {
-      "title": "Netflix's battered stock just got tossed a Wall Street bone",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/netflixs-battered-stock-just-got-tossed-a-wall-street-bone-172922983.html",
-      "published_at": "2026-09-29T17:29:22Z"
-    },
     {
       "title": "Could Amazon Stock Survive AI Spending Outrunning Its Cash?",
       "publisher": "Trefis",
@@ -317,9 +311,21 @@
       "publisher": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/09/30/netflix-just-keeps-falling-heres-why-one-wall-street-pro-remains-resolute-that-90-await-todays-buyers/",
       "published_at": "2026-09-30T11:15:43Z"
+    },
+    {
+      "title": "Netflix (NFLX) Faces Downgrades As YouTube Pressure Puts Fair Value In Focus",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-faces-downgrades-youtube-060544953.html",
+      "published_at": "2026-09-30T06:05:44Z"
     }
   ],
   "CRM": [
+    {
+      "title": "How Much Upside Is Left In Microsoft Stock?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/617147/how-much-upside-is-left-in-microsoft-stock/2026-09-30",
+      "published_at": "2026-09-30T17:26:50Z"
+    },
     {
       "title": "Salesforce up 3.2% after announcing Listen Labs acquisition",
       "publisher": "Proactive",
@@ -343,12 +349,6 @@
       "publisher": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-shares-declined-despite-105515348.html",
       "published_at": "2026-09-30T10:55:15Z"
-    },
-    {
-      "title": "Salesforce (CRM) Deepens AI Workflow Governance Across Its Platform",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-deepens-ai-workflow-100910442.html",
-      "published_at": "2026-09-30T10:09:10Z"
     }
   ],
   "ORCL": [
@@ -356,7 +356,19 @@
       "title": "HPE, IBD Stock Of The Day, Breaks Out On Hiked Guidance, AI Momentum",
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/research/ibd-stock-of-the-day/hpe-stock-juniper-amd-oracle-investor-day/?src=A00220&yptr=yahoo",
-      "published_at": "2026-09-30T16:10:55Z"
+      "published_at": "2026-09-30T20:48:55Z"
+    },
+    {
+      "title": "Is Oracle (ORCL) Turning AI Governance Into Its Next Competitive Moat With Fusion Claw?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-turning-ai-governance-181409614.html",
+      "published_at": "2026-09-30T18:14:09Z"
+    },
+    {
+      "title": "How Much Upside Is Left In Microsoft Stock?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/617147/how-much-upside-is-left-in-microsoft-stock/2026-09-30",
+      "published_at": "2026-09-30T17:26:50Z"
     },
     {
       "title": "Oracle Stocks Fall Although Agentic AI Targets Financial-Crime Backlogs",
@@ -369,21 +381,21 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/oracles-massive-ai-data-center-151640039.html",
       "published_at": "2026-09-30T15:16:40Z"
-    },
-    {
-      "title": "Why Is Everyone Ignoring Adobe Stock's High Cash Yield?",
-      "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/617157/why-is-everyone-ignoring-adobe-stocks-high-cash-yield/2026-09-30",
-      "published_at": "2026-09-30T15:09:11Z"
-    },
-    {
-      "title": "Aterio Flags Delay Risk at Oracle's Wisconsin Data Center",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/aterio-flags-delay-risk-oracles-145319339.html",
-      "published_at": "2026-09-30T14:53:19Z"
     }
   ],
   "ADBE": [
+    {
+      "title": "How Low Can Autodesk (ADSK) Stock Go?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/articles/617135/how-low-can-autodesk-adsk-stock-go/2026-09-30",
+      "published_at": "2026-09-30T18:44:48Z"
+    },
+    {
+      "title": "Unity Software Surges 5% as Traders Weigh Meta Platforms VR Glasses Support; Adobe Rises 3%, Intuit Adds 2%",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/30/unity-software-surges-5-as-traders-weigh-meta-platforms-vr-glasses-support-adobe-rises-3-intuit-adds-2/",
+      "published_at": "2026-09-30T18:12:02Z"
+    },
     {
       "title": "Why Is Everyone Ignoring Adobe Stock's High Cash Yield?",
       "publisher": "Trefis",
@@ -401,18 +413,6 @@
       "publisher": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-buy-list-084513444.html",
       "published_at": "2026-09-30T08:45:13Z"
-    },
-    {
-      "title": "Adobe (ADBE) Ties Up New AI Fan Deal Reaching 200 Million Followers",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-ties-ai-fan-081036391.html",
-      "published_at": "2026-09-30T08:10:36Z"
-    },
-    {
-      "title": "ChatGPT maker wants to be the App Store for AI as safety concerns grow",
-      "publisher": "AFP",
-      "url": "https://finance.yahoo.com/technology/ai/articles/chatgpt-maker-wants-app-store-013825295.html",
-      "published_at": "2026-09-30T01:38:25Z"
     }
   ],
   "COST": [
@@ -449,6 +449,12 @@
   ],
   "JPM": [
     {
+      "title": "JPM vs. BAC: The Bank Built to Sustain Dividend Growth When Markets Turn",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/09/30/jpm-vs-bac-the-bank-built-to-sustain-dividend-growth-when-markets-turn/",
+      "published_at": "2026-09-30T18:15:43Z"
+    },
+    {
       "title": "JPMorgan Stocks Edge Lower as Bank Joins Open Agent-Safety Project",
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-stocks-edge-lower-bank-165828219.html",
@@ -471,12 +477,6 @@
       "publisher": "TheStreet",
       "url": "https://www.thestreet.com/investing/stocks/mu-micron-stock-price-target-jpmorgan-september-2026",
       "published_at": "2026-09-30T13:03:00Z"
-    },
-    {
-      "title": "J.P. Morgan favors European platforms on growth, sees UK backdrop as drag",
-      "publisher": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-favors-european-115310551.html",
-      "published_at": "2026-09-30T11:53:10Z"
     }
   ]
 }
