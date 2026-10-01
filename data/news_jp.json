@@ -1,6 +1,18 @@
 {
   "7203.T": [
     {
+      "title": "BYD Proves Lead Over Tesla Won’t Stop",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/10/01/byd-proves-lead-over-tesla-wont-stop/",
+      "published_at": "2026-10-01T15:52:02Z"
+    },
+    {
+      "title": "Prediction: The Next Big Aviation Revolution Could Start With Joby",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/10/01/prediction-the-next-big-aviation-revolution-could-start-with-joby/",
+      "published_at": "2026-10-01T12:00:35Z"
+    },
+    {
       "title": "The Zacks Analyst Blog Highlights Toyota, Honda and Nissan",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-toyota-073300665.html",
@@ -17,21 +29,15 @@
       "publisher": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/09/30/fords-sales-hit-alarming-drop/",
       "published_at": "2026-09-30T16:43:01Z"
-    },
-    {
-      "title": "Why Toyota Motor Corporation (TM) Was Hit by U.S. Tariffs",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-toyota-motor-corporation-tm-153812534.html",
-      "published_at": "2026-09-30T15:38:12Z"
-    },
-    {
-      "title": "Toyota's China Problem: Is TM Stock a Buy, Hold or Sell?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/toyotas-china-problem-tm-stock-132000695.html",
-      "published_at": "2026-09-30T13:20:00Z"
     }
   ],
   "6758.T": [
+    {
+      "title": "Is It Worth Investing in Sony (SONY) Based on Wall Street's Bullish Views?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-sony-sony-based-123004063.html",
+      "published_at": "2026-10-01T12:30:04Z"
+    },
     {
       "title": "Sony (SONY) Outperforms Broader Market: What You Need to Know",
       "publisher": "Zacks",
@@ -55,12 +61,6 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sony-sony-stock-drops-despite-215002685.html",
       "published_at": "2026-09-18T21:50:02Z"
-    },
-    {
-      "title": "Sony Group (TSE:6758) Moved, What Is Behind The Attention Now?",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sony-group-tse-6758-moved-032251019.html",
-      "published_at": "2026-09-15T03:22:51Z"
     }
   ],
   "9984.T": [
@@ -257,12 +257,6 @@
   ],
   "8035.T": [
     {
-      "title": "European Indexes Open Lower as Banks Fall, AI Stocks Gain",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-stocks-bdac1d0a?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-10-01T07:33:00Z"
-    },
-    {
       "title": "European Indexes Open Higher, Gains Across Sectors",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-5-led-by-chip-bank-stocks-c8b678d7?siteid=yhoof2&yptr=yahoo",
@@ -285,6 +279,12 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-09-02T07:26:00Z"
+    },
+    {
+      "title": "Nikkei Falls 2.2%, Dragged by Chip Stocks",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-stocks-4c65d615?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-08-31T00:18:00Z"
     }
   ],
   "6861.T": [
