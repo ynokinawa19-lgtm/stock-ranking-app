@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "The Zacks Analyst Blog Highlights Toyota, Honda and Nissan",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-toyota-073300665.html",
+      "published_at": "2026-10-01T07:33:00Z"
+    },
+    {
       "title": "Toyota Motor Corporation (TM) Dips More Than Broader Market: What You Should Know",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-motor-corporation-tm-dips-205005408.html",
@@ -23,12 +29,6 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/toyotas-china-problem-tm-stock-132000695.html",
       "published_at": "2026-09-30T13:20:00Z"
-    },
-    {
-      "title": "Automaker-backed EV fast-charging network has more than doubled in 2026",
-      "publisher": "Wards Auto",
-      "url": "https://www.wardsauto.com/news/automaker-backed-ev-fast-charging-network-has-more-than-doubled-in-2026/831564/",
-      "published_at": "2026-09-30T13:00:00Z"
     }
   ],
   "6758.T": [
@@ -103,12 +103,6 @@
       "published_at": "2026-09-28T15:00:01Z"
     },
     {
-      "title": "Asian Equities Traded in the US as American Depositary Receipts Rise in Friday Trading; Down for Week",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-equities-traded-us-american-144123090.html",
-      "published_at": "2026-09-25T14:41:23Z"
-    },
-    {
       "title": "European AI-Related Stocks Rally as Confidence Returns",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-5-led-by-bank-stocks-84a84690?siteid=yhoof2&yptr=yahoo",
@@ -125,6 +119,12 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-ufj-financial-group-tse-151329912.html",
       "published_at": "2026-09-21T15:13:29Z"
+    },
+    {
+      "title": "Gold Falls as Focus Remains on Rate Outlook",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-092126/card/gold-falls-as-focus-remains-on-rate-outlook-3FCcf49kyUxM6h0NXnyv?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-09-21T09:28:35Z"
     }
   ],
   "6501.T": [
@@ -257,6 +257,12 @@
   ],
   "8035.T": [
     {
+      "title": "European Indexes Open Lower as Banks Fall, AI Stocks Gain",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-stocks-bdac1d0a?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-10-01T07:33:00Z"
+    },
+    {
       "title": "European Indexes Open Higher, Gains Across Sectors",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-5-led-by-chip-bank-stocks-c8b678d7?siteid=yhoof2&yptr=yahoo",
@@ -279,12 +285,6 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-related-stocks-f002ef39?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-09-02T07:26:00Z"
-    },
-    {
-      "title": "Nikkei Falls 2.2%, Dragged by Chip Stocks",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-2-dragged-by-chip-stocks-4c65d615?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-08-31T00:18:00Z"
     }
   ],
   "6861.T": [

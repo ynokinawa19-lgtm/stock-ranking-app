@@ -13,6 +13,12 @@
       "published_at": "2026-09-30T13:30:03Z"
     },
     {
+      "title": "Jim Cramer Says 'Buy' Apple Stock Because of iPhone Duo, Not On Smart Home Device Buzz: Calls the $1,999 Foldable 'Amazing'",
+      "publisher": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-buy-apple-071654391.html",
+      "published_at": "2026-10-01T07:16:54Z"
+    },
+    {
       "title": "Apple Predicted To Sell 6 Million iPhone Duo Handsets This Year",
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/news/technology/apple-stock-aapl-iphone-duo-2026-sales-forecast/?src=A00220&yptr=yahoo",
@@ -23,12 +29,6 @@
       "publisher": "Reuters",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html",
       "published_at": "2026-09-30T20:35:11Z"
-    },
-    {
-      "title": "What Is The Case For Waiting On Qualcomm Stock?",
-      "publisher": "Trefis",
-      "url": "https://www.trefis.com/articles/617167/what-is-the-case-for-waiting-on-qualcomm-stock/2026-09-30",
-      "published_at": "2026-09-30T18:51:54Z"
     }
   ],
   "MSFT": [
@@ -42,7 +42,7 @@
       "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-rises-earnings-treasury-yields/?src=A00220&yptr=yahoo",
-      "published_at": "2026-10-01T00:40:06Z"
+      "published_at": "2026-10-01T03:04:10Z"
     },
     {
       "title": "Microsoft (MSFT) Could Be 21% Above Fair Value After ClickHouse Expansion",
@@ -71,6 +71,12 @@
       "published_at": "2026-09-30T14:10:14Z"
     },
     {
+      "title": "Meta reportedly calls its AI data centers ‘pilot models’ — its research tax credits jumped from $700M to $3.9B",
+      "publisher": "Moneywise",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-reportedly-calls-ai-data-035500665.html",
+      "published_at": "2026-10-01T03:55:00Z"
+    },
+    {
       "title": "Forget Waiting Three Months for SPY’s Dividend. Invesco’s High-Dividend Fund Pays Every Month",
       "publisher": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/etf/2026/09/30/forget-waiting-three-months-for-spys-dividend-invescos-high-dividend-fund-pays-every-month/",
@@ -87,12 +93,6 @@
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/articles/ai-agents-meta-muse-stocks-chips-cb06386a?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-09-30T22:05:00Z"
-    },
-    {
-      "title": "Stock Market Today: Dow Knocked Down, Nasdaq Pares Gain; Micron Holds Firm After Earnings Soar",
-      "publisher": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-micron-earnings-mu-stock/?src=A00220&yptr=yahoo",
-      "published_at": "2026-09-30T20:54:22Z"
     }
   ],
   "GOOGL": [
@@ -109,22 +109,22 @@
       "published_at": "2026-09-30T10:08:47Z"
     },
     {
+      "title": "Alphabet shares up in premarket trade after Gemini 4 Argon launch",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-shares-premarket-trade-gemini-085512607.html",
+      "published_at": "2026-10-01T08:55:12Z"
+    },
+    {
       "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-micron-rises-earnings-treasury-yields/?src=A00220&yptr=yahoo",
-      "published_at": "2026-10-01T00:40:06Z"
+      "published_at": "2026-10-01T03:04:10Z"
     },
     {
       "title": "VIG Cannot Own Meta’s or Alphabet’s Dividends Until 2035 at the Earliest: The 10-Year Rule Written Into Its Index",
       "publisher": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/etf/2026/09/30/vig-cannot-own-metas-or-alphabets-dividends-until-2035-at-the-earliest-the-10-year-rule-written-into-its-index/",
       "published_at": "2026-09-30T22:35:21Z"
-    },
-    {
-      "title": "Google Unveils New AI Model Gemini 4 Argon, Sending Alphabet Stock Higher",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/google-ai-gemini-4-argon-alphabet-stock-d3df631c?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-09-30T21:35:00Z"
     }
   ],
   "AMZN": [
@@ -167,6 +167,18 @@
       "published_at": "2026-09-30T13:50:17Z"
     },
     {
+      "title": "Meta counted Mark Zuckerberg’s $4.1B stock payout as research pay to claim a $355M tax break — and the IRS wants it back",
+      "publisher": "Moneywise",
+      "url": "https://finance.yahoo.com/economy/policy/articles/meta-counted-mark-zuckerberg-4-040500231.html",
+      "published_at": "2026-10-01T04:05:00Z"
+    },
+    {
+      "title": "Meta reportedly calls its AI data centers ‘pilot models’ — its research tax credits jumped from $700M to $3.9B",
+      "publisher": "Moneywise",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-reportedly-calls-ai-data-035500665.html",
+      "published_at": "2026-10-01T03:55:00Z"
+    },
+    {
       "title": "Tech CEOs questioned Anthropic leader over AI safety warnings, WSJ reports",
       "publisher": "Investing.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/tech-ceos-questioned-anthropic-leader-223321385.html",
@@ -177,18 +189,6 @@
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/articles/ai-agents-meta-muse-stocks-chips-cb06386a?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-09-30T22:05:00Z"
-    },
-    {
-      "title": "Alexandr Wang Praises Meta's Muse for Tackling an Everyday Neighborhood Problem: 'Seriously Awesome Use Case'",
-      "publisher": "Benzinga",
-      "url": "https://tech.yahoo.com/ai/meta-ai/articles/alexandr-wang-praises-metas-muse-203010636.html",
-      "published_at": "2026-09-30T20:30:10Z"
-    },
-    {
-      "title": "Mike Johnson Says US Must ‘Strike the Right Balance’ on AI as Trump Meets Zuckerberg, Huang, Amodei and Brockman Amid Growing Safety Debate",
-      "publisher": "Benzinga",
-      "url": "https://www.yahoo.com/news/politics/articles/mike-johnson-says-us-must-193031375.html",
-      "published_at": "2026-09-30T19:30:31Z"
     }
   ],
   "TSLA": [
@@ -353,6 +353,18 @@
   ],
   "ORCL": [
     {
+      "title": "Micron’s AI-driven outlook; Nike to report - what’s moving markets",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-ai-driven-outlook-nike-082034477.html",
+      "published_at": "2026-10-01T08:20:34Z"
+    },
+    {
+      "title": "Tencent leases 100,000 chips from Oracle for $7 bln- FT",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tencent-leases-100-000-chips-035844927.html",
+      "published_at": "2026-10-01T03:58:44Z"
+    },
+    {
       "title": "HPE, IBD Stock Of The Day, Breaks Out On Hiked Guidance, AI Momentum",
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/research/ibd-stock-of-the-day/hpe-stock-juniper-amd-oracle-investor-day/?src=A00220&yptr=yahoo",
@@ -369,18 +381,6 @@
       "publisher": "Trefis",
       "url": "https://www.trefis.com/articles/617147/how-much-upside-is-left-in-microsoft-stock/2026-09-30",
       "published_at": "2026-09-30T17:26:50Z"
-    },
-    {
-      "title": "Oracle Stocks Fall Although Agentic AI Targets Financial-Crime Backlogs",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-stocks-fall-although-agentic-152802844.html",
-      "published_at": "2026-09-30T15:28:02Z"
-    },
-    {
-      "title": "Oracle's Massive AI Data Center Push Just Hit a Power Bottleneck",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracles-massive-ai-data-center-151640039.html",
-      "published_at": "2026-09-30T15:16:40Z"
     }
   ],
   "ADBE": [
@@ -449,6 +449,12 @@
   ],
   "JPM": [
     {
+      "title": "Bank Stocks Are Beaten Down. The Case for Buying Now.",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/bank-stocks-etf-price-rates-5055e7c2?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-10-01T06:00:00Z"
+    },
+    {
       "title": "JPM vs. BAC: The Bank Built to Sustain Dividend Growth When Markets Turn",
       "publisher": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/09/30/jpm-vs-bac-the-bank-built-to-sustain-dividend-growth-when-markets-turn/",
@@ -471,12 +477,6 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-q3-ib-equities-offset-142600124.html",
       "published_at": "2026-09-30T14:26:00Z"
-    },
-    {
-      "title": "JPMorgan revamps Micron stock price target before earnings",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/mu-micron-stock-price-target-jpmorgan-september-2026",
-      "published_at": "2026-09-30T13:03:00Z"
     }
   ]
 }
