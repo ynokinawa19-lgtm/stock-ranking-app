@@ -1,17 +1,482 @@
 {
-  "AAPL": [],
-  "MSFT": [],
-  "NVDA": [],
-  "GOOGL": [],
-  "AMZN": [],
-  "META": [],
-  "TSLA": [],
-  "AVGO": [],
-  "AMD": [],
-  "NFLX": [],
-  "CRM": [],
-  "ORCL": [],
-  "ADBE": [],
-  "COST": [],
-  "JPM": []
+  "AAPL": [
+    {
+      "title": "Apple fails to impress Wall Street, bear market chatter heats up, and AI assessing job productivity",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/apple-fails-to-impress-wall-street-bear-market-chatter-heats-up-and-ai-assessing-job-productivity-185021345.html",
+      "published_at": "2026-11-03T18:50:21Z"
+    },
+    {
+      "title": "What does it mean for the AI trade that Apple is the priciest 'Mag 7' stock?",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/what-does-it-mean-for-the-ai-trade-that-apple-is-the-priciest-mag-7-stock-181745077.html",
+      "published_at": "2026-11-03T18:17:45Z"
+    },
+    {
+      "title": "Higher memory prices take a bite out of Apple's margins",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/higher-memory-prices-take-a-bite-out-of-apples-margins-161921051.html",
+      "published_at": "2026-11-03T16:19:21Z"
+    },
+    {
+      "title": "Mid-term facts & refrigerator hacks, tech sell-off continues, Binance CEO addresses issues",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/mid-term-facts--refrigerator-hacks-tech-sell-off-continues-binance-ceo-addresses-issues-151217552.html",
+      "published_at": "2026-11-03T15:12:17Z"
+    },
+    {
+      "title": "What is holding Apple's stock back despite an impressive Q4?",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/what-is-holding-apples-stock-back-despite-an-impressive-q4-151044694.html",
+      "published_at": "2026-11-03T15:10:44Z"
+    }
+  ],
+  "MSFT": [
+    {
+      "title": "Apple just made twice as much free cash as Microsoft, Meta, Alphabet and Amazon combined: Chart of the Day",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/apple-just-made-twice-as-much-free-cash-as-microsoft-meta-alphabet-and-amazon-combined-chart-of-the-day-110000928.html",
+      "published_at": "2026-11-03T11:00:00Z"
+    },
+    {
+      "title": "Stock Market Election Night: Futures Fall As Votes Pour In; AMD, Arista Rise On Earnings",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
+      "published_at": "2026-11-04T01:34:07Z"
+    },
+    {
+      "title": "AMD Earnings Show Big Tech Can’t Get Enough AI Chips",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/amd-earnings-stock-price-7c8d5465?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-03T22:36:00Z"
+    },
+    {
+      "title": "Do You Know How Much of Your 401(k) Is Riding on the AI Trade Voters Want Paused?",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/11/03/do-you-know-how-much-of-your-401k-is-riding-on-the-ai-trade-voters-want-paused/",
+      "published_at": "2026-11-03T21:49:34Z"
+    },
+    {
+      "title": "Stock Market Today: Dow Dips Amid Midterm Elections; Palantir Slips, DuPont Surges Past Entry",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-election-day-apple-stock-palantir-stock/?src=A00220&yptr=yahoo",
+      "published_at": "2026-11-03T21:27:49Z"
+    }
+  ],
+  "NVDA": [
+    {
+      "title": "This AI Boom is not 1999 all over again — and here's why",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/this-ai-boom-is-not-1999-all-over-again--and-heres-why-151849805.html",
+      "published_at": "2026-11-03T15:18:49Z"
+    },
+    {
+      "title": "Stock Market Election Night: Futures Fall As Votes Pour In; AMD, Arista Rise On Earnings",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
+      "published_at": "2026-11-04T01:34:07Z"
+    },
+    {
+      "title": "Why Fiserv Stock Triumphed on Tuesday",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/03/why-fiserv-stock-triumphed-on-tuesday/",
+      "published_at": "2026-11-04T01:18:56Z"
+    },
+    {
+      "title": "President Donald Trump Claims He'll \"Veto Everything\" if Democrats Retake Congress, and It Has Big Implications for the Stock Market",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/03/donald-trump-claims-veto-everything-democrats-retake-congress-big-implications-for-stock-market/",
+      "published_at": "2026-11-04T01:07:01Z"
+    },
+    {
+      "title": "Why DuPont Stock Trounced the Market on Tuesday",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/03/why-dupont-stock-rocked-the-market-today/",
+      "published_at": "2026-11-04T00:36:07Z"
+    }
+  ],
+  "GOOGL": [
+    {
+      "title": "People Inc (PPLI) Q3 2026 Earnings Call Highlights: Digital Revenue Extends Growth Streak to 12 ...",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/people-inc-ppli-q3-2026-010554012.html",
+      "published_at": "2026-11-04T01:05:54Z"
+    },
+    {
+      "title": "Tech Billionaire Sees Need to Push Back on ‘Dumb’ Wealth Tax",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/midterm-election-results-2026-latest-updates/card/tech-billionaire-sees-need-to-push-back-on-dumb-wealth-tax-03uJtf5VdtUTQUmiWqeN?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-04T00:12:58Z"
+    },
+    {
+      "title": "CrowdStrike (CRWD) stock trades down, here is why",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-trades-down-234936695.html",
+      "published_at": "2026-11-03T23:49:36Z"
+    },
+    {
+      "title": "Cloudflare, MongoDB, Datadog, JFrog, and Elastic shares plummet, what you need to know",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-mongodb-datadog-jfrog-elastic-234136948.html",
+      "published_at": "2026-11-03T23:41:36Z"
+    },
+    {
+      "title": "Why Reddit Stock Is In Focus After Strong Q3 And A Google Traffic Warning",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-reddit-stock-focus-strong-232429824.html",
+      "published_at": "2026-11-03T23:24:29Z"
+    }
+  ],
+  "AMZN": [
+    {
+      "title": "Binance deposits overtake withdrawals, and the SEC creates crypto FAQs on governance",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/binance-deposits-overtake-withdrawals-sec-170000882.html",
+      "published_at": "2026-11-03T17:00:00Z"
+    },
+    {
+      "title": "Apple just made twice as much free cash as Microsoft, Meta, Alphabet and Amazon combined: Chart of the Day",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/apple-just-made-twice-as-much-free-cash-as-microsoft-meta-alphabet-and-amazon-combined-chart-of-the-day-110000928.html",
+      "published_at": "2026-11-03T11:00:00Z"
+    },
+    {
+      "title": "McDonald's and Qualcomm earnings, ADP labor data: What to Watch",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/mcdonalds-qualcomm-earnings-adp-labor-010000492.html",
+      "published_at": "2026-11-04T01:00:00Z"
+    },
+    {
+      "title": "CrowdStrike (CRWD) stock trades down, here is why",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-trades-down-234936695.html",
+      "published_at": "2026-11-03T23:49:36Z"
+    },
+    {
+      "title": "Cloudflare, MongoDB, Datadog, JFrog, and Elastic shares plummet, what you need to know",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-mongodb-datadog-jfrog-elastic-234136948.html",
+      "published_at": "2026-11-03T23:41:36Z"
+    }
+  ],
+  "META": [
+    {
+      "title": "Apple just made twice as much free cash as Microsoft, Meta, Alphabet and Amazon combined: Chart of the Day",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/apple-just-made-twice-as-much-free-cash-as-microsoft-meta-alphabet-and-amazon-combined-chart-of-the-day-110000928.html",
+      "published_at": "2026-11-03T11:00:00Z"
+    },
+    {
+      "title": "Tech Billionaire Sees Need to Push Back on ‘Dumb’ Wealth Tax",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/midterm-election-results-2026-latest-updates/card/tech-billionaire-sees-need-to-push-back-on-dumb-wealth-tax-03uJtf5VdtUTQUmiWqeN?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-04T00:12:58Z"
+    },
+    {
+      "title": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day —  META, AAPL, AMD, SKHY In Focus",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-recover-from-ai-rout-on-us-midterm-election-day-meta-aapl-amd-skhy-in-focus/cNGXlSbR9dS",
+      "published_at": "2026-11-03T23:29:55Z"
+    },
+    {
+      "title": "AMD Earnings Show Big Tech Can’t Get Enough AI Chips",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/amd-earnings-stock-price-7c8d5465?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-03T22:36:00Z"
+    },
+    {
+      "title": "Do You Know How Much of Your 401(k) Is Riding on the AI Trade Voters Want Paused?",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/11/03/do-you-know-how-much-of-your-401k-is-riding-on-the-ai-trade-voters-want-paused/",
+      "published_at": "2026-11-03T21:49:34Z"
+    }
+  ],
+  "TSLA": [
+    {
+      "title": "Binance deposits overtake withdrawals, and the SEC creates crypto FAQs on governance",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/binance-deposits-overtake-withdrawals-sec-170000882.html",
+      "published_at": "2026-11-03T17:00:00Z"
+    },
+    {
+      "title": "Stock Market Election Night: Futures Fall As Votes Pour In; AMD, Arista Rise On Earnings",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo",
+      "published_at": "2026-11-04T01:34:07Z"
+    },
+    {
+      "title": "Elon Musk Has A Lot Riding On Texas",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/election-results-midterms-2026/card/elon-musk-has-a-lot-riding-on-texas-QrguEbhhGKqPGKea2TP6?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-04T00:30:01Z"
+    },
+    {
+      "title": "Elon Musk’s Tesla and SpaceX protest NYSE parent's new plan",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/elon-musks-tesla-and-spacex-protest-nyse-parents-new-plan",
+      "published_at": "2026-11-03T21:59:29Z"
+    },
+    {
+      "title": "Tesla China Brushes Off Weak October, Still Up 21% In 2026",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/tesla-electric-vehicle-ev-china-elon-musk-byd/?src=A00220&yptr=yahoo",
+      "published_at": "2026-11-03T21:02:05Z"
+    }
+  ],
+  "AVGO": [
+    {
+      "title": "What Is Broadcom (AVGO) Changing In AI Security And Fraud Defense?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-changing-ai-security-001741357.html",
+      "published_at": "2026-11-04T00:17:41Z"
+    },
+    {
+      "title": "Stock Market Today, Nov. 3: Marvell Shares Edge Higher After Premarket Drop on $115 Billion Lumentum Deal",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/03/stock-market-today-nov-3-marvell-shares-edge-higher-after-premarket-drop-on-usd115-billion-lumentum-deal/",
+      "published_at": "2026-11-03T22:45:09Z"
+    },
+    {
+      "title": "AMD Earnings Show Big Tech Can’t Get Enough AI Chips",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/amd-earnings-stock-price-7c8d5465?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-03T22:36:00Z"
+    },
+    {
+      "title": "US tech stocks recover after selloff spooks investors over AI spending",
+      "publisher": "The Guardian",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-tech-stocks-recover-selloff-221845320.html",
+      "published_at": "2026-11-03T22:18:45Z"
+    },
+    {
+      "title": "Apollo Global Management Q3 Earnings Call Highlights",
+      "publisher": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-apollo-global-management-q3-earnings-call-highlights-2026-11-03/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "published_at": "2026-11-03T22:14:10Z"
+    }
+  ],
+  "AMD": [
+    {
+      "title": "AMD's Lisa Su: Q3 was 'largest and most profitable in our history'",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/amds-lisa-su-q3-was-largest-and-most-profitable-in-our-history-222718914.html",
+      "published_at": "2026-11-03T22:27:18Z"
+    },
+    {
+      "title": "AMD stock rises after Q3 earnings beat, as data center revenue climbs 97%",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/amd-stock-rises-after-q3-earnings-beat-as-data-center-revenue-climbs-97-213907282.html",
+      "published_at": "2026-11-02T19:03:27Z"
+    },
+    {
+      "title": "Stock market today: Dow slips, S&P and Nasdaq gain as chip stocks rally, focus shifts to midterm elections",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html",
+      "published_at": "2026-11-03T09:08:46Z"
+    },
+    {
+      "title": "AMD beats Q3 estimates with data center business booming",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/amd-beats-q3-estimates-with-data-center-business-booming-212830094.html",
+      "published_at": "2026-11-03T21:28:30Z"
+    },
+    {
+      "title": "Micron, Nvidia, and AMD lead chip stocks' rebound",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/micron-nvidia-amd-lead-chip-stocks-rebound-140538628.html",
+      "published_at": "2026-11-03T14:05:38Z"
+    }
+  ],
+  "NFLX": [
+    {
+      "title": "Netflix (NFLX) Appoints Darshan Kantak To Lead Global Ads Push",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/media-advertising/articles/netflix-nflx-appoints-darshan-kantak-221728095.html",
+      "published_at": "2026-11-03T22:17:28Z"
+    },
+    {
+      "title": "Tesla, Amazon, and SpaceX among companies snubbing tokenized stocks",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/tesla-amazon-spacex-among-companies-210000505.html",
+      "published_at": "2026-11-03T21:00:00Z"
+    },
+    {
+      "title": "Byron Donalds Could Be Next Florida Governor: Here Are the Stocks He's Been Buying in 2026",
+      "publisher": "Benzinga Prediction Markets",
+      "url": "https://www.benzinga.com/news/politics/26/11/62839577/byron-donalds-could-be-next-florida-governor-here-are-the-stocks-hes-been-buying-in-2026?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
+      "published_at": "2026-11-03T20:28:17Z"
+    },
+    {
+      "title": "Ackman calls stock market \"broken\" but touts Visa, MasterCard and Netflix",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ackman-calls-stock-market-broken-190109429.html",
+      "published_at": "2026-11-03T19:01:09Z"
+    },
+    {
+      "title": "Netflix Trades at a Discount to the S&P 500's Valuation. Is It Deserved?",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/03/netflix-trades-at-a-discount-to-the-sp-500s-valuat/",
+      "published_at": "2026-11-03T17:13:00Z"
+    }
+  ],
+  "CRM": [
+    {
+      "title": "Why Salesforce and ServiceNow could emerge as AI winners",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/investing/why-salesforce-and-servicenow-could-emerge-as-ai-winners",
+      "published_at": "2026-11-03T23:34:30Z"
+    },
+    {
+      "title": "Salesforce vs. IBM: Comparing Consistent Revenue Expansion Against Slow Sales Growth",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/coverage/charts/2026/11/03/salesforce-vs-ibm-comparing-consistent-revenue-expansion-against-slow-sales-growth/",
+      "published_at": "2026-11-03T20:43:52Z"
+    },
+    {
+      "title": "A Democratic Sweep of Midterms Could Turn Software Stocks Into a Defensive Play",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-110326/card/a-democratic-sweep-of-midterms-could-turn-software-stocks-into-a-defensive-play-RCWPHtQquvfjwFpPa9tv?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-03T18:58:11Z"
+    },
+    {
+      "title": "Salesforce Is Down 16% This Year. Another AI Deal Didn’t Help.",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/salesforce-stock-artificial-intelligence-cresta-8d4ff6a8?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-03T17:08:00Z"
+    },
+    {
+      "title": "Salesforce (CRM) Files Share Offering, Is The Pullback A Valuation Opportunity?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-files-share-offering-161757085.html",
+      "published_at": "2026-11-03T16:17:57Z"
+    }
+  ],
+  "ORCL": [
+    {
+      "title": "CrowdStrike (CRWD) stock trades down, here is why",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-trades-down-234936695.html",
+      "published_at": "2026-11-03T23:49:36Z"
+    },
+    {
+      "title": "Cloudflare, MongoDB, Datadog, JFrog, and Elastic shares plummet, what you need to know",
+      "publisher": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-mongodb-datadog-jfrog-elastic-234136948.html",
+      "published_at": "2026-11-03T23:41:36Z"
+    },
+    {
+      "title": "Oracle Stock Faces Questions After $20 Billion AI Funding Plan",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-faces-questions-20-231707584.html",
+      "published_at": "2026-11-03T23:17:07Z"
+    },
+    {
+      "title": "Cerebras Sinks 11% in a Week to a New 52-Week Low. UBS Still Sees 159% Upside",
+      "publisher": "TIKR",
+      "url": "https://www.tikr.com/blog/cerebras-sinks-11-in-a-week-to-a-new-52-week-low-ubs-still-sees-159-upside?ref=yahoofinance&tlnk=yf-261103-vchxmc7p",
+      "published_at": "2026-11-03T20:43:49Z"
+    },
+    {
+      "title": "CoreWeave Soars 5%, Oracle Up 4% as Oracle’s $20 Billion Raise Is “Exactly What They Previewed”",
+      "publisher": "TIKR",
+      "url": "https://www.tikr.com/blog/coreweave-soars-5-oracle-up-4-as-oracles-20-billion-raise-is-exactly-what-they-previewed?ref=yahoofinance&tlnk=yf-261103-xfg2jvrc",
+      "published_at": "2026-11-03T19:55:27Z"
+    }
+  ],
+  "ADBE": [
+    {
+      "title": "Adobe (ADBE) Stock Sees Modest Fair Value Cut As Analysts Split On AI And ARR",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-adbe-stock-sees-modest-231707869.html",
+      "published_at": "2026-11-03T23:17:07Z"
+    },
+    {
+      "title": "Adobe Systems (ADBE) Stock Sinks As Market Gains: Here's Why",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-systems-adbe-stock-sinks-214501693.html",
+      "published_at": "2026-11-03T21:45:01Z"
+    },
+    {
+      "title": "Should You Buy Salesforce Stock For Its Cash?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/crm/articles/622297/should-you-buy-salesforce-stock-for-its-cash-2/2026-11-03",
+      "published_at": "2026-11-03T14:12:06Z"
+    },
+    {
+      "title": "What Is Going On With Adobe Stock?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/adbe/articles/622286/what-is-going-on-with-adobe-stock/2026-11-03",
+      "published_at": "2026-11-03T13:18:04Z"
+    },
+    {
+      "title": "Salesforce Climbs 22% in Six Months: Is the Stock Still Worth Buying?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-climbs-22-six-months-123000262.html",
+      "published_at": "2026-11-03T12:30:00Z"
+    }
+  ],
+  "COST": [
+    {
+      "title": "The Best Blue Chip Stock to Buy in November and Hold for 10 Years",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/03/the-best-blue-chip-stock-to-buy-in-november-and-ho/",
+      "published_at": "2026-11-03T21:15:00Z"
+    },
+    {
+      "title": "What Needs To Be True To Buy Walmart Stock Now?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/wmt/articles/622242/what-needs-to-be-true-to-buy-walmart-stock-now/2026-11-03",
+      "published_at": "2026-11-03T18:34:16Z"
+    },
+    {
+      "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+      "publisher": "decrypt",
+      "url": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
+      "published_at": "2026-11-03T17:46:15Z"
+    },
+    {
+      "title": "Costco Hasn't Split Its Stock Since 2000. Here's Why 2027 Could Be the Year.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/03/costco-hasnt-split-its-stock-since-2000-heres-why/",
+      "published_at": "2026-11-03T16:50:00Z"
+    },
+    {
+      "title": "Why Should Costco Stock Holders Watch This Number?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/cost/articles/622334/why-should-costco-stock-holders-watch-this-number/2026-11-03",
+      "published_at": "2026-11-03T13:40:12Z"
+    }
+  ],
+  "JPM": [
+    {
+      "title": "J.P. Morgan Recruits Financial Advisor From Merrill Who Oversaw $940 Million in Assets",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/advisor/articles/jpmorgan-financial-advisor-tiffany-yu-39af2fd8?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-03T20:54:00Z"
+    },
+    {
+      "title": "Is Wall Street Bullish or Bearish on JPMorgan Chase Stock?",
+      "publisher": "Barchart",
+      "url": "https://www.barchart.com/story/news/8626620/is-wall-street-bullish-or-bearish-on-jpmorgan-chase-stock",
+      "published_at": "2026-11-03T19:03:59Z"
+    },
+    {
+      "title": "Change in Congress Could Bring Wall Street a Headache",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/election-results-midterms-2026/card/change-in-congress-could-bring-wall-street-a-headache-M4SqnYal6vayP6WomiDX?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-03T19:00:01Z"
+    },
+    {
+      "title": "JPMorgan Adds Merrill Alums To Boost California, Southeast Business",
+      "publisher": "Wealth Management",
+      "url": "https://www.wealthmanagement.com/wirehouse-news/jpmorgan-lures-940-million-merrill-advisor-to-la-team",
+      "published_at": "2026-11-03T18:13:37Z"
+    },
+    {
+      "title": "Savings Tech Platform: Vestwell Founder & CEO Aaron Schumm, Live from NYSE",
+      "publisher": "IPO-Edge.com",
+      "url": "https://finance.yahoo.com/small-business/articles/savings-tech-platform-vestwell-founder-165226459.html",
+      "published_at": "2026-11-03T16:52:26Z"
+    }
+  ]
 }
