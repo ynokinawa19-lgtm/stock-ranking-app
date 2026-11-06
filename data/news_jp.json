@@ -1,6 +1,18 @@
 {
   "7203.T": [
     {
+      "title": "Earnings live updates: Airbnb stock jumps as Wall Street cheers 'growth mode,' upbeat outlook",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html",
+      "published_at": "2026-11-02T21:28:56Z"
+    },
+    {
+      "title": "Toyota Motor (TM) Q2 2027 Earnings Call Transcript",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/11/05/toyota-motor-tm-q2-2027-earnings-call-transcript/",
+      "published_at": "2026-11-05T19:19:27Z"
+    },
+    {
       "title": "Toyota Soars 10% on Raised Outlook and $89 Billion Shareholder Return Plan: “Wow”",
       "publisher": "TIKR",
       "url": "https://www.tikr.com/blog/toyota-soars-10-on-raised-outlook-and-89-billion-shareholder-return-plan-wow?ref=yahoofinance&tlnk=yf-261105-894rg875",
@@ -17,18 +29,6 @@
       "publisher": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/toyota-stock-surges-as-hybrid-sales-weaker-yen-boost-profit-forecast-162206030.html",
       "published_at": "2026-11-05T16:22:06Z"
-    },
-    {
-      "title": "Why Toyota Stock Is Up 10%. (Hint: It Has Nothing to Do With EVs or Cars.)",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/toyota-earnings-stock-price-buybacks-4823e1bd?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-05T16:19:00Z"
-    },
-    {
-      "title": "SpaceX and Tesla stocks extend their slide as chip stocks drop: AlphaCheck",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/spacex-tesla-shares-extend-declines-semiconductor-stocks-drop-alphacheck-150427180.html",
-      "published_at": "2026-11-05T15:04:27Z"
     }
   ],
   "6758.T": [
@@ -65,6 +65,18 @@
   ],
   "9984.T": [
     {
+      "title": "Nikkei Falls 5.9%, Dragged by Chip Stocks",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-5-9-dragged-by-chip-stocks-d8937761?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-06T00:55:00Z"
+    },
+    {
+      "title": "SoftBank's $5.4 billion AI bet hits a stunning roadblock",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/softbanks-5-4-billion-ai-193420100.html",
+      "published_at": "2026-11-05T19:34:20Z"
+    },
+    {
       "title": "Stocks to Watch: Qualcomm, Zillow, Toyota, Airbnb",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/stocks-to-watch-qualcomm-zillow-toyota-airbnb-7owfTxIlftiqnqnNEFeI?siteid=yhoof2&yptr=yahoo",
@@ -81,32 +93,20 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-11-05T11:50:00Z"
-    },
-    {
-      "title": "Softbank's $5.4 bln takeover of ABB robotics unit blocked by China- FT",
-      "publisher": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-5-4-bln-takeover-034551741.html",
-      "published_at": "2026-11-05T03:45:51Z"
-    },
-    {
-      "title": "Tech companies hit by new AI worries on positive day for most markets",
-      "publisher": "Euronews",
-      "url": "https://www.euronews.com/2026/11/05/shares-advance-after-wall-street-rally-following-us-midterm-elections",
-      "published_at": "2026-11-05T08:54:25Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "Oil Prices Pick Up as Market Mulls Over Prospects for Middle East Settlement",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-4e8f12e5?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-05T20:45:00Z"
+    },
     {
       "title": "Panamint Capital closes $1.8bn loan for Big Rooter Power project",
       "publisher": "Energy Monitor",
       "url": "https://www.energymonitor.ai/news/panamint-capital-loan-big-rooter-power/",
       "published_at": "2026-11-05T10:40:17Z"
-    },
-    {
-      "title": "Oil Prices Rise but Stay Below $100 as Traders Weigh Iran Diplomacy, Supply Outlook",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-oil/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-4e8f12e5?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-05T10:38:00Z"
     },
     {
       "title": "WSJ Dollar Index Falls 0.30% to 96.94",
@@ -321,6 +321,12 @@
   ],
   "7974.T": [
     {
+      "title": "Nintendo’s Q2 Results Reveal Switch 2 Can’t Catch A Bid",
+      "publisher": "Moby",
+      "url": "https://app.moby.co/home/news/news-nintendos-q2-results-reveal-switch-2-cant-catch-a-bid?utm_source=yahoo_finance&utm_medium=rss",
+      "published_at": "2026-11-05T20:28:13Z"
+    },
+    {
       "title": "Sony's 45% profit surge hides a PlayStation problem",
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sonys-45-profit-surge-hides-184412783.html",
@@ -343,12 +349,6 @@
       "publisher": "Associated Press",
       "url": "https://finance.yahoo.com/markets/stocks/articles/japanese-video-game-company-nintendo-080638345.html",
       "published_at": "2026-11-05T08:06:38Z"
-    },
-    {
-      "title": "Nintendo first-half profit rises 11% as software sales offset weaker hardware",
-      "publisher": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nintendo-first-half-profit-rises-073418693.html",
-      "published_at": "2026-11-05T07:34:18Z"
     }
   ],
   "9983.T": [
