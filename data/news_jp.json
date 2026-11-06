@@ -65,10 +65,22 @@
   ],
   "9984.T": [
     {
-      "title": "Nikkei Falls 5.9%, Dragged by Chip Stocks",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-5-9-dragged-by-chip-stocks-d8937761?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-06T00:55:00Z"
+      "title": "Market Chatter: ING Seeks to Sell $500 Million Data Center Loans Through Auction",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-ing-seeks-sell-090407544.html",
+      "published_at": "2026-11-06T09:04:07Z"
+    },
+    {
+      "title": "Global shares skid after AI worries send Wall Street tumbling",
+      "publisher": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/japans-stock-benchmark-nikkei-tumbles-004324375.html",
+      "published_at": "2026-11-06T00:43:24Z"
+    },
+    {
+      "title": "$500M Mystery Seller: Who’s Dumping Data-Center Loans After AI Stock Crash?",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/mystery-seller-data-center-loans-stargate/",
+      "published_at": "2026-11-05T23:00:00Z"
     },
     {
       "title": "SoftBank's $5.4 billion AI bet hits a stunning roadblock",
@@ -81,18 +93,6 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/stocks-to-watch-qualcomm-zillow-toyota-airbnb-7owfTxIlftiqnqnNEFeI?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-11-05T14:55:02Z"
-    },
-    {
-      "title": "SoftBank’s Blocked Deal Shines Light on China’s Pending OK of Anglo-Teck Tie-Up",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/softbank-s-blocked-deal-shines-light-on-china-s-pending-ok-of-anglo-teck-tie-up-lgbNonSEfgC7E9dQ25EA?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-05T13:51:57Z"
-    },
-    {
-      "title": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-05T11:50:00Z"
     }
   ],
   "8306.T": [
@@ -417,6 +417,12 @@
   ],
   "6367.T": [
     {
+      "title": "Learn Why The Bull Case For Daikin Stock Could Change Following Earnings Upgrade",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-daikin-091457273.html",
+      "published_at": "2026-11-06T09:14:57Z"
+    },
+    {
       "title": "Daikin raises FY27 earnings and dividend outlook after first-half profit growth",
       "publisher": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/daikin-raises-fy27-earnings-dividend-092004964.html",
@@ -439,12 +445,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/daikin-industriesltd-tse-6367-draws-071415107.html",
       "published_at": "2026-09-20T07:14:15Z"
-    },
-    {
-      "title": "Copper Boom Hits A Wall As Substitution Kicks In",
-      "publisher": "Forbes",
-      "url": "https://www.forbes.com/sites/timtreadgold/2026/07/07/copper-boom-hits-a-wall-as-substitution-kicks-in/",
-      "published_at": "2026-07-08T00:07:25Z"
     }
   ],
   "8058.T": [

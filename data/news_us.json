@@ -1,37 +1,55 @@
 {
   "AAPL": [
     {
-      "title": "Dow Jones Futures Fall, Techs Bounce After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
+      "title": "Warren Buffett's Successor, Greg Abel, Has 71% of Berkshire Hathaway's $362 Billion Portfolio Invested in 7 Standout Stocks",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/06/warren-buffett-successor-greg-abel-71-berkshire-hathaway-362-billion-portfolio-invested-7-standout-stocks/",
+      "published_at": "2026-11-06T10:26:02Z"
+    },
+    {
+      "title": "MP Materials Corp (MP) (Q3 2026) Earnings Call Highlights: Rare Earth Output Surges 41% as ...",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mp-materials-corp-mp-q3-052120355.html",
+      "published_at": "2026-11-06T05:21:20Z"
+    },
+    {
+      "title": "Bank of America doubles down on its Apple stock bet",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/bank-of-america-doubles-down-on-its-apple-stock-bet",
+      "published_at": "2026-11-06T04:07:00Z"
+    },
+    {
+      "title": "Dow Jones Futures Fall, Techs Rise After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
-      "published_at": "2026-11-06T01:26:25Z"
+      "published_at": "2026-11-06T04:05:01Z"
     },
     {
-      "title": "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory —  NVDA, AAPL, UBER, SOXX In Focus",
-      "publisher": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-futures-dip-as-investors-step-back-from-ai-and-tech-with-nasdaq-in-correction-territory-nvda-aapl-uber-soxx-in-focus/cNGlIylR94A",
-      "published_at": "2026-11-06T01:00:30Z"
-    },
-    {
-      "title": "Apple, Alphabet, and Meta: 3 Big Takeaways from Recent Earnings",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-alphabet-meta-3-big-230000891.html",
-      "published_at": "2026-11-05T23:00:00Z"
-    },
-    {
-      "title": "Berkshire After Buffett: Steady Hands, Big Bets In The Greg Abel Era",
-      "publisher": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/berkshire-hathaway-after-warren-buffett-greg-abel-capital-allocation/?src=A00220&yptr=yahoo",
-      "published_at": "2026-11-05T22:53:24Z"
-    },
-    {
-      "title": "Baird Cut Its Qualcomm Target to $320. It Still Sees 104% Upside",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/baird-cut-its-qualcomm-target-to-320-it-still-sees-104-upside?ref=yahoofinance&tlnk=yf-261105-m8g363m2",
-      "published_at": "2026-11-05T22:16:15Z"
+      "title": "Why did Apple Stock Hit an All-Time High Amid US Stock Market Crash?",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/apple-stock-best-day-record-high/",
+      "published_at": "2026-11-06T01:50:26Z"
     }
   ],
   "MSFT": [
+    {
+      "title": "Update: Iren Fiscal Q1 Swings to Loss, Revenue Falls; Microsoft AI Infrastructure Deliveries Delayed",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/iren-fiscal-q1-swings-loss-101234907.html",
+      "published_at": "2026-11-06T10:12:34Z"
+    },
+    {
+      "title": "ePlus Inc (PLUS) (Q2 2027) Earnings Call Highlights: Record $1 Billion in Gross Billings and ...",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eplus-inc-plus-q2-2027-072324454.html",
+      "published_at": "2026-11-06T07:23:24Z"
+    },
+    {
+      "title": "Was Nutanix's Rise Driven By The Company Or Its Industry?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/ntnx/articles/622629/was-nutanixs-rise-driven-by-the-company-or-its-industry/2026-11-05",
+      "published_at": "2026-11-06T04:48:21Z"
+    },
     {
       "title": "3 Value Stocks With Up To 38% Discount To Fair Value",
       "publisher": "Simply Wall St.",
@@ -43,97 +61,73 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/real-estate/articles/chatham-lodging-trust-cldt-q3-011124012.html",
       "published_at": "2026-11-06T01:11:24Z"
-    },
-    {
-      "title": "IREN (IREN) Draws Tighter Oversight On Neocloud Data Center Projects",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/iren-iren-draws-tighter-oversight-232125190.html",
-      "published_at": "2026-11-05T23:21:25Z"
-    },
-    {
-      "title": "Oracle Stock Slides as AI Trade Swoons",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/oracle-stock-slides-as-ai-trade-swoons-Iia21sCdA4aesmmwVkEz?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-05T22:34:11Z"
-    },
-    {
-      "title": "Docusign vs. Monday.com: Which Technology Stock Is a Better Buy for 2027?",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/coverage/better-buy/2026/11/05/docusign-vs-monday-com-which-technology-stock-is-a-better-buy-for-2027/",
-      "published_at": "2026-11-05T22:33:02Z"
     }
   ],
   "NVDA": [
     {
-      "title": "U.S. stock futures rise after AI rout batters Wall St; payrolls data in focus",
-      "publisher": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-rise-ai-013807565.html",
-      "published_at": "2026-11-06T01:38:07Z"
-    },
-    {
-      "title": "Dow Jones Futures Fall, Techs Bounce After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
-      "publisher": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo",
-      "published_at": "2026-11-06T01:26:25Z"
-    },
-    {
-      "title": "Prediction: This Is How Much XRP Will Be Worth by the End of 2030",
+      "title": "Warren Buffett's Successor, Greg Abel, Has 71% of Berkshire Hathaway's $362 Billion Portfolio Invested in 7 Standout Stocks",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/05/prediction-this-is-how-much-xrp-will-be-worth-by-t/",
-      "published_at": "2026-11-06T01:20:00Z"
+      "url": "https://www.fool.com/investing/2026/11/06/warren-buffett-successor-greg-abel-71-berkshire-hathaway-362-billion-portfolio-invested-7-standout-stocks/",
+      "published_at": "2026-11-06T10:26:02Z"
     },
     {
-      "title": "Prediction: This Will Be SpaceX's Stock Price by the End of 2029",
+      "title": "Palantir Stock Is Down 19% From Its Highs. Time to Buy the Dip?",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/05/prediction-this-will-be-spacexs-stock-price-by-the/",
-      "published_at": "2026-11-06T01:15:00Z"
+      "url": "https://www.fool.com/investing/2026/11/06/palantir-stock-is-down-19-from-its-highs-time-to-b/",
+      "published_at": "2026-11-06T10:20:00Z"
     },
     {
-      "title": "Chatham Lodging Trust (CLDT) (Q3 2026) Earnings Call Highlights: Silicon Valley Surge Drives ...",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/real-estate/articles/chatham-lodging-trust-cldt-q3-011124012.html",
-      "published_at": "2026-11-06T01:11:24Z"
+      "title": "Exclusive-Nvidia chips pile up in Hong Kong as China withholds import approval",
+      "publisher": "Reuters",
+      "url": "https://finance.yahoo.com/news/exclusive-nvidia-chips-pile-hong-112651215.html",
+      "published_at": "2026-11-06T05:31:01Z"
+    },
+    {
+      "title": "The Democrats Won Congress. Here's What Could Come Next for Crypto.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/06/the-democrats-won-congress-heres-what-could-come-n/",
+      "published_at": "2026-11-06T10:17:00Z"
+    },
+    {
+      "title": "Stock-Split Watch: Is Meta Platforms Next?",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/06/stock-split-watch-is-meta-platforms-next/",
+      "published_at": "2026-11-06T10:09:00Z"
     }
   ],
   "GOOGL": [
     {
-      "title": "Cathie Wood Sells $12.8 Million Of Alphabet, Days After The Stock Suffered Its Worst Day Since Its 2004 IPO, Losing Nearly Half A Trillion Dollars In Market Value",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/05/cathie-wood-sells-12-8-million-of-alphabet-days-after-the-stock-suffered-its-worst-day-since-its-2004-ipo-losing-nearly-half-a-trillion-dollars-in-market-value/",
-      "published_at": "2026-11-06T01:20:15Z"
+      "title": "AI Stocks Are Rebounding Ahead of the Bell",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026/card/ai-stocks-are-rebounding-ahead-of-the-bell-p1xVERXJJ2JryqTCNQwh?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-06T09:44:50Z"
     },
     {
-      "title": "Chatham Lodging Trust (CLDT) (Q3 2026) Earnings Call Highlights: Silicon Valley Surge Drives ...",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/real-estate/articles/chatham-lodging-trust-cldt-q3-011124012.html",
-      "published_at": "2026-11-06T01:11:24Z"
+      "title": "Google Schedules Gemini 3.8 and 3.6 Flash API Price Increases for January 1, 2027",
+      "publisher": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-schedules-gemini-3-8-084343356.html",
+      "published_at": "2026-11-06T08:43:43Z"
     },
     {
-      "title": "Elon Musk's SpaceX Could Build More Data Center Capacity in 18 Months Than Google Did in 27 Years, Says SemiAnalysis",
-      "publisher": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/elon-musks-spacex-could-build-003006299.html",
-      "published_at": "2026-11-06T00:30:06Z"
+      "title": "What IREN (IREN) Said on Its Q1 Earnings Call",
+      "publisher": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-iren-iren-said-on-its-q1-earnings-call-2026-11-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "published_at": "2026-11-06T08:14:42Z"
     },
     {
-      "title": "Democrats Eye New Wealth Taxes, Even as California Ballot Initiative Falters",
-      "publisher": "The Fiscal Times",
-      "url": "https://finance.yahoo.com/economy/policy/articles/democrats-eye-wealth-taxes-even-234531855.html",
-      "published_at": "2026-11-05T23:45:31Z"
+      "title": "Prediction: November Will Be a Huge Month for Broadcom",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/06/prediction-november-will-be-a-huge-month-for-broad/",
+      "published_at": "2026-11-06T07:29:00Z"
     },
     {
-      "title": "USA TODAY Co., Inc. Q3 2026 Earnings Call Summary",
-      "publisher": "Moby",
-      "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-usa-today-co-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-      "published_at": "2026-11-05T23:10:40Z"
+      "title": "Oracle vs. Alphabet: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/06/oracle-vs-alphabet-which-is-the-better-ai-cloud-st/",
+      "published_at": "2026-11-06T05:20:00Z"
     }
   ],
   "AMZN": [
-    {
-      "title": "Amazon partners with Uber Eats to bring restaurant delivery to Prime members",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/amazon-partners-with-uber-eats-to-bring-restaurant-delivery-to-prime-members-110100295.html",
-      "published_at": "2026-11-05T11:01:00Z"
-    },
     {
       "title": "Purple Innovation Inc (PRPL) Q3 2026 Earnings Call Highlights: Cash Flow Turns Positive as ...",
       "publisher": "GuruFocus.com",
@@ -157,38 +151,44 @@
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/articles/quantinuum-quantum-computing-stock-443a8594?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-11-05T22:36:00Z"
+    },
+    {
+      "title": "Oracle Stock Slides as AI Trade Swoons",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/oracle-stock-slides-as-ai-trade-swoons-Iia21sCdA4aesmmwVkEz?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-05T22:34:11Z"
     }
   ],
   "META": [
     {
-      "title": "GE Vernova Is Up 18% in 2026 After Three Guidance Raises: Take Profits, or Buy More?",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/ge-vernova-is-up-18-in-2026-after-three-guidance-raises-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261105-wg2jv6gx",
-      "published_at": "2026-11-06T00:50:25Z"
-    },
-    {
-      "title": "Apple, Alphabet, and Meta: 3 Big Takeaways from Recent Earnings",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-alphabet-meta-3-big-230000891.html",
-      "published_at": "2026-11-05T23:00:00Z"
-    },
-    {
-      "title": "1 Unstoppable Cryptocurrency That Could Join Bitcoin in the $1 Trillion Club",
+      "title": "Stock-Split Watch: Is Meta Platforms Next?",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/05/1-cryptocurrency-with-trillion-dollar-potential/",
-      "published_at": "2026-11-05T22:51:00Z"
+      "url": "https://www.fool.com/investing/2026/11/06/stock-split-watch-is-meta-platforms-next/",
+      "published_at": "2026-11-06T10:09:00Z"
     },
     {
-      "title": "dYdX Team’s Arcus Opens Stock-Token Collateral to All Perps Traders, With a $20,000 Cap",
-      "publisher": "Unchained",
-      "url": "https://unchainedcrypto.com/dydx-teams-arcus-opens-stock-token-collateral-to-all-perps-traders-with-a-20000-cap/",
-      "published_at": "2026-11-05T21:25:56Z"
+      "title": "AI Stocks Are Rebounding Ahead of the Bell",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026/card/ai-stocks-are-rebounding-ahead-of-the-bell-p1xVERXJJ2JryqTCNQwh?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-06T09:44:50Z"
     },
     {
-      "title": "SpaceX Stock Is Still Falling. It Trades at Apple’s Valuation.",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/spacex-stock-buy-rating-cathie-wood-e46d26d7?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-05T21:20:00Z"
+      "title": "Asian markets follow US rout as AI investment jitters spread in wake of Democrat blue wave",
+      "publisher": "CNN Business",
+      "url": "https://www.cnn.com/2026/11/05/markets/asian-markets-us-rout-ai-investment-intl-hnk",
+      "published_at": "2026-11-06T08:06:32Z"
+    },
+    {
+      "title": "Meta Platforms Heads 3 Top Founder Led Stocks To Watch",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-heads-3-top-071346599.html",
+      "published_at": "2026-11-06T07:13:46Z"
+    },
+    {
+      "title": "Do You Like Cash? Consider Reddit Stock",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/rddt/articles/622824/do-you-like-cash-consider-reddit-stock/2026-11-05",
+      "published_at": "2026-11-06T04:05:07Z"
     }
   ],
   "TSLA": [
@@ -205,54 +205,54 @@
       "published_at": "2026-11-05T15:30:32Z"
     },
     {
-      "title": "SpaceX and Tesla stocks extend their slide as chip stocks drop: AlphaCheck",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/spacex-tesla-shares-extend-declines-semiconductor-stocks-drop-alphacheck-150427180.html",
-      "published_at": "2026-11-05T15:04:27Z"
+      "title": "Tesla to wind down Cybertruck production at Texas factory as it struggles to win appeal",
+      "publisher": "Reuters",
+      "url": "https://finance.yahoo.com/news/tesla-wind-down-cybertruck-production-094210977.html",
+      "published_at": "2026-11-06T09:42:10Z"
     },
     {
-      "title": "Zero To Sixty: Fort Worth Gets Tesla Robotaxi While UBS Upgrades Rivian And Citigroup Shuffles EV Holdings",
-      "publisher": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/zero-to-sixty-fort-worth-gets-tesla-robotaxi-while-ubs-upgrades-rivian-and-citigroup-shuffles-ev-holdings/cNGl4ABR94q",
-      "published_at": "2026-11-06T00:54:24Z"
+      "title": "AI wipeout in focus; U.S. employment data ahead - what’s moving markets",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-wipeout-focus-u-employment-093159092.html",
+      "published_at": "2026-11-06T09:31:59Z"
     },
     {
-      "title": "1 Unstoppable Cryptocurrency That Could Join Bitcoin in the $1 Trillion Club",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/05/1-cryptocurrency-with-trillion-dollar-potential/",
-      "published_at": "2026-11-05T22:51:00Z"
+      "title": "Elon Musk’s Net Worth Drops Nearly $80 Billion In A Day As Tesla And SpaceX Stock Crater During Tech Wipe-Out",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/06/elon-musks-net-worth-drops-nearly-80-billion-in-a-day-as-tesla-and-spacex-stock-crater-during-tech-wipe-out/",
+      "published_at": "2026-11-06T09:27:48Z"
     }
   ],
   "AVGO": [
     {
-      "title": "Chip Stocks Fall on AI Regulation Fears",
+      "title": "AI Stocks Are Rebounding Ahead of the Bell",
       "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/chip-stocks-hit-by-data-center-ai-regulation-fears-TjThbzZVLKxkZW5tt26b?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-05T22:33:13Z"
+      "url": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026/card/ai-stocks-are-rebounding-ahead-of-the-bell-p1xVERXJJ2JryqTCNQwh?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-06T09:44:50Z"
     },
     {
-      "title": "Stock Market Today, Nov. 5: Nvidia Slides on AI Chip Selloff as Election Uncertainty Weighs",
+      "title": "Broadcom Stock Has Had Only 2 Losing Years Since 2009. 2026 Is on Pace to Be the 3rd.",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-nvidia-slides-on-ai-chip-selloff-as-election-uncertainty-weighs/",
-      "published_at": "2026-11-05T22:09:38Z"
+      "url": "https://www.fool.com/investing/2026/11/06/broadcom-stock-has-had-only-2-losing-years-since-2009-2026-is-on-pace-to-be-the-3rd/",
+      "published_at": "2026-11-06T09:01:02Z"
     },
     {
-      "title": "Stocks slide as Wall Street's post-election rally fizzles",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/stocks-slide-as-wall-streets-post-election-rally-fizzles-214250142.html",
-      "published_at": "2026-11-05T21:42:50Z"
+      "title": "Top 3 Cash Flow Stocks To Watch In November 2026",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-cash-flow-stocks-081152747.html",
+      "published_at": "2026-11-06T08:11:52Z"
     },
     {
-      "title": "Nvidia has lost nearly $1.4 trillion since its October record",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-has-lost-nearly-14-trillion-since-its-october-record-165912910.html",
-      "published_at": "2026-11-05T16:59:12Z"
+      "title": "Prediction: November Will Be a Huge Month for Broadcom",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/06/prediction-november-will-be-a-huge-month-for-broad/",
+      "published_at": "2026-11-06T07:29:00Z"
     },
     {
-      "title": "The AI Trade Just Had Its Worst Day Since The Pandemic",
-      "publisher": "Moby",
-      "url": "https://app.moby.co/home/news/news-the-ai-trade-just-had-its-worst-day-since-the-pandemic?utm_source=yahoo_finance&utm_medium=rss",
-      "published_at": "2026-11-05T21:21:11Z"
+      "title": "Was Nutanix's Rise Driven By The Company Or Its Industry?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/ntnx/articles/622629/was-nutanixs-rise-driven-by-the-company-or-its-industry/2026-11-05",
+      "published_at": "2026-11-06T04:48:21Z"
     }
   ],
   "AMD": [
@@ -269,25 +269,31 @@
       "published_at": "2026-11-05T13:31:00Z"
     },
     {
-      "title": "AMD CEO Su on earnings outlook, new Starbucks holiday menu, and Hilton CEO on hotel demand",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/amd-ceo-su-on-earnings-outlook-new-starbucks-holiday-menu-and-hilton-ceo-on-hotel-demand-150453106.html",
-      "published_at": "2026-11-05T15:04:53Z"
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures wobble after brutal sell-off, with key jobs report on deck",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html",
+      "published_at": "2026-11-06T09:19:27Z"
     },
     {
-      "title": "AMD is a 'data center first' company, says CEO Lisa Su",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/amd-is-a-data-center-first-company-says-ceo-lisa-su-132618996.html",
-      "published_at": "2026-11-05T13:21:43Z"
+      "title": "AI Stocks Are Rebounding Ahead of the Bell",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/october-jobs-report-stock-market-11-06-2026/card/ai-stocks-are-rebounding-ahead-of-the-bell-p1xVERXJJ2JryqTCNQwh?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-06T09:44:50Z"
     },
     {
-      "title": "Cathie Wood Just Sold AMD Stock and Bought This AI Chip Stock Instead",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/05/cathie-wood-just-sold-amd-stock-and-bought-this-ai/",
-      "published_at": "2026-11-05T23:20:00Z"
+      "title": "Elon Musk’s Net Worth Drops Nearly $80 Billion In A Day As Tesla And SpaceX Stock Crater During Tech Wipe-Out",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/06/elon-musks-net-worth-drops-nearly-80-billion-in-a-day-as-tesla-and-spacex-stock-crater-during-tech-wipe-out/",
+      "published_at": "2026-11-06T09:27:48Z"
     }
   ],
   "NFLX": [
+    {
+      "title": "Disney struggles as Netflix pulls away: Time to buy the dip?",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/disney-struggles-netflix-pulls-away-103406881.html",
+      "published_at": "2026-11-06T10:34:06Z"
+    },
     {
       "title": "AMC Posts Its Highest Revenue Quarter Ever. CEO Aron Says Critics ‘Were Wrong.’",
       "publisher": "Barrons.com",
@@ -311,15 +317,15 @@
       "publisher": "TIKR",
       "url": "https://www.tikr.com/blog/bowie-capital-bought-netflix-oracle-intuit-nflx-orcl-stock?ref=yahoofinance&tlnk=yf-261105-m378pm98",
       "published_at": "2026-11-05T12:09:05Z"
-    },
-    {
-      "title": "What Is Alphabet Getting For All That Spending?",
-      "publisher": "Trefis",
-      "url": "https://www.trefis.com/stock/googl/articles/622982/what-is-alphabet-getting-for-all-that-spending/2026-11-05",
-      "published_at": "2026-11-05T12:06:25Z"
     }
   ],
   "CRM": [
+    {
+      "title": "DocuSign (DOCU) Stock Trades At A Premium To Its Earnings Base",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/docusign-docu-stock-trades-premium-071638806.html",
+      "published_at": "2026-11-06T07:16:38Z"
+    },
     {
       "title": "Paylocity (PCTY) Tops Q1 Earnings and Revenue Estimates",
       "publisher": "Zacks",
@@ -343,47 +349,47 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/does-salesforce-crm-gain-voice-201737121.html",
       "published_at": "2026-11-05T20:17:37Z"
-    },
-    {
-      "title": "Salesforce Bets on AI Voice Agents With Planned Cresta Acquisition",
-      "publisher": "Barchart",
-      "url": "https://www.barchart.com/story/news/8676374/salesforce-bets-on-ai-voice-agents-with-planned-cresta-acquisition",
-      "published_at": "2026-11-05T15:48:14Z"
     }
   ],
   "ORCL": [
     {
-      "title": "Big Tech's massive AI spending is causing another problem for investors",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/big-techs-massive-ai-spending-is-causing-another-problem-for-investors-171909548.html",
-      "published_at": "2026-11-05T17:19:09Z"
+      "title": "Market Chatter: ING Seeks to Sell $500 Million Data Center Loans Through Auction",
+      "publisher": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-ing-seeks-sell-090407544.html",
+      "published_at": "2026-11-06T09:04:07Z"
+    },
+    {
+      "title": "Top 3 Cash Flow Stocks To Watch In November 2026",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-cash-flow-stocks-081152747.html",
+      "published_at": "2026-11-06T08:11:52Z"
+    },
+    {
+      "title": "Meta Platforms Heads 3 Top Founder Led Stocks To Watch",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-heads-3-top-071346599.html",
+      "published_at": "2026-11-06T07:13:46Z"
+    },
+    {
+      "title": "Oracle vs. Alphabet: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/06/oracle-vs-alphabet-which-is-the-better-ai-cloud-st/",
+      "published_at": "2026-11-06T05:20:00Z"
     },
     {
       "title": "Our Pick Of The Best Cash Flow Stocks In November 2026",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/pick-best-cash-flow-stocks-012043415.html",
       "published_at": "2026-11-06T01:20:43Z"
-    },
-    {
-      "title": "3 Value Stocks With Up To 38% Discount To Fair Value",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-value-stocks-38-discount-011948981.html",
-      "published_at": "2026-11-06T01:19:48Z"
-    },
-    {
-      "title": "Oracle Sinks 7%, Everpure Down 15% as Midterms Hit AI Build-Out: “Washington Is the New Worry”",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/oracle-sinks-7-everpure-down-15-as-midterms-hit-ai-build-out-washington-is-the-new-worry?ref=yahoofinance&tlnk=yf-261105-8854hjrv",
-      "published_at": "2026-11-05T23:40:25Z"
-    },
-    {
-      "title": "Is Oracle (ORCL) Reasonable After Its AI Cash Flow Targets?",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-reasonable-ai-cash-231628103.html",
-      "published_at": "2026-11-05T23:16:28Z"
     }
   ],
   "ADBE": [
+    {
+      "title": "Adobe Is Down 29% This Year. Time to Sell or Buy More?",
+      "publisher": "TIKR",
+      "url": "https://www.tikr.com/blog/adobe-is-down-29-this-year-time-to-sell-or-buy-more?ref=yahoofinance&tlnk=yf-261106-5cxcwx36",
+      "published_at": "2026-11-06T02:22:18Z"
+    },
     {
       "title": "Adobe vs. Okta: Which Technology Stock Is a Better Buy for 2027?",
       "publisher": "Motley Fool",
@@ -407,15 +413,27 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-alert-citi-slaps-adobe-111849665.html",
       "published_at": "2026-11-05T11:18:49Z"
-    },
-    {
-      "title": "Adobe (ADBE) Brings CX Enterprise Coworker to Major AI Platforms",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-brings-cx-enterprise-211230372.html",
-      "published_at": "2026-11-04T21:12:30Z"
     }
   ],
   "COST": [
+    {
+      "title": "‘Only Go Into Physical Stores Every Sixth Week’: Clark Howard’s Anti-Impulse Rule as Costco Hits $1,025",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/11/06/only-go-into-physical-stores-every-sixth-week-clark-howards-anti-impulse-rule-as-costco-hits-1025/",
+      "published_at": "2026-11-06T10:19:50Z"
+    },
+    {
+      "title": "In 1975, Sol Price Was Pushed Out of FedMart, the Discount Chain He Founded. The Warehouse Store He Opened Next Became Part of Costco",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/06/in-1975-sol-price-was-pushed-out-of-fedmart-the-discount-chain-he-founded-the-warehouse-store-he-opened-next-became-part-of-costco/",
+      "published_at": "2026-11-06T09:07:36Z"
+    },
+    {
+      "title": "BARK Inc (BARK) (Q2 2027) Earnings Call Highlights: Revenue Beat, Lixsters Launch and Strategic ...",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bark-inc-bark-q2-2027-052525680.html",
+      "published_at": "2026-11-06T05:25:25Z"
+    },
     {
       "title": "Stock Market Today, Nov. 5: Amazon Shares Slide as Technology Selloff Erases Early Gains",
       "publisher": "Motley Fool",
@@ -427,27 +445,27 @@
       "publisher": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/11/05/jim-cramer-says-costco-is-still-a-great-value-charlie-mungers-rule-explains-why/",
       "published_at": "2026-11-05T22:07:28Z"
-    },
-    {
-      "title": "Sector Update: Consumer Stocks Decline Late Afternoon",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-decline-afternoon-204757977.html",
-      "published_at": "2026-11-05T20:47:57Z"
-    },
-    {
-      "title": "Costco retains BofA \"buy\" as October US comps rise 8.1%",
-      "publisher": "Proactive",
-      "url": "https://www.proactiveinvestors.com/companies/news/1101325/costco-retains-bofa-buy-as-october-us-comps-rise-8-1-1101325.html",
-      "published_at": "2026-11-05T19:20:00Z"
-    },
-    {
-      "title": "Energy-Drinks Are Exploding. Why Is Celsius Stock Fizzling?",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/energy-drinks-celsius-stock-92d020f8?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-05T18:39:00Z"
     }
   ],
   "JPM": [
+    {
+      "title": "Keurig Dr Pepper (KDP) Stock Sees Modest Fair Value Lift As Analysts Weigh Split Plans",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-kdp-stock-101853440.html",
+      "published_at": "2026-11-06T10:18:53Z"
+    },
+    {
+      "title": "Elizabeth Warren’s Power in New Senate Is a Wall Street Nightmare",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/politics/policy/elizabeth-warrens-power-in-new-senate-is-a-wall-street-nightmare-dff8fb6e?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-06T02:00:00Z"
+    },
+    {
+      "title": "The JPMorgan Alums Whose Big Bet on AI Stocks Is Being Put to the Test",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/investing/the-jpmorgan-alums-whose-big-bet-on-ai-stocks-is-being-put-to-the-test-df105aa1?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-06T02:00:00Z"
+    },
     {
       "title": "OpenAI Could Go Public In 2027 As Greg Brockman Signals IPO Readiness",
       "publisher": "Benzinga Private Markets",
@@ -459,24 +477,6 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-30f0ffc4?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-11-05T21:55:00Z"
-    },
-    {
-      "title": "Bank Earnings Have Entered the Upside-Down",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/05/bank-earnings-have-entered-the-upside-down/",
-      "published_at": "2026-11-05T20:09:42Z"
-    },
-    {
-      "title": "Morgan Stanley Sinks 6%, Goldman Down 6%, Citi Down 5% as Market Selloff Drags Wall Street Banks",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/morgan-stanley-sinks-6-goldman-down-6-citi-down-5-as-market-selloff-drags-wall-street-banks?ref=yahoofinance&tlnk=yf-261105-jwpc6pp2",
-      "published_at": "2026-11-05T20:08:12Z"
-    },
-    {
-      "title": "The Stocks Making Noise-And the Ones That Actually Matter",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/05/the-stocks-making-noise-and-the-ones-that-actually-matter/",
-      "published_at": "2026-11-05T17:33:43Z"
     }
   ]
 }
