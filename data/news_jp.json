@@ -65,6 +65,18 @@
   ],
   "9984.T": [
     {
+      "title": "OpenAI secures $11bn in funding round with $1.25tn valuation",
+      "publisher": "Verdict",
+      "url": "https://www.verdict.co.uk/openai-secures-11bn-funding/",
+      "published_at": "2026-11-09T09:57:50Z"
+    },
+    {
+      "title": "SoftBank’s Mobile Arm Braces for Possible AI Correction in US",
+      "publisher": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-mobile-arm-braces-possible-091252468.html",
+      "published_at": "2026-11-09T09:12:52Z"
+    },
+    {
       "title": "SoftBank Group (TSE:9984) Hit As China Blocks $5.4 Billion Robotics Deal",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/softbank-group-tse-9984-hit-221637712.html",
@@ -81,21 +93,15 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-stocks-plunge-10-190918729.html",
       "published_at": "2026-11-06T19:09:18Z"
-    },
-    {
-      "title": "$3 trillion wipe-out, CEOs on the volatility of politics, and the status of the AI trade",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/3-trillion-wipe-out-ceos-on-the-volatility-of-politics-and-the-status-of-the-ai-trade-151554253.html",
-      "published_at": "2026-11-06T15:15:54Z"
-    },
-    {
-      "title": "$3 trillion was wiped off the S&P 500 — but it ain't doomsday",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/3-trillion-was-wiped-off-the-sp-500--but-it-aint-doomsday-145656545.html",
-      "published_at": "2026-11-06T14:56:56Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "Gold Rises Above $4,100 an Ounce, With Focus on U.S. Inflation Data",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-mixed-signals-00565ca1?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-09T08:49:00Z"
+    },
     {
       "title": "Oil Prices Pick Up as Market Mulls Over Prospects for Middle East Settlement",
       "publisher": "The Wall Street Journal",
@@ -119,12 +125,6 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-04-2026/card/why-treasury-yields-and-the-dollar-are-down-Epo9RzU4pKjAXeHSK2Xy?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-11-04T14:12:14Z"
-    },
-    {
-      "title": "Amazon-Backed Anthropic Plans Retail Share Offerings in Six International Markets",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-backed-anthropic-plans-retail-093920998.html",
-      "published_at": "2026-11-03T09:39:20Z"
     }
   ],
   "6501.T": [
@@ -321,6 +321,12 @@
   ],
   "7974.T": [
     {
+      "title": "Why Nintendo Stock Is One to Watch Ahead of the Holiday Season",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/nintendo-stock-holiday-season-outlook/",
+      "published_at": "2026-11-08T11:43:29Z"
+    },
+    {
       "title": "Nintendo (TSE:7974) Stock Could Be 26% Overvalued Despite Switch 2 Sales Slump",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nintendo-tse-7974-stock-could-191559957.html",
@@ -343,15 +349,15 @@
       "publisher": "Moby",
       "url": "https://app.moby.co/home/news/news-nintendos-q2-results-reveal-switch-2-cant-catch-a-bid?utm_source=yahoo_finance&utm_medium=rss",
       "published_at": "2026-11-05T20:28:13Z"
-    },
-    {
-      "title": "Sony's 45% profit surge hides a PlayStation problem",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sonys-45-profit-surge-hides-184412783.html",
-      "published_at": "2026-11-05T18:44:12Z"
     }
   ],
   "9983.T": [
+    {
+      "title": "Standout Specialty Retailers Behind Those Double-Digit Gains",
+      "publisher": "WWD",
+      "url": "https://wwd.com/business-news/retail/standout-specialty-retailers-q2-double-digit-gains-1239347976/",
+      "published_at": "2026-10-23T20:39:50Z"
+    },
     {
       "title": "Fast Retailing (TSE:9983) Stock May Be Overvalued Following Raised FY2027 Forecast",
       "publisher": "Simply Wall St.",
@@ -375,12 +381,6 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/cmo-today/why-ford-hired-a-head-of-nomenclatureand-you-might-want-one-too-88bf0316?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-10-08T13:19:00Z"
-    },
-    {
-      "title": "Fast Retailing raises FY27 forecast on Uniqlo outperformance",
-      "publisher": "Just Style",
-      "url": "https://www.just-style.com/news/fast-retailing-raises-fy27-forecast-on-uniqlo-outperformance/",
-      "published_at": "2026-10-08T11:57:48Z"
     }
   ],
   "4519.T": [
