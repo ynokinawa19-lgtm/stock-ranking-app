@@ -1,69 +1,87 @@
 {
   "AAPL": [
     {
+      "title": "New iOS exploit could let apps steal crypto keys",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/ios-exploit-could-let-apps-190000953.html",
+      "published_at": "2026-11-10T19:00:00Z"
+    },
+    {
       "title": "No chair and 30-year tenures: Will Nvidia's board go soft on Jensen?",
       "publisher": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/no-chair-and-30-year-tenures-will-nvidias-board-go-soft-on-jensen-150036535.html",
       "published_at": "2026-11-10T15:00:36Z"
     },
     {
-      "title": "Jim Cramer questions his famous Nvidia investing rule",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/cramer-nvidia-investing-strategy-huang-scandal",
-      "published_at": "2026-11-10T17:46:32Z"
+      "title": "Nvidia's trillion-dollar bind: Can it afford to lose Jensen Huang?",
+      "publisher": "CBS News",
+      "url": "https://www.cbsnews.com/news/jensen-huang-affair-nvidia-ceo-dilemma/",
+      "published_at": "2026-11-11T01:02:52Z"
     },
     {
-      "title": "Apple Just Hit $5 Trillion. Its “Biggest Competition” Is a SpaceX Phone, Says Gene Munster",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/apple-just-hit-5-trillion-its-biggest-competition-is-a-spacex-phone-says-gene-munster?ref=yahoofinance&tlnk=yf-261110-3p7pmqj7",
-      "published_at": "2026-11-10T17:39:51Z"
+      "title": "What Should Snap Stock Holders Take From Its Third-Quarter Report?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/snap/articles/623978/what-should-snap-stock-holders-take-from-its-third-quarter-report/2026-11-10",
+      "published_at": "2026-11-11T00:44:18Z"
     },
     {
-      "title": "TSMC Just Delivered the AI Growth Shock Wall Street Was Waiting For",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-just-delivered-ai-growth-172738565.html",
-      "published_at": "2026-11-10T17:27:38Z"
-    },
-    {
-      "title": "Apple Is Holding Strong While Big Tech Sells Off. Is It Next?",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/10/apple-is-holding-strong-big-tech-sells-off-next/",
-      "published_at": "2026-11-10T16:54:13Z"
+      "title": "What Could Lift Netflix Stock From Here?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/nflx/articles/623989/what-could-lift-netflix-stock-from-here/2026-11-10",
+      "published_at": "2026-11-10T23:34:29Z"
     }
   ],
   "MSFT": [
     {
-      "title": "The Midterms' Biggest AI Losers Aren't the Big Spenders. They're the Borrowers.",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/10/the-midterms-biggest-ai-losers-arent-the-big-spend/",
-      "published_at": "2026-11-10T18:50:00Z"
+      "title": "Dow Jones Futures Rise, CoreWave Jumps After Stocks Fall On Nvidia, Surging Treasury Yields",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-nvidia-coreweave/?src=A00220&yptr=yahoo",
+      "published_at": "2026-11-11T01:25:50Z"
     },
     {
-      "title": "Microsoft Pushes Trump to Halt a Ban on Chinese Optics. Coherent Is Already “Basically Booked Out”",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/microsoft-pushes-trump-to-halt-a-ban-on-chinese-optics-coherent-is-already-basically-booked-out?ref=yahoofinance&tlnk=yf-261110-6mv25c54",
-      "published_at": "2026-11-10T18:22:45Z"
+      "title": "What Would It Take For AMD Stock To Move Higher?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/amd/articles/623964/what-would-it-take-for-amd-stock-to-move-higher/2026-11-10",
+      "published_at": "2026-11-11T01:09:44Z"
     },
     {
-      "title": "Google, Nvidia and Microsoft “Literally Feeding Themselves Money” with $26 Billion Anthropic IPO Buy",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/google-nvidia-and-microsoft-literally-feeding-themselves-money-with-26-billion-anthropic-ipo-buy?ref=yahoofinance&tlnk=yf-261110-4fh7rrpp",
-      "published_at": "2026-11-10T18:21:34Z"
+      "title": "What Nebius Group Buyers Were Betting On",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-group-buyers-were-betting-231720905.html",
+      "published_at": "2026-11-10T23:17:20Z"
     },
     {
-      "title": "Anthropic IPO Could Value Claude Maker at $1.4 Trillion",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-could-value-claude-182049858.html",
-      "published_at": "2026-11-10T18:20:49Z"
+      "title": "IREN Stock Falls Even as JPMorgan Goes Bullish",
+      "publisher": "TipRanks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/iren-stock-falls-even-jpmorgan-224457686.html",
+      "published_at": "2026-11-10T22:44:57Z"
     },
     {
-      "title": "Microsoft and IBM Unite for a Giant AI Agent Push",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ibm-unite-giant-ai-180648770.html",
-      "published_at": "2026-11-10T18:06:48Z"
+      "title": "How does this simple website make $23K/month",
+      "publisher": "Starter Story",
+      "url": "https://starterstory.videonest.co/videos/1787552/how-does-this-simple-website-make-23k-month-e5PgqkKXxw",
+      "published_at": "2026-11-10T22:32:42Z"
     }
   ],
   "NVDA": [
+    {
+      "title": "OpenAI's Q3 results and Nvidia's scandal impact on the AI ecosystem",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/openais-q3-results-and-nvidias-scandal-impact-on-the-ai-ecosystem-222332740.html",
+      "published_at": "2026-11-10T22:23:32Z"
+    },
+    {
+      "title": "Chip stocks' slide nears $5 trillion as Nvidia hits most extreme selling level since 2019",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/chip-stocks-slide-nears-5-trillion-as-nvidia-hits-most-extreme-selling-level-since-2019-191532559.html",
+      "published_at": "2026-11-10T19:15:32Z"
+    },
+    {
+      "title": "Nvidia in the hot seat, Anthropic to test the IPO market, hotter-than-expected US inflation",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/nvidia-in-the-hot-seat-anthropic-to-test-the-ipo-market-hotter-than-expected-us-inflation-184626512.html",
+      "published_at": "2026-11-10T18:46:26Z"
+    },
     {
       "title": "Alleged plot to spy on Jensen Huang: Why it's bullish for AI.",
       "publisher": "Yahoo Finance Video",
@@ -75,152 +93,134 @@
       "publisher": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/article/top-strategist-nvidia-ceo-jensen-huangs-affair-highlights-key-risk-for-tech-companies-184212599.html",
       "published_at": "2026-11-10T18:17:05Z"
-    },
-    {
-      "title": "Nvidia stock drops 6%, extending decline on report alleged Chinese spy linked to Nvidia CEO aided $7.5 billion in China chip shipments",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-152654028.html",
-      "published_at": "2026-11-10T15:24:21Z"
-    },
-    {
-      "title": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy.",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html",
-      "published_at": "2026-11-10T16:53:14Z"
-    },
-    {
-      "title": "Tech investors need to 'zoom out' and look at the 'big picture' this week",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/tech-investors-need-to-zoom-out-and-look-at-the-big-picture-this-week-164246983.html",
-      "published_at": "2026-11-10T16:42:46Z"
     }
   ],
   "GOOGL": [
     {
-      "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
+      "title": "What Should Snap Stock Holders Take From Its Third-Quarter Report?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/snap/articles/623978/what-should-snap-stock-holders-take-from-its-third-quarter-report/2026-11-10",
+      "published_at": "2026-11-11T00:44:18Z"
+    },
+    {
+      "title": "OpenAI's Q3 results and Nvidia's scandal impact on the AI ecosystem",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/openais-q3-results-and-nvidias-scandal-impact-on-the-ai-ecosystem-222332740.html",
+      "published_at": "2026-11-10T22:23:32Z"
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
       "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-10T18:41:00Z"
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-491215dc?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-10T21:56:00Z"
     },
     {
-      "title": "5 AI Stock Picks and Performance of Billionaire Stanley Druckenmiller",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-ai-stock-picks-performance-183306016.html",
-      "published_at": "2026-11-10T18:33:06Z"
+      "title": "California Privacy Agency Fines FedEx Nearly $3M",
+      "publisher": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/419354/california-privacy-agency-fines-fedex-nearly-3m.html",
+      "published_at": "2026-11-10T21:39:23Z"
     },
     {
-      "title": "Google, Nvidia and Microsoft “Literally Feeding Themselves Money” with $26 Billion Anthropic IPO Buy",
+      "title": "Why the Data Center Backlash Could Fall Flat: Increased Costs “a Trade That These Hyperscalers Are Still Going to Want to Make”",
       "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/google-nvidia-and-microsoft-literally-feeding-themselves-money-with-26-billion-anthropic-ipo-buy?ref=yahoofinance&tlnk=yf-261110-4fh7rrpp",
-      "published_at": "2026-11-10T18:21:34Z"
-    },
-    {
-      "title": "Anthropic IPO Could Value Claude Maker at $1.4 Trillion",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-could-value-claude-182049858.html",
-      "published_at": "2026-11-10T18:20:49Z"
-    },
-    {
-      "title": "Microsoft stock falls  as Anthropic takes aim at Excel and workplace software",
-      "publisher": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-stock-falls-anthropic-takes-180433197.html",
-      "published_at": "2026-11-10T18:04:33Z"
+      "url": "https://www.tikr.com/blog/why-the-data-center-backlash-could-fall-flat-increased-costs-a-trade-that-these-hyperscalers-are-still-going-to-want-to-make?ref=yahoofinance&tlnk=yf-261110-h47c46w6",
+      "published_at": "2026-11-10T21:38:17Z"
     }
   ],
   "AMZN": [
     {
-      "title": "The Midterms' Biggest AI Losers Aren't the Big Spenders. They're the Borrowers.",
+      "title": "Amazon’s Cloud Computing Business Already Brings in More Revenue Than 476 Companies in the S&P 500. Here’s What It Would Take to Reach $1 Trillion.",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/10/the-midterms-biggest-ai-losers-arent-the-big-spend/",
-      "published_at": "2026-11-10T18:50:00Z"
+      "url": "https://www.fool.com/investing/2026/11/10/amazon-cloud-computing-brings-in-more-revenue-than-476-companies-in-the-sp-500/",
+      "published_at": "2026-11-11T00:51:02Z"
     },
     {
-      "title": "5 AI Stock Picks and Performance of Billionaire Stanley Druckenmiller",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-ai-stock-picks-performance-183306016.html",
-      "published_at": "2026-11-10T18:33:06Z"
+      "title": "What Should Snap Stock Holders Take From Its Third-Quarter Report?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/snap/articles/623978/what-should-snap-stock-holders-take-from-its-third-quarter-report/2026-11-10",
+      "published_at": "2026-11-11T00:44:18Z"
     },
     {
-      "title": "Amazon Stock Climbs as Ring Unveils a Security Drone That Flies Around Your Home",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-climbs-ring-unveils-182118334.html",
-      "published_at": "2026-11-10T18:21:18Z"
+      "title": "What Could Lift Netflix Stock From Here?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/nflx/articles/623989/what-could-lift-netflix-stock-from-here/2026-11-10",
+      "published_at": "2026-11-10T23:34:29Z"
     },
     {
-      "title": "Amazon Stocks Rise 1.15% as Anthropic IPO Range Puts a Price on Its Stake",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stocks-rise-1-15-175609753.html",
-      "published_at": "2026-11-10T17:56:09Z"
+      "title": "Bullish’s New President Backs Issuer-First Model for Tokenized Stocks",
+      "publisher": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/bullishs-new-president-backs-issuer-first-model-for-tokenized-stocks-7830",
+      "published_at": "2026-11-10T23:33:00Z"
     },
     {
-      "title": "The Demise of Data Center Stocks Has Been Greatly Exaggerated. These Earnings Show Why.",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/data-center-stocks-exaggerated-demise-csquare-earnings-dadaceb8?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-10T17:51:00Z"
+      "title": "Stock Market Today: Dow Dips As Yields Soar; Nvidia Dives; Anthropic Seeks This IPO Price",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-report-anthropic-ipo/?src=A00220&yptr=yahoo",
+      "published_at": "2026-11-10T21:49:05Z"
     }
   ],
   "META": [
     {
-      "title": "Why a Former AI Executive Changed Her Career to Help Young Workers",
-      "publisher": "WSJ",
-      "url": "https://finance.yahoo.com/video/why-former-ai-executive-changed-180000700.html",
-      "published_at": "2026-11-10T18:00:00Z"
+      "title": "Meta's Ember is a bet on cheaper models with competitors",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/metas-ember-is-a-bet-on-cheaper-models-with-competitors-215556435.html",
+      "published_at": "2026-11-10T21:55:28Z"
     },
     {
-      "title": "BitGo adds APT stake to its growing Aptos relationship",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/innovation/bitgo-adds-an-apt-stake-to-its-growing-aptos-relationship",
-      "published_at": "2026-11-10T17:57:40Z"
+      "title": "What Would It Take For AMD Stock To Move Higher?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/amd/articles/623964/what-would-it-take-for-amd-stock-to-move-higher/2026-11-10",
+      "published_at": "2026-11-11T01:09:44Z"
     },
     {
-      "title": "The Demise of Data Center Stocks Has Been Greatly Exaggerated. These Earnings Show Why.",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/data-center-stocks-exaggerated-demise-csquare-earnings-dadaceb8?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-10T17:51:00Z"
+      "title": "What Should Snap Stock Holders Take From Its Third-Quarter Report?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/snap/articles/623978/what-should-snap-stock-holders-take-from-its-third-quarter-report/2026-11-10",
+      "published_at": "2026-11-11T00:44:18Z"
     },
     {
-      "title": "Advanced Micro Devices Stocks Rise 2.66% on $2.5 Billion Anthropic Stake Commitment",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-stocks-rise-173127490.html",
-      "published_at": "2026-11-10T17:31:27Z"
+      "title": "HIMS Stock Faces Dual Blow From Expanded FTC Privacy Lawsuit After Selloff Driven By Q3 Subscriber Loss",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/hims-stock-faces-dual-blow-from-expanded-ftc-privacy-lawsuit-after-selloff-driven-by-q3-subscriber-loss/cNGuUbdR9Ji",
+      "published_at": "2026-11-10T23:10:26Z"
     },
     {
-      "title": "Dan Ives Says Wall Street Is Underestimating 2 Major Tech Stocks",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/dan-ives-says-wall-street-172533253.html",
-      "published_at": "2026-11-10T17:25:33Z"
+      "title": "Stock Market Today, Nov. 10: Wall Street's Rally Hits a Roadblock as Hot Inflation Raises the Stakes for the Fed",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-today-nov-10-wall-street-s-rally-hits-a-roadblock-as-hot-inflation-raises-the-stakes-for-the-fed/",
+      "published_at": "2026-11-10T22:50:07Z"
     }
   ],
   "TSLA": [
     {
-      "title": "Tesla Stocks Move Lower a Day After San Antonio Robotaxi Launch",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-move-lower-day-174917522.html",
-      "published_at": "2026-11-10T17:49:17Z"
+      "title": "Bullish’s New President Backs Issuer-First Model for Tokenized Stocks",
+      "publisher": "CryptoProwl",
+      "url": "https://www.cryptoprowl.com/releases/bullishs-new-president-backs-issuer-first-model-for-tokenized-stocks-7830",
+      "published_at": "2026-11-10T23:33:00Z"
     },
     {
-      "title": "These AI Growth Stocks Stand Out In November 2026",
+      "title": "Ethereum ended CoreWeave's mining days. Earnings test its AI bet",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/crypto/markets/coreweave-stock-could-swing-15-on-q3-earnings-options-imply",
+      "published_at": "2026-11-10T22:25:25Z"
+    },
+    {
+      "title": "Top 3 Founder Run Stocks With Earnings Growth Over 15%",
       "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-growth-stocks-stand-november-171550246.html",
-      "published_at": "2026-11-10T17:15:50Z"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-3-founder-run-stocks-200943803.html",
+      "published_at": "2026-11-10T20:09:43Z"
     },
     {
-      "title": "Tesla Bull Predicts Democrats Will “Block Autonomy,” a Bigger Risk Than Data Centers",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/tesla-bull-predicts-democrats-will-block-autonomy-a-bigger-risk-than-data-centers?ref=yahoofinance&tlnk=yf-261110-qjgp8mrq",
-      "published_at": "2026-11-10T17:06:25Z"
+      "title": "Nvidia CEO Huang Gets More Bad News. Cathie Wood Keeps the Faith.",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-huang-cathie-wood-ef9d5868?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-10T19:47:00Z"
     },
     {
-      "title": "Lucid Jumps 8% on $1.75 Billion Liquidity Boost Despite Q3 Miss; Rivian Dips, Tesla Little Changed",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/10/lucid-jumps-8-on-1-75-billion-liquidity-boost-despite-q3-miss-rivian-dips-tesla-little-changed/",
-      "published_at": "2026-11-10T16:55:51Z"
-    },
-    {
-      "title": "Elon Musk Says Tesla Will Have to Return Cybertruck Deposits to 'A Lot of People,' Rejects Unprofitability Reports",
+      "title": "Elon Musk Says Tesla's Cybertruck Backlog Is Too Big To Clear Before Production Ends — Orders Extra Shift",
       "publisher": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-tesla-return-153008541.html",
-      "published_at": "2026-11-10T15:30:08Z"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-teslas-cybertruck-193006712.html",
+      "published_at": "2026-11-10T19:30:06Z"
     }
   ],
   "AVGO": [
@@ -231,28 +231,28 @@
       "published_at": "2026-11-10T16:53:14Z"
     },
     {
-      "title": "Google, Nvidia and Microsoft “Literally Feeding Themselves Money” with $26 Billion Anthropic IPO Buy",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/google-nvidia-and-microsoft-literally-feeding-themselves-money-with-26-billion-anthropic-ipo-buy?ref=yahoofinance&tlnk=yf-261110-4fh7rrpp",
-      "published_at": "2026-11-10T18:21:34Z"
+      "title": "What Would It Take For AMD Stock To Move Higher?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/amd/articles/623964/what-would-it-take-for-amd-stock-to-move-higher/2026-11-10",
+      "published_at": "2026-11-11T01:09:44Z"
     },
     {
-      "title": "Anthropic IPO Could Value Claude Maker at $1.4 Trillion",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-could-value-claude-182049858.html",
-      "published_at": "2026-11-10T18:20:49Z"
+      "title": "Jim Cramer Warns About the AI Data Center Trade. What It Means for Nvidia and Broadcom",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/10/jim-cramer-warns-about-the-ai-data-center-trade-what-it-means-for-nvidia-and-broadcom/",
+      "published_at": "2026-11-11T00:07:39Z"
     },
     {
-      "title": "Alphabet Stocks Rise 0.34% as Google Lines Up $10 Billion Anthropic Stake Purchase",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-rise-0-34-180311251.html",
-      "published_at": "2026-11-10T18:03:11Z"
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-491215dc?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-10T21:56:00Z"
     },
     {
-      "title": "Anthropic, Nvidia, CoreWeave, Take-Two, D-Wave, Securitize, and More That Explain Today’s Market",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-9ff7ace7?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-10T17:56:00Z"
+      "title": "Wall Street's $1.6 trillion rebound may look like a bottom — history says it often isn't: Chart of the Day",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/wall-streets-16-trillion-rebound-may-look-like-a-bottom--history-says-it-often-isnt-chart-of-the-day-110000299.html",
+      "published_at": "2026-11-10T11:00:00Z"
     }
   ],
   "AMD": [
@@ -263,31 +263,37 @@
       "published_at": "2026-11-10T16:53:14Z"
     },
     {
-      "title": "Anthropic to Seek $1.3 Trillion Valuation in IPO",
+      "title": "What Would It Take For AMD Stock To Move Higher?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/amd/articles/623964/what-would-it-take-for-amd-stock-to-move-higher/2026-11-10",
+      "published_at": "2026-11-11T01:09:44Z"
+    },
+    {
+      "title": "2 Reasons AMD Can Still Outperform by 2030",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/10/2-reasons-amd-can-still-outperform-by-2030/",
+      "published_at": "2026-11-10T23:33:02Z"
+    },
+    {
+      "title": "5 Stocks Analysts Just Upgraded",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-just-upgraded-222146322.html",
+      "published_at": "2026-11-10T22:21:46Z"
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
       "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/anthropic-ipo-valuation-8337b669?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-10T18:41:00Z"
-    },
-    {
-      "title": "Google, Nvidia and Microsoft “Literally Feeding Themselves Money” with $26 Billion Anthropic IPO Buy",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/google-nvidia-and-microsoft-literally-feeding-themselves-money-with-26-billion-anthropic-ipo-buy?ref=yahoofinance&tlnk=yf-261110-4fh7rrpp",
-      "published_at": "2026-11-10T18:21:34Z"
-    },
-    {
-      "title": "Anthropic IPO Could Value Claude Maker at $1.4 Trillion",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-could-value-claude-182049858.html",
-      "published_at": "2026-11-10T18:20:49Z"
-    },
-    {
-      "title": "Alphabet Stocks Rise 0.34% as Google Lines Up $10 Billion Anthropic Stake Purchase",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-rise-0-34-180311251.html",
-      "published_at": "2026-11-10T18:03:11Z"
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-491215dc?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-10T21:56:00Z"
     }
   ],
   "NFLX": [
+    {
+      "title": "What Could Lift Netflix Stock From Here?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/nflx/articles/623989/what-could-lift-netflix-stock-from-here/2026-11-10",
+      "published_at": "2026-11-10T23:34:29Z"
+    },
     {
       "title": "Skydance Plans to Cut $6 Billion in Costs After Swallowing Warner Bros.",
       "publisher": "24/7 Wall St.",
@@ -311,15 +317,27 @@
       "publisher": "Marketing Dive",
       "url": "https://www.marketingdive.com/news/netflix-embraces-35mm-film-in-international-campaign/874237/",
       "published_at": "2026-11-10T15:42:00Z"
-    },
-    {
-      "title": "The Trade Desk Falls 2% as Q3 Beat Fades: “Below the Level of Growth We Expect”",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/the-trade-desk-falls-2-as-q3-beat-fades-below-the-level-of-growth-we-expect?ref=yahoofinance&tlnk=yf-261110-932c45r9",
-      "published_at": "2026-11-10T15:08:06Z"
     }
   ],
   "CRM": [
+    {
+      "title": "What Are ServiceNow Stock Bears Missing?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/now/articles/623995/what-are-servicenow-stock-bears-missing/2026-11-10",
+      "published_at": "2026-11-10T22:13:48Z"
+    },
+    {
+      "title": "Salesforce And 2 Other AI Stocks To Watch",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-2-other-ai-stocks-201026055.html",
+      "published_at": "2026-11-10T20:10:26Z"
+    },
+    {
+      "title": "ServiceNow Just Dropped 30% in a Month: Stay the Course, or Just Stay Away?",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/10/servicenow-just-dropped-30-in-a-month-stay-the-course-or-just-stay-away/",
+      "published_at": "2026-11-10T20:02:08Z"
+    },
     {
       "title": "Why a Former AI Executive Changed Her Career to Help Young Workers",
       "publisher": "WSJ",
@@ -331,59 +349,59 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-stock-looks-undervalued-171325405.html",
       "published_at": "2026-11-10T17:13:25Z"
-    },
-    {
-      "title": "Clara Shih and Joe Jimenez on AI and Leadership | WSJ Leadership Institute",
-      "publisher": "WSJ",
-      "url": "https://finance.yahoo.com/video/clara-shih-joe-jimenez-ai-155300165.html",
-      "published_at": "2026-11-10T15:53:00Z"
-    },
-    {
-      "title": "Salesforce Sinks as S&P Cuts Its Rating to A on Deals and a $25 Billion Buyback",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/salesforce-sinks-as-sp-cuts-its-rating-to-a-on-deals-and-a-25-billion-buyback?ref=yahoofinance&tlnk=yf-261110-j7mwj89p",
-      "published_at": "2026-11-10T13:49:50Z"
-    },
-    {
-      "title": "Is Salesforce a Falling Knife Or Is The Worst Over?",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/09/is-salesforce-a-falling-knife-or-is-the-worst-over/",
-      "published_at": "2026-11-09T13:45:08Z"
     }
   ],
   "ORCL": [
     {
-      "title": "Dan Ives Says Wall Street Is Underestimating 2 Major Tech Stocks",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/dan-ives-says-wall-street-172533253.html",
-      "published_at": "2026-11-10T17:25:33Z"
+      "title": "What Would It Take For AMD Stock To Move Higher?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/amd/articles/623964/what-would-it-take-for-amd-stock-to-move-higher/2026-11-10",
+      "published_at": "2026-11-11T01:09:44Z"
     },
     {
-      "title": "Steve Eisman: Oracle Could Suffer if OpenAI 'Demise' Causes US Recession",
-      "publisher": "Benzinga Prediction Markets",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/11/63104820/eisman-ai-bear-market?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral",
-      "published_at": "2026-11-10T16:52:58Z"
+      "title": "Stock Market Today, Nov. 10: CoreWeave Stock Edges Lower as a Multibillion-Dollar Question Looms Over Earnings",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/10/stock-market-today-nov-10-coreweave-stock-edges-lower-as-a-multibillion-dollar-question-looms-over-earnings/",
+      "published_at": "2026-11-10T22:05:02Z"
     },
     {
-      "title": "How California’s Billionaires Tax Failed in More Ways Than One",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/billionaire-tax-california-proposal-f125b061?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-10T16:30:00Z"
+      "title": "Here's Why Oracle (ORCL) Fell More Than Broader Market",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-oracle-orcl-fell-214502244.html",
+      "published_at": "2026-11-10T21:45:02Z"
     },
     {
-      "title": "Oracle Corporation (ORCL) Faces Questions Over a Major AI Data Center Project: What Investors Should Know",
+      "title": "Oracle Corporation (ORCL) Is Joining the $1.2 Trillion AI Spending Boom: Is the Risk Being Overlooked?",
       "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-corporation-orcl-faces-questions-162126695.html",
-      "published_at": "2026-11-10T16:21:26Z"
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-corporation-orcl-joining-1-212809493.html",
+      "published_at": "2026-11-10T21:28:09Z"
     },
     {
-      "title": "Microsoft Dumps Oracle. Good News: Those Old Chips Renew at a “20% Premium”",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/microsoft-dumps-oracle-good-news-those-old-chips-renew-at-a-20-premium?ref=yahoofinance&tlnk=yf-261110-hp4jrccf",
-      "published_at": "2026-11-10T16:20:41Z"
+      "title": "Why Has Workday Stock Trailed Cadence?",
+      "publisher": "Trefis",
+      "url": "https://www.trefis.com/stock/wday/articles/624053/why-has-workday-stock-trailed-cadence/2026-11-10",
+      "published_at": "2026-11-10T21:01:49Z"
     }
   ],
   "ADBE": [
+    {
+      "title": "Disney's AI deal could change your next theme park visit",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/technology/disney-adobe-ai-deal-could-change-your-next-theme-park-visit",
+      "published_at": "2026-11-10T22:17:00Z"
+    },
+    {
+      "title": "California Privacy Agency Fines FedEx Nearly $3M",
+      "publisher": "MediaPost",
+      "url": "https://www.mediapost.com/publications/article/419354/california-privacy-agency-fines-fedex-nearly-3m.html",
+      "published_at": "2026-11-10T21:39:23Z"
+    },
+    {
+      "title": "Accenture vs. Adobe: What Does Fluctuating vs. Steady Revenue Tell Investors?",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/coverage/charts/2026/11/10/accenture-vs-adobe-what-does-fluctuating-vs-steady-revenue-tell-investors/",
+      "published_at": "2026-11-10T20:06:02Z"
+    },
     {
       "title": "What Could Walt Disney (DIS) AI Push Mean For Its Creative Future?",
       "publisher": "Simply Wall St.",
@@ -395,24 +413,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/investors-may-respond-adobe-adbe-210957988.html",
       "published_at": "2026-11-09T21:09:57Z"
-    },
-    {
-      "title": "Adobe (ADBE) Expands AI Reach, Is The 25% Discount Too Wide?",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/adobe-adbe-expands-ai-reach-200712841.html",
-      "published_at": "2026-11-09T20:07:12Z"
-    },
-    {
-      "title": "Disney Signs Adobe AI Deal Amid Reported Job Cut Plans",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/disney-signs-adobe-ai-deal-184604112.html",
-      "published_at": "2026-11-09T18:46:04Z"
-    },
-    {
-      "title": "Palantir Rises 5%, Snowflake Up 6% as AI Stocks Rebound After Market Was “Freaking Out”",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/palantir-rises-5-snowflake-up-6-as-ai-stocks-rebound-after-market-was-freaking-out?ref=yahoofinance&tlnk=yf-261109-h4v79xjq",
-      "published_at": "2026-11-09T18:29:50Z"
     }
   ],
   "COST": [
@@ -449,6 +449,24 @@
   ],
   "JPM": [
     {
+      "title": "JPMorgan Names Dividend Giant Its Top Stock Pick for a Rocky Market",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-names-dividend-giant-top-192031415.html",
+      "published_at": "2026-11-10T19:20:31Z"
+    },
+    {
+      "title": "Beyond AI Fever: Navigating a Complex IPO Environment, 6th Palm Beach CorpGov Forum",
+      "publisher": "CorpGov.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/beyond-ai-fever-navigating-complex-191345740.html",
+      "published_at": "2026-11-10T19:13:45Z"
+    },
+    {
+      "title": "Is Goldman Sachs an Attractive Investment Option Heading into 2027?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-attractive-investment-option-175400446.html",
+      "published_at": "2026-11-10T17:54:00Z"
+    },
+    {
       "title": "Financial Services Roundup: Market Talk",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-1f48b25a?siteid=yhoof2&yptr=yahoo",
@@ -459,24 +477,6 @@
       "publisher": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/11/10/jpmorgan-may-sell-2-billion-of-qualtrics-debt-at-about-85-cents-on-the-dollar/",
       "published_at": "2026-11-10T17:02:39Z"
-    },
-    {
-      "title": "JPMorgan reaffirms its top mid-cap pick in telecom",
-      "publisher": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-reaffirms-top-mid-cap-165343042.html",
-      "published_at": "2026-11-10T16:53:43Z"
-    },
-    {
-      "title": "A $13 Billion Fund Dumps These 3 Stocks",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/a-13-billion-fund-dumps-these-3-stocks?ref=yahoofinance&tlnk=yf-261110-mf5wr58f",
-      "published_at": "2026-11-10T16:51:44Z"
-    },
-    {
-      "title": "JPMorgan Cut Its IREN Target to $55. It Still Sees 148% Upside",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/jpmorgan-cut-its-iren-target-to-55-it-still-sees-148-upside?ref=yahoofinance&tlnk=yf-261110-7vwcm6xp",
-      "published_at": "2026-11-10T16:37:12Z"
     }
   ]
 }
