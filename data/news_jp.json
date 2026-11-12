@@ -33,6 +33,12 @@
   ],
   "6758.T": [
     {
+      "title": "Are Consumer Discretionary Stocks Lagging  Airbnb (ABNB) This Year?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/consumer-discretionary-stocks-lagging-airbnb-200711703.html",
+      "published_at": "2026-11-11T20:07:11Z"
+    },
+    {
       "title": "Take-Two Jumps 8% as GTA VI Preorders Run ‘Far in Excess’ of Expectations; Sony and Roblox Slide 2%",
       "publisher": "24/7 Wall St.",
       "url": "https://247wallst.com/investing/2026/11/10/take-two-jumps-8-as-gta-vi-preorders-run-far-in-excess-of-expectations-sony-and-roblox-slide-2/",
@@ -55,47 +61,53 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sony-q2-earnings-call-highlights-140000180.html",
       "published_at": "2026-11-06T14:00:00Z"
-    },
-    {
-      "title": "Company News for Nov 6, 2026",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-nov-6-2026-133000440.html",
-      "published_at": "2026-11-06T13:30:00Z"
     }
   ],
   "9984.T": [
     {
-      "title": "GE Vernova Stocks Rise Nearly 3% After SoftBank's $3.7 Billion Power-Equipment Charge",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stocks-rise-nearly-183214486.html",
-      "published_at": "2026-11-11T18:32:14Z"
+      "title": "SoftBank Group (TSE:9984) Lands Malaysia AI Deal, But Is The Valuation Opportunity Real",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-group-tse-9984-lands-011730096.html",
+      "published_at": "2026-11-12T01:17:30Z"
     },
     {
       "title": "AI Stocks, Neoclouds Rebound From SoftBank Bump, Get CoreWeave Lift",
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/news/softbank-coreweave-earnings-ai-neocloud-rally-demand-fears-ai-stocks/?src=A00220&yptr=yahoo",
-      "published_at": "2026-11-11T16:54:29Z"
+      "published_at": "2026-11-11T21:43:40Z"
     },
     {
-      "title": "SoftBank Group (TSE:9984) Commits $1 Billion To Malaysia AI Infrastructure",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-group-tse-9984-commits-151407502.html",
-      "published_at": "2026-11-11T15:14:07Z"
+      "title": "Intel Stock Faces 87 Million-Share Risk After SoftBank Deal",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/intel-stock-softbank-87-million-shares-selloff-risk/",
+      "published_at": "2026-11-11T20:34:28Z"
     },
     {
-      "title": "CoreWeave Boosts AI Trade. Bloom Energy, Other Power Stocks Are Big Winners.",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/coreweave-ai-bloom-energy-stock-power-addbb638?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-11T14:37:00Z"
+      "title": "Intel Stocks Climb 5.23% as SoftBank Reveals $7.4 Billion Raised Against Intel Shares",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-climb-5-23-191018499.html",
+      "published_at": "2026-11-11T19:10:18Z"
     },
     {
-      "title": "Russian-Diesel Plan Founders as U.S.-Bound Tankers Change Course",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/logistics-report/russian-diesel-plan-founders-as-u-s-bound-tankers-change-course-4d4dc8b9?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-11T11:55:00Z"
+      "title": "GE Vernova Stocks Rise Nearly 3% After SoftBank's $3.7 Billion Power-Equipment Charge",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stocks-rise-nearly-183214486.html",
+      "published_at": "2026-11-11T18:32:14Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "CoreWeave Reportedly Plans $4B Investment-Grade Loan After Strong Earnings Beat — But Shares Fall After-Hours On Nvidia CEO Drama",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/core-weave-reportedly-plans-4-b-investment-grade-loan-after-strong-earnings-beat-but-shares-fall-after-hours-on-nvidia-ceo-drama/cNGzQDlR99J",
+      "published_at": "2026-11-12T00:26:40Z"
+    },
+    {
+      "title": "CoreWeave plans $4 billion high-grade loan, Bloomberg reports",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-plans-4-billion-high-234323437.html",
+      "published_at": "2026-11-11T23:43:23Z"
+    },
     {
       "title": "Seven Bank Ltd (SVNBY) (Q2 2027) Earnings Call Highlights: Forecast Cut, ATM Rollout, and ...",
       "publisher": "GuruFocus.com",
@@ -113,21 +125,21 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/energy-oil/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-4e8f12e5?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-11-05T20:45:00Z"
-    },
-    {
-      "title": "Panamint Capital closes $1.8bn loan for Big Rooter Power project",
-      "publisher": "Energy Monitor",
-      "url": "https://www.energymonitor.ai/news/panamint-capital-loan-big-rooter-power/",
-      "published_at": "2026-11-05T10:40:17Z"
-    },
-    {
-      "title": "WSJ Dollar Index Falls 0.30% to 96.94",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/currencies/asian-currencies-mixed-amid-focus-on-u-s-midterms-143da6ea?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-04T22:23:00Z"
     }
   ],
   "6501.T": [
+    {
+      "title": "GE Vernova’s Ontario Nuclear Plant Is Facing Delays And Rising Costs",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ge-vernova-s-ontario-nuclear-plant-is-facing-delays-and-rising-costs/cNGx5Z4R99I",
+      "published_at": "2026-11-11T23:26:39Z"
+    },
+    {
+      "title": "Bad News for Nuclear: A Landmark Reactor Just Got Delayed",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ge-vernova-hitachi-stock-nuclear-energy-51a5d81c?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-11T19:46:00Z"
+    },
     {
       "title": "Is Hitachi (TSE:6501) Still Cheap After Its Profit Setback?",
       "publisher": "Simply Wall St.",
@@ -145,21 +157,15 @@
       "publisher": "Motley Fool",
       "url": "https://www.fool.com/coverage/better-buy/2026/11/06/ge-vernova-vs-vistra-which-industrials-stock-is-a-better-buy-for-2027/",
       "published_at": "2026-11-07T02:15:02Z"
-    },
-    {
-      "title": "Are Conglomerates Stocks Lagging  Grupo Mexico, S.A.B. de C.V. (GMBXF) This Year?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/conglomerates-stocks-lagging-grupo-mexico-134002557.html",
-      "published_at": "2026-11-02T13:40:02Z"
-    },
-    {
-      "title": "Hitachi’s nuclear revenue rises as SMR delivery date approaches",
-      "publisher": "Utility Dive",
-      "url": "https://www.utilitydive.com/news/hitachi-sees-rise-in-nuclear-revenue-as-smr-delivery-date-approaches/873327/",
-      "published_at": "2026-10-30T15:39:42Z"
     }
   ],
   "9432.T": [
+    {
+      "title": "Is NTT Inc. - Sponsored ADR (NTTYY) Stock Outpacing Its Business Services Peers This Year?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ntt-inc-sponsored-adr-nttyy-200711815.html",
+      "published_at": "2026-11-11T20:07:11Z"
+    },
     {
       "title": "NTT: Fiscal Q2 Earnings Snapshot",
       "publisher": "Associated Press",
@@ -183,12 +189,6 @@
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/articles/japan-data-centers-stocks-425a99bc?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-10-24T06:00:00Z"
-    },
-    {
-      "title": "Broadcom fought AT&T over VMware: Now a telecom giant is all in",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/technology/broadcom-vmware-docomo-10-year-deal",
-      "published_at": "2026-10-21T02:03:00Z"
     }
   ],
   "6098.T": [
@@ -225,6 +225,12 @@
   ],
   "4063.T": [
     {
+      "title": "Nikkei Falls 0.2%, Dragged by Electronics Stocks",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-2-dragged-by-electronics-stocks-0da84013?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-12T00:26:00Z"
+    },
+    {
       "title": "Is Shin-Etsu Chemical (TSE:4063) Undervalued Based On Cash Flow?",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/shin-etsu-chemical-tse-4063-011614374.html",
@@ -247,12 +253,6 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-courts-japan-suppliers-194801151.html",
       "published_at": "2026-07-16T19:48:01Z"
-    },
-    {
-      "title": "Shin-Etsu Chemical Co Ltd: A Significant Move by Hennessy Japan Fund",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/shin-etsu-chemical-co-ltd-230519962.html",
-      "published_at": "2026-06-25T23:05:19Z"
     }
   ],
   "8035.T": [
@@ -321,10 +321,22 @@
   ],
   "7974.T": [
     {
+      "title": "Zelda remake becomes fastest-selling Nintendo Switch 2 game ever",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/zelda-remake-becomes-fastest-selling-nintendo-switch-2-game-ever-231730766.html",
+      "published_at": "2026-11-11T23:17:30Z"
+    },
+    {
       "title": "Nintendo's Zelda remake sells 5.2M copies in just four days",
       "publisher": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/nintendos-zelda-remake-sells-52m-copies-in-just-four-days-145709390.html",
       "published_at": "2026-11-11T14:57:09Z"
+    },
+    {
+      "title": "Big Tech's expected big payday with Anthropic IPO, and Nintendo's big week with Zelda",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/big-techs-expected-big-payday-with-anthropic-ipo-and-nintendos-big-week-with-zelda-222911332.html",
+      "published_at": "2026-11-11T22:29:11Z"
     },
     {
       "title": "Why Nintendo Stock Is One to Watch Ahead of the Holiday Season",
@@ -337,18 +349,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nintendo-tse-7974-stock-could-191559957.html",
       "published_at": "2026-11-07T19:15:59Z"
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-20c4d8ea?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-06T21:53:00Z"
-    },
-    {
-      "title": "What Turtle Beach (TBCH) Said on Its Q3 Earnings Call",
-      "publisher": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-turtle-beach-tbch-said-on-its-q3-earnings-call-2026-11-06/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "published_at": "2026-11-06T21:14:39Z"
     }
   ],
   "9983.T": [
@@ -385,6 +385,12 @@
   ],
   "4519.T": [
     {
+      "title": "Healthcare Stocks Fall as Market Rout Spreads",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/healthcare-stocks-fall-as-market-rout-spreads-f789b5c8?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-06T11:54:00Z"
+    },
+    {
       "title": "Chugai Pharmaceutical (TSE:4519) Stock Price Trails Strong Q3 Earnings",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/chugai-pharmaceutical-tse-4519-stock-062837688.html",
@@ -407,12 +413,6 @@
       "publisher": "MarketBeat",
       "url": "https://www.marketbeat.com/instant-alerts/event-rani-therapeutics-eyes-2027-obesity-data-as-oral-biologics-platform-advances-2026-10-21/?utm_source=yahoofinance&utm_medium=yahoofinance",
       "published_at": "2026-10-22T02:02:06Z"
-    },
-    {
-      "title": "Will Regaining Emugrobart Rights and Refocusing on SMA Change Chugai Pharmaceutical's (TSE:4519) Narrative",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/healthcare/articles/regaining-emugrobart-rights-refocusing-sma-170643633.html",
-      "published_at": "2026-10-05T17:06:43Z"
     }
   ],
   "6367.T": [
