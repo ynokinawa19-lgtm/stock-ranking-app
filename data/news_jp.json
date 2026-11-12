@@ -65,6 +65,24 @@
   ],
   "9984.T": [
     {
+      "title": "Nvidia’s Crisis Reverberates Across Its Circular Financing Empire",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/nvidia-s-crisis-reverberates-across-its-circular-financing-empire-ZkICyO5dWbC3C6HShXGP?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-12T10:39:47Z"
+    },
+    {
+      "title": "Quantinuum (QNT) Stock Looks Expensive After a 33% Year To Date Slide",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/quantinuum-qnt-stock-looks-expensive-090909846.html",
+      "published_at": "2026-11-12T09:09:09Z"
+    },
+    {
+      "title": "What Is Quantinuum (QNT) Signaling With Its Japan Quantum AI Expansion?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/quantinuum-qnt-signaling-japan-quantum-051337757.html",
+      "published_at": "2026-11-12T05:13:37Z"
+    },
+    {
       "title": "SoftBank Group (TSE:9984) Lands Malaysia AI Deal, But Is The Valuation Opportunity Real",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/softbank-group-tse-9984-lands-011730096.html",
@@ -75,27 +93,15 @@
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/news/softbank-coreweave-earnings-ai-neocloud-rally-demand-fears-ai-stocks/?src=A00220&yptr=yahoo",
       "published_at": "2026-11-11T21:43:40Z"
-    },
-    {
-      "title": "Intel Stock Faces 87 Million-Share Risk After SoftBank Deal",
-      "publisher": "BeInCrypto",
-      "url": "https://beincrypto.com/intel-stock-softbank-87-million-shares-selloff-risk/",
-      "published_at": "2026-11-11T20:34:28Z"
-    },
-    {
-      "title": "Intel Stocks Climb 5.23% as SoftBank Reveals $7.4 Billion Raised Against Intel Shares",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-climb-5-23-191018499.html",
-      "published_at": "2026-11-11T19:10:18Z"
-    },
-    {
-      "title": "GE Vernova Stocks Rise Nearly 3% After SoftBank's $3.7 Billion Power-Equipment Charge",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-stocks-rise-nearly-183214486.html",
-      "published_at": "2026-11-11T18:32:14Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "Euro Could Extend Recent Losses Against Dollar",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/currencies/yen-hitting-160-to-dollar-again-wont-be-surprising-f82f47e6?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-12T09:58:00Z"
+    },
     {
       "title": "CoreWeave Reportedly Plans $4B Investment-Grade Loan After Strong Earnings Beat — But Shares Fall After-Hours On Nvidia CEO Drama",
       "publisher": "Stocktwits",
@@ -119,12 +125,6 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-amid-mixed-signals-00565ca1?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-11-09T19:12:00Z"
-    },
-    {
-      "title": "Oil Prices Pick Up as Market Mulls Over Prospects for Middle East Settlement",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-oil/oil-prices-stay-below-100-as-traders-weigh-iran-diplomacy-supply-outlook-4e8f12e5?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-05T20:45:00Z"
     }
   ],
   "6501.T": [
@@ -225,12 +225,6 @@
   ],
   "4063.T": [
     {
-      "title": "Nikkei Falls 0.2%, Dragged by Electronics Stocks",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-2-dragged-by-electronics-stocks-0da84013?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-12T00:26:00Z"
-    },
-    {
       "title": "Is Shin-Etsu Chemical (TSE:4063) Undervalued Based On Cash Flow?",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/shin-etsu-chemical-tse-4063-011614374.html",
@@ -253,6 +247,12 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-courts-japan-suppliers-194801151.html",
       "published_at": "2026-07-16T19:48:01Z"
+    },
+    {
+      "title": "Shin-Etsu Chemical Co Ltd: A Significant Move by Hennessy Japan Fund",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/shin-etsu-chemical-co-ltd-230519962.html",
+      "published_at": "2026-06-25T23:05:19Z"
     }
   ],
   "8035.T": [
@@ -327,16 +327,16 @@
       "published_at": "2026-11-11T23:17:30Z"
     },
     {
-      "title": "Nintendo's Zelda remake sells 5.2M copies in just four days",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/nintendos-zelda-remake-sells-52m-copies-in-just-four-days-145709390.html",
-      "published_at": "2026-11-11T14:57:09Z"
-    },
-    {
       "title": "Big Tech's expected big payday with Anthropic IPO, and Nintendo's big week with Zelda",
       "publisher": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/big-techs-expected-big-payday-with-anthropic-ipo-and-nintendos-big-week-with-zelda-222911332.html",
       "published_at": "2026-11-11T22:29:11Z"
+    },
+    {
+      "title": "Nintendo's Zelda remake sells 5.2M copies in just four days",
+      "publisher": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/nintendos-zelda-remake-sells-52m-copies-in-just-four-days-145709390.html",
+      "published_at": "2026-11-11T14:57:09Z"
     },
     {
       "title": "Why Nintendo Stock Is One to Watch Ahead of the Holiday Season",
