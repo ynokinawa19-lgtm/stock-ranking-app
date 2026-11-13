@@ -1,37 +1,43 @@
 {
   "AAPL": [
     {
-      "title": "Jensen Huang vs. Steve Jobs: Can Nvidia also thrive without its visionary?",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/jensen-huang-vs-steve-jobs-can-nvidia-also-thrive-without-its-visionary-144638496.html",
-      "published_at": "2026-11-12T14:46:38Z"
+      "title": "Trump wants Tim Cook to replace Jensen Huang at Nvidia as $550B vanishes in a week. Don’t bet your savings on 1 legend",
+      "publisher": "Moneywise",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-wants-tim-cook-replace-103000073.html",
+      "published_at": "2026-11-13T10:30:00Z"
     },
     {
-      "title": "Tony Robbins: How to make yourself irreplaceable in the AI era",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/tony-robbins-yourself-irreplaceable-ai-120000200.html",
-      "published_at": "2026-11-12T12:00:00Z"
+      "title": "Warren Buffett's Successor, Greg Abel, Has Over 35% of Berkshire Hathaway's $359 Billion Portfolio Invested in Just 2 Undeniable Winners",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/13/warren-buffett-successor-greg-abel-35-berkshire-hathaway-359-billion-portfolio-invested-in-2-undeniable-winners/",
+      "published_at": "2026-11-13T10:26:02Z"
     },
     {
-      "title": "Tony Robbins: 4 rules the world's greatest investors follow",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/tony-robbins-4-rules-the-worlds-greatest-investors-follow-155143166.html",
-      "published_at": "2026-11-12T11:00:00Z"
+      "title": "Fallout from the Nvidia scandal may dampen the exuberance around the AI boom",
+      "publisher": "Associated Press",
+      "url": "https://finance.yahoo.com/technology/ai/articles/fallout-nvidia-scandal-may-dampen-050149172.html",
+      "published_at": "2026-11-13T05:01:49Z"
     },
     {
-      "title": "Apple rises 26 places on the Roundtable 100",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/crypto/markets/apple-rises-26-places-on-the-roundtable-100",
-      "published_at": "2026-11-12T23:20:00Z"
+      "title": "Michael Burry Sees A ‘Mechanical Bid’ Under NVDA Stock – Even As He Questions Nvidia’s Succession Plan And Asia Sales",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-mechanical-bid-nvda-stock-questions-nvidia-succession-plan-asia-sales/cNbbpPXR9O1",
+      "published_at": "2026-11-13T04:13:14Z"
     },
     {
-      "title": "Google's Next Big AI Push Has Apple in the Picture",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/googles-next-big-ai-push-230445065.html",
-      "published_at": "2026-11-12T23:04:45Z"
+      "title": "3 Warren Buffett Stocks Just Closed at Record Highs. Here's the One I'd Still Buy Now.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/12/3-warren-buffett-stocks-just-closed-at-record-highs-here-s-the-one-i-d-still-buy-now/",
+      "published_at": "2026-11-13T04:12:02Z"
     }
   ],
   "MSFT": [
+    {
+      "title": "Microsoft outage disrupts Outlook, Teams, and Copilot for users 'in any region'",
+      "publisher": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/microsoft-outage-disrupts-outlook-teams-and-copilot-for-users-in-any-region-212333470.html",
+      "published_at": "2026-11-12T21:23:33Z"
+    },
     {
       "title": "Bill Ackman says Microsoft's position is 'really, really strong' as Anthropic pushes into enterprise software",
       "publisher": "Yahoo Finance",
@@ -45,22 +51,16 @@
       "published_at": "2026-11-12T22:13:31Z"
     },
     {
-      "title": "Microsoft outage disrupts Outlook, Teams, and Copilot for users 'in any region'",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/microsoft-outage-disrupts-outlook-teams-and-copilot-for-users-in-any-region-212333470.html",
-      "published_at": "2026-11-12T21:23:33Z"
+      "title": "What caused the Microsoft outage? Update issued with Outlook and Teams down",
+      "publisher": "The Independent",
+      "url": "https://www.independent.co.uk/tech/microsoft-outlook-outage-cause-update-b3084440.html",
+      "published_at": "2026-11-13T10:43:29Z"
     },
     {
-      "title": "Grand Theft Auto VI Makes Take-Two Stock Look Like a Steal",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/buy-take-two-stock-grand-theft-auto-vi-1b7b9907?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-13T01:35:00Z"
-    },
-    {
-      "title": "What Cerebras Systems (CBRS) Said on Its Q3 Earnings Call",
-      "publisher": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-cerebras-systems-cbrs-said-on-its-q3-earnings-call-2026-11-12/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "published_at": "2026-11-13T01:14:30Z"
+      "title": "Oracle Now Gets “$16 Billion a Year” per Gigawatt, Up From $10 Billion",
+      "publisher": "TIKR",
+      "url": "https://www.tikr.com/blog/oracle-now-gets-16-billion-a-year-per-gigawatt-up-from-10-billion?ref=yahoofinance&tlnk=yf-261113-wx42c469",
+      "published_at": "2026-11-13T10:28:34Z"
     }
   ],
   "NVDA": [
@@ -77,89 +77,101 @@
       "published_at": "2026-11-12T22:19:25Z"
     },
     {
-      "title": "Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/alleged-spy-at-center-of-nvidia-ceo-affair-reportedly-being-probed-over-super-micro-smuggling-effort-214712179.html",
-      "published_at": "2026-11-12T21:47:12Z"
+      "title": "The AI Trade Just Cracked. Here’s the Price at Which I’d Start Buying Nvidia.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/13/the-ai-trade-just-cracked-here-s-the-price-at-which-i-d-start-buying-nvidia/",
+      "published_at": "2026-11-13T10:32:02Z"
     },
     {
-      "title": "Cathie Wood: After Huang, AI push isn’t ‘going to stop’",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/cathie-wood-huang-ai-push-214100089.html",
-      "published_at": "2026-11-12T21:41:00Z"
+      "title": "Trump wants Tim Cook to replace Jensen Huang at Nvidia as $550B vanishes in a week. Don’t bet your savings on 1 legend",
+      "publisher": "Moneywise",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-wants-tim-cook-replace-103000073.html",
+      "published_at": "2026-11-13T10:30:00Z"
     },
     {
-      "title": "How Jensen's exit will help the US in the AI race vs. China: Roubini",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/how-jensens-exit-will-help-the-us-in-the-ai-race-vs-china-roubini-204733072.html",
-      "published_at": "2026-11-12T20:40:00Z"
+      "title": "Warren Buffett's Successor, Greg Abel, Has Over 35% of Berkshire Hathaway's $359 Billion Portfolio Invested in Just 2 Undeniable Winners",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/13/warren-buffett-successor-greg-abel-35-berkshire-hathaway-359-billion-portfolio-invested-in-2-undeniable-winners/",
+      "published_at": "2026-11-13T10:26:02Z"
     }
   ],
   "GOOGL": [
     {
-      "title": "Should You Buy Alphabet Stock Now That Google Will Let Customers Run Its AI Chips in Their Own Data Centers?",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/12/should-you-buy-alphabet-stock-now-that-google-will-let-customers-run-its-ai-chips-in-their-own-data-centers/",
-      "published_at": "2026-11-13T02:04:02Z"
+      "title": "Michael Burry vindicated as Nebius stock drops over 17% — and he's warning of a coming chip glut",
+      "publisher": "Moneywise",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-vindicated-nebius-stock-101500036.html",
+      "published_at": "2026-11-13T10:15:00Z"
     },
     {
-      "title": "TeraWulf Stock Fell 24% in a Month. Lucid Capital Still Sees 67% Upside",
+      "title": "What NIQ Global Intelligence (NIQ) Said on Its Q3 Earnings Call",
+      "publisher": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-niq-global-intelligence-niq-said-on-its-q3-earnings-call-2026-11-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "published_at": "2026-11-13T10:14:34Z"
+    },
+    {
+      "title": "The AI boom will survive without Jensen Huang, but there's a $500 billion funding hole to fill",
+      "publisher": "Axios",
+      "url": "https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+      "published_at": "2026-11-13T09:45:06Z"
+    },
+    {
+      "title": "Broadcom Just Gained 25% in a Week: Take Profits, or Buy More?",
       "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/terawulf-stock-fell-24-in-a-month-lucid-capital-still-sees-67-upside?ref=yahoofinance&tlnk=yf-261112-6xjf7mcf",
-      "published_at": "2026-11-13T00:23:55Z"
+      "url": "https://www.tikr.com/blog/broadcom-just-gained-25-in-a-week-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261113-fwrp7g74",
+      "published_at": "2026-11-13T09:05:50Z"
     },
     {
-      "title": "Your Customers Are Asking AI About Your Company. Here’s How to Audit What It Says.",
-      "publisher": "Entrepreneur",
-      "url": "https://www.entrepreneur.com/business-news/your-customers-are-asking-ai-about-your-company-heres-how-to-audit-what-it-says",
-      "published_at": "2026-11-13T00:00:00Z"
-    },
-    {
-      "title": "Alphabet Draws $5 Billion in Orders as AI Frenzy Builds",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-draws-5-billion-orders-230559734.html",
-      "published_at": "2026-11-12T23:05:59Z"
-    },
-    {
-      "title": "Google's Next Big AI Push Has Apple in the Picture",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/googles-next-big-ai-push-230445065.html",
-      "published_at": "2026-11-12T23:04:45Z"
+      "title": "Zacks Earnings Trends Highlights: Micron, Nvidia and Alphabet",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-micron-065300710.html",
+      "published_at": "2026-11-13T06:53:00Z"
     }
   ],
   "AMZN": [
     {
-      "title": "LiveOne Inc (LVO) (Q2 2027) Earnings Call Highlights: Record EBITDA, Major B2B Partnerships and ...",
+      "title": "AICPA urges clarity on reporting gambling gains and losses",
+      "publisher": "The Accountant",
+      "url": "https://www.theaccountant-online.com/news/aicpa-urges-clarity-on-reporting-gambling/",
+      "published_at": "2026-11-13T09:30:08Z"
+    },
+    {
+      "title": "At 21x earnings, Amazon is cheaper than Walmart and surging",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/21x-earnings-amazon-cheaper-walmart-073033897.html",
+      "published_at": "2026-11-13T07:30:33Z"
+    },
+    {
+      "title": "What Could American Electric Power Company (AEP) Gain From 12 Indiana SMRs?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/could-american-electric-power-company-051740491.html",
+      "published_at": "2026-11-13T05:17:40Z"
+    },
+    {
+      "title": "Laird Superfood Inc (LSF) (Q3 2026) Earnings Call Highlights: Net Sales Surge 225% to $42 ...",
       "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/liveone-inc-lvo-q2-2027-010439618.html",
-      "published_at": "2026-11-13T01:04:39Z"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/laird-superfood-inc-lsf-q3-050154562.html",
+      "published_at": "2026-11-13T05:01:54Z"
     },
     {
-      "title": "PwC spots a major shift in retirement money",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/retirement/pwc-pension-funds-ai-investments",
-      "published_at": "2026-11-13T00:00:00Z"
-    },
-    {
-      "title": "Cerebras Adds Microsoft Partnership to Diversify Beyond OpenAI",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/cerebras-earnings-stock-price-3bad09cc?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-12T23:02:00Z"
-    },
-    {
-      "title": "e.l.f. Beauty vs. lululemon athletica: Which Consumer Goods Stock Is a Better Buy for 2027?",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/coverage/better-buy/2026/11/12/elf-beauty-vs-lululemon-athletica-which-consumer-goods-stock-is-a-better-buy-for-2027/",
-      "published_at": "2026-11-12T22:53:38Z"
-    },
-    {
-      "title": "How Nvidia's stock decline might impact your 401(k) and portfolio",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/how-nvidias-stock-decline-might-impact-your-401k-and-portfolio-221925275.html",
-      "published_at": "2026-11-12T22:19:25Z"
+      "title": "Cathie Wood Boosts Bets On 2 AI Firms Amid Nvidia’s Huang Upheaval — Here’s How Her Trading Week Unfolded",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-bets-2-ai-firms-nvidia-huang-upheaval-how-trading-week-unfolded/cNbbpHTR9Ol",
+      "published_at": "2026-11-13T04:41:47Z"
     }
   ],
   "META": [
+    {
+      "title": "At 21x earnings, Amazon is cheaper than Walmart and surging",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/21x-earnings-amazon-cheaper-walmart-073033897.html",
+      "published_at": "2026-11-13T07:30:33Z"
+    },
+    {
+      "title": "Michael Burry Sees A ‘Mechanical Bid’ Under NVDA Stock – Even As He Questions Nvidia’s Succession Plan And Asia Sales",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/michael-burry-mechanical-bid-nvda-stock-questions-nvidia-succession-plan-asia-sales/cNbbpPXR9O1",
+      "published_at": "2026-11-13T04:13:14Z"
+    },
     {
       "title": "Grand Theft Auto VI Makes Take-Two Stock Look Like a Steal",
       "publisher": "Barrons.com",
@@ -167,28 +179,16 @@
       "published_at": "2026-11-13T01:35:00Z"
     },
     {
+      "title": "AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-13T01:00:00Z"
+    },
+    {
       "title": "Anthropic’s $500 Billion Question",
       "publisher": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/11/12/anthropics-500-billion-question/",
       "published_at": "2026-11-12T23:35:01Z"
-    },
-    {
-      "title": "Musk: SpaceX Makes Compute “Actually Usable” in 2 Months, 3x Faster than Rivals",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/musk-spacex-makes-compute-actually-usable-in-2-months-3x-faster-than-rivals?ref=yahoofinance&tlnk=yf-261112-j4mj678g",
-      "published_at": "2026-11-12T22:20:29Z"
-    },
-    {
-      "title": "What ERock (EROC) Said on Its Q3 Earnings Call",
-      "publisher": "MarketBeat",
-      "url": "https://www.marketbeat.com/instant-alerts/transcript-what-erock-eroc-said-on-its-q3-earnings-call-2026-11-12/?utm_source=yahoofinance&utm_medium=yahoofinance",
-      "published_at": "2026-11-12T22:14:48Z"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Resigns—and the Stock Is Falling",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-huang-affair-ceo-ouster-26c99dad?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-12T21:55:00Z"
     }
   ],
   "TSLA": [
@@ -199,28 +199,28 @@
       "published_at": "2026-11-12T21:20:04Z"
     },
     {
-      "title": "Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close",
-      "publisher": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-ceo-huang-exit-surging-yields-spacex-tesla-merger-deal/?src=A00220&yptr=yahoo",
-      "published_at": "2026-11-13T01:55:24Z"
-    },
-    {
-      "title": "Musk gives Cybertruck a reprieve, but many will still get refunds",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/retail/tesla-cybertruck-refunds-musk-production-extension",
-      "published_at": "2026-11-13T01:03:00Z"
-    },
-    {
-      "title": "S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure  —  CRWV, CBRS, NVDA, TSLA In Focus",
-      "publisher": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-futures-recover-after-markets-end-lower-on-jensen-huang-s-exit-oil-price-pressure-crwv-cbrs-nvda-tsla-in-focus/cNbbkHFR9OI",
-      "published_at": "2026-11-13T00:19:00Z"
-    },
-    {
-      "title": "A 68-Year-Old Retiree Bought 1,000 Tesla Shares at $108 in January 2023. Now Musk Could Merge Tesla Into SpaceX by December, and a 15% Premium Would Turn Her Stake Into About 3,270 SpaceX Shares",
+      "title": "‘Political Giving Is the Original Wealth Tax’: What Musk’s $474 Million Midterm Bet Actually Bought",
       "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/12/a-68-year-old-retiree-bought-1000-tesla-shares-at-108-in-january-2023-now-musk-could-merge-tesla-into-spacex-by-december-and-a-15-premium-would-turn-her-stake-into-about-3270-spacex-shares/",
-      "published_at": "2026-11-13T00:17:00Z"
+      "url": "https://247wallst.com/personal-finance/2026/11/13/political-giving-is-the-original-wealth-tax-what-musks-474-million-midterm-bet-actually-bought/",
+      "published_at": "2026-11-13T10:21:57Z"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Tesla, SpaceX and Ford",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-tesla-064500779.html",
+      "published_at": "2026-11-13T06:45:00Z"
+    },
+    {
+      "title": "VerifyMe Inc (VRME) Q3 2026 Earnings Call Highlights: RWA Platform Drives 86% of Revenue as ...",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/verifyme-inc-vrme-q3-2026-050437010.html",
+      "published_at": "2026-11-13T05:04:37Z"
+    },
+    {
+      "title": "Cathie Wood Sees Nvidia’s CAGR Slowing To 25% From 50% Over The Next Five Years: ‘You’ve Got Powerful Forces Like Elon Musk’",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-nvidia-five-year-annual-return-tesla-elson-musk/cNbbALkR9Om",
+      "published_at": "2026-11-13T05:02:53Z"
     }
   ],
   "AVGO": [
@@ -231,28 +231,28 @@
       "published_at": "2026-11-12T13:39:10Z"
     },
     {
-      "title": "5 Best Growth Stocks for the Next 5 Years",
-      "publisher": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-growth-stocks-next-231119066.html",
-      "published_at": "2026-11-12T23:11:19Z"
+      "title": "AI Roundup: Nvidia CEO’s Exit Dominates Headlines — CoreWeave, Cisco Results Boost AI Sentiment",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ai-roundup-nvidia-ceo-s-exit-dominates-headlines-core-weave-cisco-results-boost-ai-sentiment/cNbbU35R9Oz",
+      "published_at": "2026-11-13T09:14:57Z"
     },
     {
-      "title": "Can Huang's Exit Create Chip Competition",
-      "publisher": "Bloomberg",
-      "url": "https://finance.yahoo.com/video/huangs-exit-create-chip-competition-230039379.html",
-      "published_at": "2026-11-12T23:00:39Z"
+      "title": "Broadcom Just Gained 25% in a Week: Take Profits, or Buy More?",
+      "publisher": "TIKR",
+      "url": "https://www.tikr.com/blog/broadcom-just-gained-25-in-a-week-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261113-fwrp7g74",
+      "published_at": "2026-11-13T09:05:50Z"
     },
     {
-      "title": "Now Comes the Hard Part for the Stock Market",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-jensen-huang-stock-market-ai-trade-outlook-25292506?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-12T22:53:00Z"
+      "title": "Nvidia CEO Jensen Huang resigns: Is the stock now a 50% bargain?",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-resigns-073049064.html",
+      "published_at": "2026-11-13T07:30:49Z"
     },
     {
-      "title": "Stock Market Today, Nov. 12: Nvidia CEO's Stunning Exit Sends Wall Street Lower as Rivals Surge",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nvidia-ceo-s-stunning-exit-sends-wall-street-lower-as-rivals-surge/",
-      "published_at": "2026-11-12T22:45:02Z"
+      "title": "Broadcom (AVGO) Stock Gets A Fresh AI Opening After Rival CEO Exit",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-stock-gets-fresh-071030042.html",
+      "published_at": "2026-11-13T07:10:30Z"
     }
   ],
   "AMD": [
@@ -263,28 +263,28 @@
       "published_at": "2026-11-12T13:39:10Z"
     },
     {
-      "title": "AMD CEO Lisa Su on data center backlash: Tech has to sell the vision",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-on-data-center-backlash-tech-has-to-sell-the-vision-162604989.html",
-      "published_at": "2026-11-12T16:26:04Z"
+      "title": "Michael Burry vindicated as Nebius stock drops over 17% — and he's warning of a coming chip glut",
+      "publisher": "Moneywise",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-vindicated-nebius-stock-101500036.html",
+      "published_at": "2026-11-13T10:15:00Z"
     },
     {
-      "title": "AMD CEO Dr. Lisa Su reflects on her biggest lessons of 2026",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/amd-ceo-dr-lisa-su-reflects-on-her-biggest-lessons-of-2026-153656562.html",
-      "published_at": "2026-11-12T15:36:56Z"
+      "title": "AI Roundup: Nvidia CEO’s Exit Dominates Headlines — CoreWeave, Cisco Results Boost AI Sentiment",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ai-roundup-nvidia-ceo-s-exit-dominates-headlines-core-weave-cisco-results-boost-ai-sentiment/cNbbU35R9Oz",
+      "published_at": "2026-11-13T09:14:57Z"
     },
     {
-      "title": "AMD CEO Dr. Lisa Su continues making the 'right, big bets'",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/amd-ceo-dr-lisa-su-continues-making-the-right-big-bets-152305265.html",
-      "published_at": "2026-11-12T15:23:05Z"
+      "title": "Wall Street Wrap: Nvidia Faces Downgrades As Jensen Huang’s Exit Rattles Analysts — AMD, MP Materials, Riot Platforms Get Bullish Calls",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-stock-downgrade-amd-mp-materials-riot-platform-draftkings/cNbbxybR9Oy",
+      "published_at": "2026-11-13T09:06:45Z"
     },
     {
-      "title": "Why AMD CEO Lisa Su is Yahoo Finance's 'CEO of the Year'",
-      "publisher": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/why-amd-ceo-lisa-su-is-yahoo-finances-ceo-of-the-year-120000902.html",
-      "published_at": "2026-11-12T12:00:00Z"
+      "title": "Broadcom Just Gained 25% in a Week: Take Profits, or Buy More?",
+      "publisher": "TIKR",
+      "url": "https://www.tikr.com/blog/broadcom-just-gained-25-in-a-week-take-profits-or-buy-more?ref=yahoofinance&tlnk=yf-261113-fwrp7g74",
+      "published_at": "2026-11-13T09:05:50Z"
     }
   ],
   "NFLX": [
@@ -301,6 +301,12 @@
       "published_at": "2026-11-12T21:12:38Z"
     },
     {
+      "title": "Should Netflix (NFLX) Investors Rethink Its Outlook After Bill Ackman’s Fresh Backing?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-investors-rethink-outlook-080854948.html",
+      "published_at": "2026-11-13T08:08:54Z"
+    },
+    {
       "title": "Grand Theft Auto VI Makes Take-Two Stock Look Like a Steal",
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/articles/buy-take-two-stock-grand-theft-auto-vi-1b7b9907?siteid=yhoof2&yptr=yahoo",
@@ -311,20 +317,14 @@
       "publisher": "Trefis",
       "url": "https://www.trefis.com/stock/googl/articles/624528/how-low-can-alphabet-stock-go/2026-11-12",
       "published_at": "2026-11-12T16:00:01Z"
-    },
-    {
-      "title": "Disney’s New CEO Is Helping the Stock Recapture Its Magic",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/disneys-new-ceo-is-helping-the-stock-recapture-its-magic-d551b172?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-12T15:53:00Z"
     }
   ],
   "CRM": [
     {
-      "title": "Tony Robbins: 4 rules the world's greatest investors follow",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/tony-robbins-4-rules-the-worlds-greatest-investors-follow-155143166.html",
-      "published_at": "2026-11-12T11:00:00Z"
+      "title": "Did AI Platform Growth Just Shift Salesforce's (CRM) Investment Narrative?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/did-ai-platform-growth-just-043459296.html",
+      "published_at": "2026-11-13T04:34:59Z"
     },
     {
       "title": "Should You Buy HubSpot Stock For Its Cash?",
@@ -353,6 +353,12 @@
   ],
   "ORCL": [
     {
+      "title": "Oracle Now Gets “$16 Billion a Year” per Gigawatt, Up From $10 Billion",
+      "publisher": "TIKR",
+      "url": "https://www.tikr.com/blog/oracle-now-gets-16-billion-a-year-per-gigawatt-up-from-10-billion?ref=yahoofinance&tlnk=yf-261113-wx42c469",
+      "published_at": "2026-11-13T10:28:34Z"
+    },
+    {
       "title": "5 Best AI Stocks to Buy After Wells Fargo’s Outlook Upgrade",
       "publisher": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-ai-stocks-buy-231428418.html",
@@ -375,15 +381,15 @@
       "publisher": "Stocktwits",
       "url": "https://stocktwits.com/news-articles/markets/equity/ai-debt-binge-hits-a-wall-as-global-bond-markets-reach-saturation-point-wells-fargo-warns/cNGC7rER9OP",
       "published_at": "2026-11-12T21:35:40Z"
-    },
-    {
-      "title": "Nvidia’s Market Cap Continues to Slide",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/nvidia-s-market-cap-continues-to-slide-NPJDTzE5NpYFxp2GPkaR?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-12T21:28:07Z"
     }
   ],
   "ADBE": [
+    {
+      "title": "Adobe And 2 More Undervalued Tech Stocks To Watch",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/adobe-2-more-undervalued-tech-021250861.html",
+      "published_at": "2026-11-13T02:12:50Z"
+    },
     {
       "title": "Adobe makes major change creators will notice as Citi flags ‘hard reset’",
       "publisher": "TheStreet",
@@ -407,15 +413,21 @@
       "publisher": "CFO Dive",
       "url": "https://www.cfodive.com/news/hubspot-names-new-ceo-cfo-company-re-founding/874544/",
       "published_at": "2026-11-12T19:28:19Z"
-    },
-    {
-      "title": "The Big Short Investor Is Buying This Stock At a 50% Discount",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/12/the-big-short-investor-is-buying-this-stock-at-a-50-discount/",
-      "published_at": "2026-11-12T16:34:17Z"
     }
   ],
   "COST": [
+    {
+      "title": "Why Did AAPL, COST, JNJ Stocks Hit 52-Week Highs Today?",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-cost-jnj-stocks-hit-52-week-highs-today/cNbbnh2R9Og",
+      "published_at": "2026-11-13T02:32:55Z"
+    },
+    {
+      "title": "Dear Costco Stock Fans, Mark Your Calendars for December 4",
+      "publisher": "Barchart",
+      "url": "https://www.barchart.com/story/news/8812202/dear-costco-stock-fans-mark-your-calendars-for-december-4",
+      "published_at": "2026-11-13T00:30:03Z"
+    },
     {
       "title": "Costco members buying things most Americans have avoided",
       "publisher": "TheStreet",
@@ -433,26 +445,26 @@
       "publisher": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-analysts-downgrading-now-205623990.html",
       "published_at": "2026-11-12T20:56:23Z"
-    },
-    {
-      "title": "Bernstein Makes Surprising Costco Call Before Earnings",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-makes-surprising-costco-call-194538312.html",
-      "published_at": "2026-11-12T19:45:38Z"
-    },
-    {
-      "title": "Costco reveals 60% AI productivity gain in major expansion",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/costco-reveals-60-ai-productivity-194445957.html",
-      "published_at": "2026-11-12T19:44:45Z"
     }
   ],
   "JPM": [
     {
-      "title": "Tony Robbins: 4 rules the world's greatest investors follow",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/tony-robbins-4-rules-the-worlds-greatest-investors-follow-155143166.html",
-      "published_at": "2026-11-12T11:00:00Z"
+      "title": "Why JPMorgan Chase (JPM) Is Back In The Spotlight",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-jpmorgan-chase-jpm-back-101009777.html",
+      "published_at": "2026-11-13T10:10:09Z"
+    },
+    {
+      "title": "Grid Dynamics (GDYN) Stock Sees Fair Value Lift After Higher Analyst Targets",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/grid-dynamics-gdyn-stock-sees-100829194.html",
+      "published_at": "2026-11-13T10:08:29Z"
+    },
+    {
+      "title": "AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up.",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/ai-bots-are-using-credit-cards-banks-are-racing-to-keep-up-c30dda30?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-13T01:00:00Z"
     },
     {
       "title": "JPMorgan Downgrades Self-Driving Technology Supplier as Volkswagen Faces Delays",
@@ -465,18 +477,6 @@
       "publisher": "BeInCrypto",
       "url": "https://beincrypto.com/jpmorgan-microstrategy-stake-msci-exit/",
       "published_at": "2026-11-12T20:45:32Z"
-    },
-    {
-      "title": "Adam Back Says Bitcoin Could Reach $1 Million by Late 2028. What Would Have to Happen First?",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/11/12/adam-back-says-bitcoin-could-reach-1-million-by-late-2028-what-would-have-to-happen-first/",
-      "published_at": "2026-11-12T19:17:39Z"
-    },
-    {
-      "title": "Inflation Stays Hot: 3 Financial Stocks to Watch as Fed Rate Risks Rise",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/inflation-stays-hot-3-financial-190000326.html",
-      "published_at": "2026-11-12T19:00:00Z"
     }
   ]
 }

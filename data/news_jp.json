@@ -65,6 +65,24 @@
   ],
   "9984.T": [
     {
+      "title": "Stock Futures Lower as Investors Look to U.S. Inflation Data",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/stock-futures-lower-as-investors-look-to-u-s-inflation-data-5b1b5988?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-13T09:28:00Z"
+    },
+    {
+      "title": "AI Roundup: Nvidia CEO’s Exit Dominates Headlines — CoreWeave, Cisco Results Boost AI Sentiment",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ai-roundup-nvidia-ceo-s-exit-dominates-headlines-core-weave-cisco-results-boost-ai-sentiment/cNbbU35R9Oz",
+      "published_at": "2026-11-13T09:14:57Z"
+    },
+    {
+      "title": "GE Vernova Has Slid Since Summer: Why Evercore ISI Sees 67% Upside",
+      "publisher": "TIKR",
+      "url": "https://www.tikr.com/blog/ge-vernova-has-slid-since-summer-why-evercore-isi-sees-67-upside?ref=yahoofinance&tlnk=yf-261113-j7pr5q78",
+      "published_at": "2026-11-13T07:25:17Z"
+    },
+    {
       "title": "Democrats Open Probe Into Top Trump Fundraiser Meredith O’Rourke",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/politics/policy/democrats-open-probe-into-top-trump-fundraiser-meredith-orourke-94f93562?siteid=yhoof2&yptr=yahoo",
@@ -75,27 +93,21 @@
       "publisher": "TIKR",
       "url": "https://www.tikr.com/blog/ge-vernova-sinks-13-vertiv-down-18-in-a-week-as-data-center-backlash-hits-ai-power?ref=yahoofinance&tlnk=yf-261112-76q6wcw2",
       "published_at": "2026-11-12T20:35:26Z"
-    },
-    {
-      "title": "OpenAI Reportedly Raises $15B At $1.25 Trillion Valuation",
-      "publisher": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-reportedly-raises-15-b-at-1-25-trillion-valuation/cNGC3OsR9OT",
-      "published_at": "2026-11-12T19:26:22Z"
-    },
-    {
-      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "publisher": "TechCrunch",
-      "url": "https://finance.yahoo.com/energy/articles/softbank-billion-dollar-loss-may-170052532.html",
-      "published_at": "2026-11-12T17:00:52Z"
-    },
-    {
-      "title": "German AI robotics start-up valued at $8.5 bn after new fundraising",
-      "publisher": "AFP",
-      "url": "https://finance.yahoo.com/technology/ai/articles/german-ai-robotics-start-valued-121529942.html",
-      "published_at": "2026-11-12T12:15:29Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "MUFG raises annual profit target, announces 200 billion yen buyback",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mufg-raises-annual-profit-target-084706551.html",
+      "published_at": "2026-11-13T08:47:06Z"
+    },
+    {
+      "title": "MUFG: Fiscal Q2 Earnings Snapshot",
+      "publisher": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mufg-fiscal-q2-earnings-snapshot-075902996.html",
+      "published_at": "2026-11-13T07:59:02Z"
+    },
     {
       "title": "CoreWeave's $4 Billion Loan Plan Comes With a Catch",
       "publisher": "GuruFocus.com",
@@ -113,18 +125,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-mitsubishi-ufj-financial-group-151529635.html",
       "published_at": "2026-11-12T15:15:29Z"
-    },
-    {
-      "title": "CoreWeave Just Had Its Best Day Since June 2025 and Says It’s Sold Out Through 2027",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/12/coreweave-just-had-its-best-day-since-june-2025-and-says-its-sold-out-through-2027/",
-      "published_at": "2026-11-12T12:51:12Z"
-    },
-    {
-      "title": "CoreWeave Reportedly Plans $4B Investment-Grade Loan After Strong Earnings Beat — But Shares Fall After-Hours On Nvidia CEO Drama",
-      "publisher": "Stocktwits",
-      "url": "https://stocktwits.com/news-articles/markets/equity/core-weave-reportedly-plans-4-b-investment-grade-loan-after-strong-earnings-beat-but-shares-fall-after-hours-on-nvidia-ceo-drama/cNGzQDlR99J",
-      "published_at": "2026-11-12T00:26:40Z"
     }
   ],
   "6501.T": [
@@ -257,6 +257,12 @@
   ],
   "8035.T": [
     {
+      "title": "World shares log modest losses as investors assess impact on AI sector from the Nvidia scandal",
+      "publisher": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-mixed-investors-assess-053708191.html",
+      "published_at": "2026-11-13T05:37:08Z"
+    },
+    {
       "title": "Explainer-Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns",
       "publisher": "Reuters",
       "url": "https://ca.finance.yahoo.com/news/explainer-tougher-curbs-ai-chip-185447554.html",
@@ -279,12 +285,6 @@
       "publisher": "Reuters",
       "url": "https://finance.yahoo.com/markets/world-indices/articles/japans-nikkei-slumps-3-tech-022028372.html",
       "published_at": "2026-10-30T06:53:15Z"
-    },
-    {
-      "title": "Asian tech stocks slump as AI rout deepens on disappointing U.S. earnings",
-      "publisher": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-tech-stocks-slump-ai-044824243.html",
-      "published_at": "2026-10-30T04:48:24Z"
     }
   ],
   "6861.T": [
@@ -449,6 +449,12 @@
   ],
   "8058.T": [
     {
+      "title": "HudBay Minerals Q3 Earnings Call Highlights",
+      "publisher": "MarketBeat",
+      "url": "https://www.marketbeat.com/instant-alerts/transcript-hudbay-minerals-q3-earnings-call-highlights-2026-11-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
+      "published_at": "2026-11-13T09:14:54Z"
+    },
+    {
       "title": "Mitsubishi reports operating profit up but sales down in H1 FY27",
       "publisher": "Just Auto",
       "url": "https://www.just-auto.com/news/mitsubishi-reports-operating-profit-up-but-sales-down-in-h1-fy27/",
@@ -471,12 +477,6 @@
       "publisher": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-raises-fy-profit-forecast-062441346.html",
       "published_at": "2026-11-04T06:24:41Z"
-    },
-    {
-      "title": "Abu Dhabi’s XRG to acquire Shell’s stake in Australian LNG project",
-      "publisher": "Investing.com",
-      "url": "https://finance.yahoo.com/energy/articles/abu-dhabi-xrg-acquire-shell-091519431.html",
-      "published_at": "2026-11-03T09:15:19Z"
     }
   ]
 }
