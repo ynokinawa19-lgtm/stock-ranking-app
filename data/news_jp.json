@@ -65,10 +65,10 @@
   ],
   "9984.T": [
     {
-      "title": "Asian shares decline following stocks tumbled on Wall Street",
-      "publisher": "Associated Press",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-decline-following-stocks-040148315.html",
-      "published_at": "2026-11-17T04:01:48Z"
+      "title": "AI Pullback Stings SoftBank, With Stock Down 62% Since June",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-news-11-17-2026/card/ai-pullback-stings-softbank-with-stock-down-62-since-june-ExQYDkTiSOVMF1ki8uRV?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-17T11:17:03Z"
     },
     {
       "title": "SoftBank Group Stocks Fall 3.69% as AI Jitters Hit Its $64.6 Billion OpenAI Bet",
@@ -257,6 +257,12 @@
   ],
   "8035.T": [
     {
+      "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw",
+      "publisher": "Reuters",
+      "url": "https://ca.finance.yahoo.com/news/chinese-envoy-says-chip-equipment-092458827.html",
+      "published_at": "2026-11-17T09:27:45Z"
+    },
+    {
       "title": "Nvidia Export Curbs Could Lift These Semiconductor Stocks With US Fab Exposure",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/articles/nvidia-export-curbs-could-lift-211322386.html",
@@ -279,12 +285,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tokyo-electron-tse-8035-too-020720549.html",
       "published_at": "2026-11-15T02:07:20Z"
-    },
-    {
-      "title": "SoftBank Group Stocks Fall 5.11% as Nvidia Shake-Up Hits OpenAI-Linked Investor",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-stocks-fall-5-185118197.html",
-      "published_at": "2026-11-13T18:51:18Z"
     }
   ],
   "6861.T": [
