@@ -65,10 +65,22 @@
   ],
   "9984.T": [
     {
-      "title": "Nikkei Rises 1.0%, Led by Chip, AI Stocks",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-0-led-by-chip-ai-stocks-b486ab61?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-18T00:34:00Z"
+      "title": "Masayoshi Son Reportedly Calls Missing Anthropic Investment A ‘Mistake’ Ahead Of $1.4 Trillion IPO",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/masayoshi-son-reportedly-calls-missing-anthropic-investment-a-mistake-ahead-of-1-4-trillion-ipo/cNbXCp9R9L9",
+      "published_at": "2026-11-18T11:00:57Z"
+    },
+    {
+      "title": "SoftBank regrets 'mistake' of not backing Anthropic, says Massayoshi Son",
+      "publisher": "Financial Times",
+      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-regrets-mistake-not-backing-075606412.html",
+      "published_at": "2026-11-18T07:56:06Z"
+    },
+    {
+      "title": "Hyundai acquires full ownership of Boston Dynamics",
+      "publisher": "Just Auto",
+      "url": "https://www.just-auto.com/news/hyundai-acquires-full-ownership-of-boston-dynamics/",
+      "published_at": "2026-11-18T09:53:31Z"
     },
     {
       "title": "Nvidia's Complex Orbit",
@@ -81,21 +93,15 @@
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/articles/nvidia-ai-stock-selloff-3bd126bf?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-11-17T20:15:00Z"
-    },
-    {
-      "title": "SoftBank Had 64% of Its U.S. Stock Portfolio in Intel. It Has Since Halved",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/17/softbank-had-64-of-its-u-s-stock-portfolio-in-intel-it-has-since-halved/",
-      "published_at": "2026-11-17T15:52:05Z"
-    },
-    {
-      "title": "Why Jensen Huang's absence from Nvidia is 'horrible' for neoclouds",
-      "publisher": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/why-jensen-huangs-absence-from-nvidia-is-horrible-for-neoclouds-194629811.html",
-      "published_at": "2026-11-17T13:00:00Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "MUFG: Reverse Yankees Are About 20% of Europe Corporates",
+      "publisher": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/mufg-reverse-yankees-20-europe-091032886.html",
+      "published_at": "2026-11-18T09:10:32Z"
+    },
     {
       "title": "MUFG raises annual profit target, announces 200 billion yen buyback",
       "publisher": "Investing.com",
@@ -119,15 +125,15 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mitsubishi-ufj-financial-group-tse-171502486.html",
       "published_at": "2026-11-12T17:15:02Z"
-    },
-    {
-      "title": "Why Is Mitsubishi UFJ Financial Group (TSE:8306) Expanding Digital Banking And EMEA Markets?",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-mitsubishi-ufj-financial-group-151529635.html",
-      "published_at": "2026-11-12T15:15:29Z"
     }
   ],
   "6501.T": [
+    {
+      "title": "NuScale Sinks 22% in a Week to a 52-Week Low as Canada’s First SMR Runs Late. Is the Selling Overdone?",
+      "publisher": "TIKR",
+      "url": "https://www.tikr.com/blog/nuscale-sinks-22-in-a-week-to-a-52-week-low-as-canadas-first-smr-runs-late-is-the-selling-overdone?ref=yahoofinance&tlnk=yf-261118-85vfgjpv",
+      "published_at": "2026-11-18T02:48:01Z"
+    },
     {
       "title": "German AI robotics start-up valued at $8.5 bn after new fundraising",
       "publisher": "AFP",
@@ -151,12 +157,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/hitachi-tse-6501-still-cheap-101510048.html",
       "published_at": "2026-11-11T10:15:10Z"
-    },
-    {
-      "title": "X-Energy Can Construct Its First Nuclear Reactors, U.S. Says",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/x-energy-stock-nuclear-28dee48d?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-09T21:47:00Z"
     }
   ],
   "9432.T": [
