@@ -65,6 +65,24 @@
   ],
   "9984.T": [
     {
+      "title": "Nikkei Slides 4% as Anthropic's Debut Triggers AI Sell-Off in Tokyo",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/nikkei-225-falls-anthropic-ipo-softbank/",
+      "published_at": "2026-11-20T01:50:08Z"
+    },
+    {
+      "title": "SoftBank Group (TSE:9984) Founder Regrets OpenAI Bet As AI Focus Deepens",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-group-tse-9984-founder-221405345.html",
+      "published_at": "2026-11-19T22:14:05Z"
+    },
+    {
+      "title": "Who Is Rene Haas? What to Know About the Arm CEO as Nvidia Searches for Jensen Huang's Successor",
+      "publisher": "Barchart",
+      "url": "https://www.barchart.com/story/news/8922883/who-is-rene-haas-what-to-know-about-the-arm-ceo-as-nvidia-searches-for-jensen-huang-s-successor",
+      "published_at": "2026-11-19T18:51:22Z"
+    },
+    {
       "title": "Anthropic makes IPO history. But is it worth buying on day one?",
       "publisher": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/anthropic-makes-ipo-history-but-is-it-worth-buying-on-day-one-170419357.html",
@@ -75,38 +93,20 @@
       "publisher": "Benzinga",
       "url": "https://finance.yahoo.com/technology/ai/articles/softbank-chose-openai-over-wonderful-153006364.html",
       "published_at": "2026-11-19T15:30:06Z"
-    },
-    {
-      "title": "Here Are the Stocks Moving Ahead of Anthropic’s Market Debut",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026/card/here-are-the-stocks-moving-ahead-of-anthropic-s-market-debut-Yw6Qwk1xHpQBoyWdq4HX?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-19T14:00:01Z"
-    },
-    {
-      "title": "GE Vernova Stock Is a Buy. Not for AI, but for Services.",
-      "publisher": "Barrons.com",
-      "url": "https://www.barrons.com/articles/buy-ge-vernova-stock-price-pick-7590f63c?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-19T13:00:00Z"
-    },
-    {
-      "title": "Asian Markets Mostly Red at Thursday's Close, Weighed by Tech, Rate Hike Concerns",
-      "publisher": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-markets-mostly-red-thursday-114229069.html",
-      "published_at": "2026-11-19T11:42:29Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "Gold, Silver Futures Extend Losses",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-catches-breath-but-stays-at-over-one-year-lows-b3d16f60?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-19T19:09:00Z"
+    },
     {
       "title": "CoreWeave's $30 Million Insider Bond Bet Comes Amid Debt Fears",
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/coreweaves-30-million-insider-bond-145342541.html",
       "published_at": "2026-11-19T14:53:42Z"
-    },
-    {
-      "title": "Gold Pressured by Rate-Hike Bets, Broader Commodities Retreat",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-catches-breath-but-stays-at-over-one-year-lows-b3d16f60?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-19T08:52:00Z"
     },
     {
       "title": "ICICI Bank Hits a 52-Week High: Can Growth Drivers Sustain the Rally?",
@@ -257,6 +257,18 @@
   ],
   "8035.T": [
     {
+      "title": "Nikkei Falls 2.9%, Dragged by Chip, Metals Stocks",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-falls-2-9-dragged-by-chip-metals-stocks-0601645e?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-20T00:38:00Z"
+    },
+    {
+      "title": "Is This Still an \"AI\" Driven Market?",
+      "publisher": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/still-ai-driven-market-213300337.html",
+      "published_at": "2026-11-19T21:33:00Z"
+    },
+    {
       "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw",
       "publisher": "Reuters",
       "url": "https://ca.finance.yahoo.com/news/chinese-envoy-says-chip-equipment-092458827.html",
@@ -273,18 +285,6 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/advantest-stocks-tumble-11-12-185823166.html",
       "published_at": "2026-11-16T18:58:23Z"
-    },
-    {
-      "title": "Asian chip stocks slide ahead of Nvidia earnings",
-      "publisher": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-chip-stocks-slide-ahead-032730415.html",
-      "published_at": "2026-11-16T03:27:30Z"
-    },
-    {
-      "title": "Is Tokyo Electron (TSE:8035) Too Expensive After The Chip Sell Off?",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tokyo-electron-tse-8035-too-020720549.html",
-      "published_at": "2026-11-15T02:07:20Z"
     }
   ],
   "6861.T": [
@@ -324,7 +324,7 @@
       "title": "Roaring Kitty Is Back. Can He Spark Another GameStop Stock Frenzy?",
       "publisher": "Barrons.com",
       "url": "https://www.barrons.com/articles/gamestop-stock-roaring-kitty-6277bb9f?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-19T17:13:00Z"
+      "published_at": "2026-11-19T21:14:00Z"
     },
     {
       "title": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City",
