@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "Toyota's 2027 Sienna brings a surprising gas-saving upgrade",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/automotive/toyotas-2027-sienna-brings-a-surprising-gas-saving-upgrade",
+      "published_at": "2026-11-24T22:47:00Z"
+    },
+    {
       "title": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup",
       "publisher": "Reuters",
       "url": "https://finance.yahoo.com/economy/policy/articles/horsepower-firepower-japan-draws-auto-041424285.html",
@@ -23,12 +29,6 @@
       "publisher": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/moody-upgrades-toyota-outlook-positive-171321572.html",
       "published_at": "2026-11-19T17:13:21Z"
-    },
-    {
-      "title": "TKAP invests $49.2m in new E-Drive line at Bidadi, India",
-      "publisher": "Investment Monitor",
-      "url": "https://www.investmentmonitor.ai/news/tkap-invests-rs4-60bn-e-drive-line-india/",
-      "published_at": "2026-11-19T14:47:55Z"
     }
   ],
   "6758.T": [
@@ -65,6 +65,18 @@
   ],
   "9984.T": [
     {
+      "title": "Asian stocks mostly decline as AI shares fall following a retreat on Wall Street",
+      "publisher": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-mostly-decline-ai-040526833.html",
+      "published_at": "2026-11-25T04:05:26Z"
+    },
+    {
+      "title": "SoftBank Shares Drop 10% as Samsung and SK Hynix Fall Over 7% in AI Sell Off",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/softbank-shares-drop-samsung-sk-hynix/",
+      "published_at": "2026-11-25T01:12:52Z"
+    },
+    {
       "title": "Arm Holdings Stocks Fall 4.89% as Chip Rally Cools After Haas Commits Through 2033",
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stocks-fall-4-172748336.html",
@@ -81,21 +93,15 @@
       "publisher": "Motley Fool",
       "url": "https://www.fool.com/investing/2026/11/23/why-sk-hynix-stock-skyrocketed-today/",
       "published_at": "2026-11-23T22:56:12Z"
-    },
-    {
-      "title": "Why Is Arm Holdings (ARM) Locking In Rene Haas Through 2033?",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-arm-holdings-arm-locking-211411739.html",
-      "published_at": "2026-11-23T21:14:11Z"
-    },
-    {
-      "title": "Why Arm Holdings Stock Was Soaring on Monday",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/23/why-arm-holdings-stock-was-soaring-on-monday/",
-      "published_at": "2026-11-23T20:49:46Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "Singapore Dollar Weakens as Focus Turns to U.S. Econ Data",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/currencies/still-too-early-to-bet-against-the-u-s-dollar-f6411c71?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-25T03:27:00Z"
+    },
     {
       "title": "Co-Founder Brian Venturo Just Made a $30 Million Long-Term Bet on CoreWeave Stock as Neocloud Fears Rock the Market",
       "publisher": "Barchart",
@@ -119,12 +125,6 @@
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-catches-breath-but-stays-at-over-one-year-lows-b3d16f60?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-11-19T19:09:00Z"
-    },
-    {
-      "title": "CoreWeave's $30 Million Insider Bond Bet Comes Amid Debt Fears",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweaves-30-million-insider-bond-145342541.html",
-      "published_at": "2026-11-19T14:53:42Z"
     }
   ],
   "6501.T": [
@@ -257,6 +257,12 @@
   ],
   "8035.T": [
     {
+      "title": "SoftBank Shares Drop 10% as Samsung and SK Hynix Fall Over 7% in AI Sell Off",
+      "publisher": "BeInCrypto",
+      "url": "https://beincrypto.com/softbank-shares-drop-samsung-sk-hynix/",
+      "published_at": "2026-11-25T01:12:52Z"
+    },
+    {
       "title": "US lawmakers criticize Nvidia decision to reinstate Huang as CEO",
       "publisher": "Reuters",
       "url": "https://finance.yahoo.com/news/lawmakers-criticize-nvidia-decision-reinstate-151540511.html",
@@ -279,12 +285,6 @@
       "publisher": "Reuters",
       "url": "https://ca.finance.yahoo.com/news/chinese-envoy-says-chip-equipment-092458827.html",
       "published_at": "2026-11-17T09:27:45Z"
-    },
-    {
-      "title": "Nvidia Export Curbs Could Lift These Semiconductor Stocks With US Fab Exposure",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/nvidia-export-curbs-could-lift-211322386.html",
-      "published_at": "2026-11-16T21:13:22Z"
     }
   ],
   "6861.T": [
