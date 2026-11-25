@@ -65,37 +65,49 @@
   ],
   "9984.T": [
     {
+      "title": "Why Do Analysts Keep Chopping GE Vernova Stock?",
+      "publisher": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/ge-vernova-stock-price-target-baird-erste-bnp/?src=A00220&yptr=yahoo",
+      "published_at": "2026-11-25T19:24:10Z"
+    },
+    {
       "title": "Stocks to Watch: Nvidia, Anthropic, Dell",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026/card/stocks-to-watch-nvidia-anthropic-dell-wt2HkwvR171Ilamwyc6E?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-25T10:42:39Z"
+      "published_at": "2026-11-25T19:10:49Z"
     },
     {
-      "title": "Where to Find Bargains After the AI Power Boom Reality Check",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/where-to-find-bargains-after-the-ai-power-boom-reality-check-a6be0739?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-25T10:30:00Z"
-    },
-    {
-      "title": "SoftBank Shares Drop 10% as Samsung and SK Hynix Fall Over 7% in AI Sell Off",
-      "publisher": "BeInCrypto",
-      "url": "https://beincrypto.com/softbank-shares-drop-samsung-sk-hynix/",
-      "published_at": "2026-11-25T01:12:52Z"
-    },
-    {
-      "title": "Arm Holdings Stocks Fall 4.89% as Chip Rally Cools After Haas Commits Through 2033",
+      "title": "SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer",
       "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-stocks-fall-4-172748336.html",
-      "published_at": "2026-11-24T17:27:48Z"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-stocks-crash-14-174425817.html",
+      "published_at": "2026-11-25T17:44:25Z"
     },
     {
-      "title": "Nvidia’s Asian Suppliers Rally as Jensen Huang Returns as CEO: SK Hynix Jumps 8%, SoftBank Shares Rise in Tokyo",
-      "publisher": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-asian-suppliers-rally-jensen-012213841.html",
-      "published_at": "2026-11-24T01:22:13Z"
+      "title": "Nvidia Sinks 9% as Huang Rally Fades: Stephanie Link Sees “A Cloud Over It”",
+      "publisher": "TIKR",
+      "url": "https://www.tikr.com/blog/nvidia-sinks-9-as-huang-rally-fades-stephanie-link-sees-a-cloud-over-it?ref=yahoofinance&tlnk=yf-261125-q8ch658v",
+      "published_at": "2026-11-25T17:24:16Z"
+    },
+    {
+      "title": "Oracle, CoreWeave Face Stark Warning From Credit Markets",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-coreweave-face-stark-warning-162922864.html",
+      "published_at": "2026-11-25T16:29:22Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "CoreWeave banks prepare $4.5 billion Meta-tied loan sale next week, Bloomberg says",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-banks-prepare-4-5-183018691.html",
+      "published_at": "2026-11-25T18:30:18Z"
+    },
+    {
+      "title": "CoreWeave’s Banks to Sell $4.5 Billion Meta-Tied Loan Next Week",
+      "publisher": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-banks-sell-4-5-172523161.html",
+      "published_at": "2026-11-25T17:25:23Z"
+    },
     {
       "title": "Co-Founder Brian Venturo Just Made a $30 Million Long-Term Bet on CoreWeave Stock as Neocloud Fears Rock the Market",
       "publisher": "Barchart",
@@ -113,18 +125,6 @@
       "publisher": "IntelliNews",
       "url": "http://www.intellinews.com/japan-s-bank-shares-slide-even-as-ueda-vows-more-rate-rises-486963/",
       "published_at": "2026-11-20T09:51:23Z"
-    },
-    {
-      "title": "Gold, Silver Futures Extend Losses",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-catches-breath-but-stays-at-over-one-year-lows-b3d16f60?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-19T19:09:00Z"
-    },
-    {
-      "title": "CoreWeave's $30 Million Insider Bond Bet Comes Amid Debt Fears",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweaves-30-million-insider-bond-145342541.html",
-      "published_at": "2026-11-19T14:53:42Z"
     }
   ],
   "6501.T": [
@@ -257,6 +257,12 @@
   ],
   "8035.T": [
     {
+      "title": "SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer",
+      "publisher": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-stocks-crash-14-174425817.html",
+      "published_at": "2026-11-25T17:44:25Z"
+    },
+    {
       "title": "SoftBank Shares Drop 10% as Samsung and SK Hynix Fall Over 7% in AI Sell Off",
       "publisher": "BeInCrypto",
       "url": "https://beincrypto.com/softbank-shares-drop-samsung-sk-hynix/",
@@ -279,12 +285,6 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/still-ai-driven-market-213300337.html",
       "published_at": "2026-11-19T21:33:00Z"
-    },
-    {
-      "title": "Chinese envoy says chip equipment export curbs threaten EU-China trade thaw",
-      "publisher": "Reuters",
-      "url": "https://ca.finance.yahoo.com/news/chinese-envoy-says-chip-equipment-092458827.html",
-      "published_at": "2026-11-17T09:27:45Z"
     }
   ],
   "6861.T": [
