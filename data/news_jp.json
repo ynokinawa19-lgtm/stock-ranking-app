@@ -1,6 +1,12 @@
 {
   "7203.T": [
     {
+      "title": "Six Japanese automakers plan over Bt134bn investment in Thailand by 2030",
+      "publisher": "Just Auto",
+      "url": "https://www.just-auto.com/news/six-japanese-automakers-bt134bn-investment-thailand/",
+      "published_at": "2026-11-26T10:34:58Z"
+    },
+    {
       "title": "Toyota's 2027 Sienna brings a surprising gas-saving upgrade",
       "publisher": "TheStreet",
       "url": "https://www.thestreet.com/automotive/toyotas-2027-sienna-brings-a-surprising-gas-saving-upgrade",
@@ -23,12 +29,6 @@
       "publisher": "Just Auto",
       "url": "https://www.just-auto.com/news/honda-toyota-recall-million-vehicles/",
       "published_at": "2026-11-23T11:42:03Z"
-    },
-    {
-      "title": "Moody’s upgrades Toyota outlook to positive, projects modest EBIT margin expansion",
-      "publisher": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/moody-upgrades-toyota-outlook-positive-171321572.html",
-      "published_at": "2026-11-19T17:13:21Z"
     }
   ],
   "6758.T": [
@@ -65,34 +65,34 @@
   ],
   "9984.T": [
     {
-      "title": "Asian stocks enjoy another bounce as tech holds court",
-      "publisher": "AFP",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-enjoy-another-bounce-023024729.html",
-      "published_at": "2026-11-26T02:30:24Z"
+      "title": "Global markets rebound as tech shares recover and tariff fears ease",
+      "publisher": "Euronews",
+      "url": "https://www.euronews.com/2026/11/26/anxiety-over-the-ai-boom-and-inflation-drags-wall-street-lower",
+      "published_at": "2026-11-26T10:07:16Z"
     },
     {
-      "title": "Nikkei Rises 1.3%, Led by Chip, Metals Stocks",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-26T00:19:00Z"
+      "title": "Kioxia jumps 14% after Nvidia collaboration as chip stocks rebound",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kioxia-jumps-14-nvidia-collaboration-062844097.html",
+      "published_at": "2026-11-26T06:28:44Z"
+    },
+    {
+      "title": "World shares push higher, while markets in US will be closed for Thanksgiving",
+      "publisher": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-rebound-led-ai-052153058.html",
+      "published_at": "2026-11-26T05:21:53Z"
+    },
+    {
+      "title": "SoftBank Credit Risk Tops 500 Basis Points as AI Worries Mount",
+      "publisher": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-credit-risk-tops-500-030009520.html",
+      "published_at": "2026-11-26T03:00:09Z"
     },
     {
       "title": "Stocks to Watch Recap: Nvidia, Anthropic, Dell",
       "publisher": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026/card/stocks-to-watch-nvidia-anthropic-dell-wt2HkwvR171Ilamwyc6E?siteid=yhoof2&yptr=yahoo",
       "published_at": "2026-11-25T21:47:17Z"
-    },
-    {
-      "title": "Why Do Analysts Keep Chopping GE Vernova Stock?",
-      "publisher": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/ge-vernova-stock-price-target-baird-erste-bnp/?src=A00220&yptr=yahoo",
-      "published_at": "2026-11-25T19:24:10Z"
-    },
-    {
-      "title": "SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-stocks-crash-14-174425817.html",
-      "published_at": "2026-11-25T17:44:25Z"
     }
   ],
   "8306.T": [
@@ -417,6 +417,12 @@
   ],
   "6367.T": [
     {
+      "title": "Daikin (TSE:6367) Stock Could Be Near Fair Value On A 24% Run",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/daikin-tse-6367-stock-could-071648404.html",
+      "published_at": "2026-11-26T07:16:48Z"
+    },
+    {
       "title": "DKILY or GRMN: Which Is the Better Value Stock Right Now?",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dkily-grmn-better-value-stock-154003872.html",
@@ -439,15 +445,15 @@
       "publisher": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/world-indices/articles/chip-wreck-reaches-asian-stock-104017534.html",
       "published_at": "2026-11-06T10:40:17Z"
-    },
-    {
-      "title": "Learn Why The Bull Case For Daikin Stock Could Change Following Earnings Upgrade",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-daikin-091457273.html",
-      "published_at": "2026-11-06T09:14:57Z"
     }
   ],
   "8058.T": [
+    {
+      "title": "Six Japanese automakers plan over Bt134bn investment in Thailand by 2030",
+      "publisher": "Just Auto",
+      "url": "https://www.just-auto.com/news/six-japanese-automakers-bt134bn-investment-thailand/",
+      "published_at": "2026-11-26T10:34:58Z"
+    },
     {
       "title": "Jensen Huang's Reinstatement Is Great News for GE Vernova",
       "publisher": "Motley Fool",
@@ -471,12 +477,6 @@
       "publisher": "Just Auto",
       "url": "https://www.just-auto.com/news/mitsubishi-reports-operating-profit-up-but-sales-down-in-h1-fy27/",
       "published_at": "2026-11-11T11:31:16Z"
-    },
-    {
-      "title": "Berkshire Hathaway Deepens Japan Focus With Fresh Yen Bond Plans",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-deepens-japan-focus-185400612.html",
-      "published_at": "2026-11-10T18:54:00Z"
     }
   ]
 }
