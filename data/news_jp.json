@@ -65,37 +65,49 @@
   ],
   "9984.T": [
     {
+      "title": "Asian stocks enjoy another bounce as tech holds court",
+      "publisher": "AFP",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-enjoy-another-bounce-023024729.html",
+      "published_at": "2026-11-26T02:30:24Z"
+    },
+    {
+      "title": "Nikkei Rises 1.3%, Led by Chip, Metals Stocks",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-1-3-led-by-chip-metals-stocks-3b7004c9?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-26T00:19:00Z"
+    },
+    {
+      "title": "Stocks to Watch Recap: Nvidia, Anthropic, Dell",
+      "publisher": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026/card/stocks-to-watch-nvidia-anthropic-dell-wt2HkwvR171Ilamwyc6E?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-25T21:47:17Z"
+    },
+    {
       "title": "Why Do Analysts Keep Chopping GE Vernova Stock?",
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/news/ge-vernova-stock-price-target-baird-erste-bnp/?src=A00220&yptr=yahoo",
       "published_at": "2026-11-25T19:24:10Z"
     },
     {
-      "title": "Stocks to Watch: Nvidia, Anthropic, Dell",
-      "publisher": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026/card/stocks-to-watch-nvidia-anthropic-dell-wt2HkwvR171Ilamwyc6E?siteid=yhoof2&yptr=yahoo",
-      "published_at": "2026-11-25T19:10:49Z"
-    },
-    {
       "title": "SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer",
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/softbank-group-stocks-crash-14-174425817.html",
       "published_at": "2026-11-25T17:44:25Z"
-    },
-    {
-      "title": "Nvidia Sinks 9% as Huang Rally Fades: Stephanie Link Sees “A Cloud Over It”",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/nvidia-sinks-9-as-huang-rally-fades-stephanie-link-sees-a-cloud-over-it?ref=yahoofinance&tlnk=yf-261125-q8ch658v",
-      "published_at": "2026-11-25T17:24:16Z"
-    },
-    {
-      "title": "Oracle, CoreWeave Face Stark Warning From Credit Markets",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-coreweave-face-stark-warning-162922864.html",
-      "published_at": "2026-11-25T16:29:22Z"
     }
   ],
   "8306.T": [
+    {
+      "title": "AI spending leads the biggest market risks heading into 2027",
+      "publisher": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-spending-leads-biggest-market-210742225.html",
+      "published_at": "2026-11-25T21:07:42Z"
+    },
+    {
+      "title": "CoreWeave’s Bankers Reportedly Ready $4.5B GPU-Backed Loan Tied To Meta Deal",
+      "publisher": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/core-weave-s-bankers-reportedly-ready-4-5-b-gpu-backed-loan-tied-to-meta-deal/cNbHrsCR9mw",
+      "published_at": "2026-11-25T21:02:16Z"
+    },
     {
       "title": "CoreWeave banks prepare $4.5 billion Meta-tied loan sale next week, Bloomberg says",
       "publisher": "Investing.com",
@@ -113,18 +125,6 @@
       "publisher": "Barchart",
       "url": "https://www.barchart.com/story/news/8984634/co-founder-brian-venturo-just-made-a-30-million-long-term-bet-on-coreweave-stock-as-neocloud-fears-rock-the-market",
       "published_at": "2026-11-24T14:00:03Z"
-    },
-    {
-      "title": "Singapore's banks carry more AI data-centre risk than Japan's megabanks",
-      "publisher": "IntelliNews",
-      "url": "http://www.intellinews.com/singapore-s-banks-carry-more-ai-data-centre-risk-than-japan-s-megabanks-486959/",
-      "published_at": "2026-11-20T12:36:14Z"
-    },
-    {
-      "title": "Japan's bank shares slide even as Ueda vows more rate rises",
-      "publisher": "IntelliNews",
-      "url": "http://www.intellinews.com/japan-s-bank-shares-slide-even-as-ueda-vows-more-rate-rises-486963/",
-      "published_at": "2026-11-20T09:51:23Z"
     }
   ],
   "6501.T": [
@@ -161,6 +161,12 @@
   ],
   "9432.T": [
     {
+      "title": "NTT (TSE:9432) Stock Looks Near Fair Value On Cash Flow",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ntt-tse-9432-stock-looks-211455601.html",
+      "published_at": "2026-11-25T21:14:55Z"
+    },
+    {
       "title": "AI Energy Stocks, From Fuel Cells To Uranium, Rebound As Nvidia Soars",
       "publisher": "Investor's Business Daily",
       "url": "https://www.investors.com/news/ai-energy-stocks-bloom-vernova-oklo-rally-nvidia-rebound-trade/?src=A00220&yptr=yahoo",
@@ -183,12 +189,6 @@
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nttyy-vs-amady-stock-better-154003787.html",
       "published_at": "2026-11-13T15:40:03Z"
-    },
-    {
-      "title": "Is NTT Inc. - Sponsored ADR (NTTYY) Stock Outpacing Its Business Services Peers This Year?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ntt-inc-sponsored-adr-nttyy-200711815.html",
-      "published_at": "2026-11-11T20:07:11Z"
     }
   ],
   "6098.T": [
@@ -225,6 +225,12 @@
   ],
   "4063.T": [
     {
+      "title": "Is Shin-Etsu Chemical (TSE:4063) Reasonably Priced for Its Earnings?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/shin-etsu-chemical-tse-4063-221208562.html",
+      "published_at": "2026-11-25T22:12:08Z"
+    },
+    {
       "title": "Is Shin-Etsu Chemical (TSE:4063) Undervalued Based On Cash Flow?",
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/shin-etsu-chemical-tse-4063-011614374.html",
@@ -247,15 +253,21 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-courts-japan-suppliers-194801151.html",
       "published_at": "2026-07-16T19:48:01Z"
-    },
-    {
-      "title": "Shin-Etsu Chemical Co Ltd: A Significant Move by Hennessy Japan Fund",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/shin-etsu-chemical-co-ltd-230519962.html",
-      "published_at": "2026-06-25T23:05:19Z"
     }
   ],
   "8035.T": [
+    {
+      "title": "Why My Analysis Points to Nearly 40% Semiconductor Equipment Growth in 2026",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/11/25/why-my-analysis-points-to-nearly-40-semiconductor-equipment-growth-in-2026/",
+      "published_at": "2026-11-25T23:42:34Z"
+    },
+    {
+      "title": "Forget ASML: Tokyo Electron Has More China Sales at Stake in the MATCH Act",
+      "publisher": "TIKR",
+      "url": "https://www.tikr.com/blog/forget-asml-tokyo-electron-has-more-china-sales-at-stake-in-the-match-act?ref=yahoofinance&tlnk=yf-261125-h7wjhc27",
+      "published_at": "2026-11-25T18:26:42Z"
+    },
     {
       "title": "SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer",
       "publisher": "GuruFocus.com",
@@ -273,18 +285,6 @@
       "publisher": "Reuters",
       "url": "https://finance.yahoo.com/news/lawmakers-criticize-nvidia-decision-reinstate-151540511.html",
       "published_at": "2026-11-23T22:30:26Z"
-    },
-    {
-      "title": "Nikkei 225 Falls 4.5% and SoftBank Plunges 15% as Wall Street’s AI Selloff Puts Asian Stocks on Track for Their Worst Week Since 2020",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/19/nikkei-225-falls-4-5-and-softbank-plunges-15-as-wall-streets-ai-selloff-puts-asian-stocks-on-track-for-their-worst-week-since-2020/",
-      "published_at": "2026-11-20T03:41:08Z"
-    },
-    {
-      "title": "Is This Still an \"AI\" Driven Market?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/still-ai-driven-market-213300337.html",
-      "published_at": "2026-11-19T21:33:00Z"
     }
   ],
   "6861.T": [
@@ -321,6 +321,12 @@
   ],
   "7974.T": [
     {
+      "title": "Roaring Kitty Redux",
+      "publisher": "Barrons.com",
+      "url": "https://www.barrons.com/articles/roaring-kitty-redux-451a6602?siteid=yhoof2&yptr=yahoo",
+      "published_at": "2026-11-25T23:11:00Z"
+    },
+    {
       "title": "Hasbro's Exodus and Warlock Launches in 2027: Will This Drive Growth?",
       "publisher": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/hasbros-exodus-warlock-launches-2027-130200562.html",
@@ -343,12 +349,6 @@
       "publisher": "MarketBeat",
       "url": "https://www.marketbeat.com/articles/grand-theft-auto-vi-arrives-why-take-two-is-a-waiting-game/?utm_source=yahoofinance&utm_medium=yahoofinance",
       "published_at": "2026-11-19T19:10:00Z"
-    },
-    {
-      "title": "Grand Theft Auto VI draws rave reviews as gamers enter Vice City",
-      "publisher": "Reuters",
-      "url": "https://finance.yahoo.com/news/gamers-ready-enter-vice-city-110339411.html",
-      "published_at": "2026-11-19T11:47:46Z"
     }
   ],
   "9983.T": [
