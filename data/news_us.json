@@ -1,6 +1,24 @@
 {
   "AAPL": [
     {
+      "title": "Apple (AAPL) Has Found a New AI Opportunity That Has Little to Do With the iPhone",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-found-ai-opportunity-031905510.html",
+      "published_at": "2026-11-27T03:19:05Z"
+    },
+    {
+      "title": "Target cut its Apple Black Friday discount in half",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/retail/target-cut-its-apple-black-friday-discount-in-half",
+      "published_at": "2026-11-27T03:17:00Z"
+    },
+    {
+      "title": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock.",
+      "publisher": "Barchart",
+      "url": "https://www.barchart.com/story/news/9022924/apple-enters-the-ai-agent-race-as-it-takes-on-openai-anthropic-and-meta-what-that-means-for-aapl-stock",
+      "published_at": "2026-11-26T19:30:03Z"
+    },
+    {
       "title": "Apple Stocks Rise as AI Selloff Spares the iPhone Maker",
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stocks-rise-ai-selloff-190038273.html",
@@ -11,56 +29,38 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/apple-removes-talkie-app-store-180937483.html",
       "published_at": "2026-11-26T18:09:37Z"
-    },
-    {
-      "title": "Apple, Exxon and Lowe’s Are Rewarding Shareholders Beyond Their Regular Dividends",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/26/apple-exxon-and-lowes-are-rewarding-shareholders-beyond-their-regular-dividends/",
-      "published_at": "2026-11-26T17:07:34Z"
-    },
-    {
-      "title": "The Economy Grew Way Faster Than First Reported: Q3 GDP Revised Up to 4.3%",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/26/the-economy-grew-way-faster-than-first-reported-q3-gdp-revised-up-to-4-3/",
-      "published_at": "2026-11-26T15:28:09Z"
-    },
-    {
-      "title": "Can VZ's New Apple Deals and Loyalty Benefits Drive Subscriber Growth?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vzs-apple-deals-loyalty-benefits-152600217.html",
-      "published_at": "2026-11-26T15:26:00Z"
     }
   ],
   "MSFT": [
     {
-      "title": "Microsoft Stocks Slip 1.25% While Nadella Backs Cheaper In-House AI Models",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-slip-1-25-184200035.html",
-      "published_at": "2026-11-26T18:42:00Z"
+      "title": "5 Best Quantum Computing Stocks To Buy for 2027",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html",
+      "published_at": "2026-11-27T03:21:49Z"
     },
     {
-      "title": "Can NICE (TASE:NICE) Support A Reasonable Price On Earnings?",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nice-tase-nice-support-reasonable-181420159.html",
-      "published_at": "2026-11-26T18:14:20Z"
+      "title": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html",
+      "published_at": "2026-11-27T03:08:56Z"
     },
     {
-      "title": "David Tepper, Cathie Wood and 4 Other Famous Investors Own Nvidia. Here’s Who Bought Recently",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/david-tepper-cathie-wood-and-4-other-famous-investors-own-nvidia-heres-who-bought-recently?ref=yahoofinance&tlnk=yf-261126-8957xqr5",
-      "published_at": "2026-11-26T18:12:50Z"
+      "title": "Tech Stock Sell-Off: Down 13%, Is Microsoft a Buy Now?",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/26/tech-stock-sell-off-down-13-is-microsoft-a-buy-now/",
+      "published_at": "2026-11-26T22:20:02Z"
     },
     {
-      "title": "Stanley Druckenmiller, Bill Ackman and 7 Other Famous Investors Own Amazon. Here’s Who Bought and Sold Recently",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/stanley-druckenmiller-bill-ackman-and-7-other-famous-investors-own-amazon-heres-who-bought-and-sold-recently?ref=yahoofinance&tlnk=yf-261126-2mffj2wm",
-      "published_at": "2026-11-26T18:11:13Z"
+      "title": "Steve Cohen’s 5 Biggest Stock Bets for 2027",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/steve-cohen-5-biggest-stock-220614898.html",
+      "published_at": "2026-11-26T22:06:14Z"
     },
     {
-      "title": "What Does Pinterest (PINS) Pay Overhaul Mean For Its Takeover Talk And Ad Push?",
-      "publisher": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/media-advertising/articles/does-pinterest-pins-pay-overhaul-171447901.html",
-      "published_at": "2026-11-26T17:14:47Z"
+      "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+      "publisher": "TipRanks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-return-doesn-t-212200380.html",
+      "published_at": "2026-11-26T21:22:00Z"
     }
   ],
   "NVDA": [
@@ -83,83 +83,101 @@
       "published_at": "2026-11-26T12:00:00Z"
     },
     {
-      "title": "Here’s How Many Shares of Procter & Gamble You’d Need to Own to Collect $1,000 in Annual Dividends",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/26/here-s-how-many-shares-of-procter-and-gamble-you-d-need-to-own-to-collect-usd1-000-in-annual-dividends/",
-      "published_at": "2026-11-26T20:29:02Z"
+      "title": "5 Best Quantum Computing Stocks To Buy for 2027",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html",
+      "published_at": "2026-11-27T03:21:49Z"
     },
     {
-      "title": "If a Market Correction Is Around the Corner, I'm Making This 1 Easy Move",
+      "title": "Nvidia Is Down 35% From Its All-Time High, Tied for Its Biggest Drop Since the AI Boom Began. Is It a Buy?",
       "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/26/if-market-correction-around-corner-making-this-1-easy-move/",
-      "published_at": "2026-11-26T20:20:02Z"
+      "url": "https://www.fool.com/investing/2026/11/26/nvidia-is-down-35-from-its-all-time-high-tied-for-its-biggest-drop-since-the-ai-boom-began-is-it-a-buy/",
+      "published_at": "2026-11-27T03:20:02Z"
     }
   ],
   "GOOGL": [
     {
-      "title": "Broadcom Stocks Edge Lower After Rebounding From an Intraday Low of $278",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-edge-lower-rebounding-183041028.html",
-      "published_at": "2026-11-26T18:30:41Z"
+      "title": "5 Best Quantum Computing Stocks To Buy for 2027",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html",
+      "published_at": "2026-11-27T03:21:49Z"
     },
     {
-      "title": "Alphabet Stocks Slip 2.13% as Credit Swaps Hit Record Amid $9.1 Billion Cash Burn",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-slip-2-13-182601811.html",
-      "published_at": "2026-11-26T18:26:01Z"
+      "title": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html",
+      "published_at": "2026-11-27T03:08:56Z"
     },
     {
-      "title": "George Soros and 64 Other Big Funds Bought Meta Last Quarter. David Tepper and 33 Others Sold. Who’s Right?",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/george-soros-and-64-other-big-funds-bought-meta-last-quarter-david-tepper-and-33-others-sold-whos-right?ref=yahoofinance&tlnk=yf-261126-jj5cfjgh",
-      "published_at": "2026-11-26T18:09:59Z"
+      "title": "‘How Can TSLA Compete With Waymo?’ Gary Black Questions Tesla’s Robotaxi Strategy, Predicts Waymo Will Lead in Miles and Trips",
+      "publisher": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/articles/tsla-compete-waymo-gary-black-013007370.html",
+      "published_at": "2026-11-27T01:30:07Z"
     },
     {
-      "title": "Alphabet Could Be the Safest Way to Own Anthropic. Here’s the Math.",
-      "publisher": "Motley Fool",
-      "url": "https://www.fool.com/investing/2026/11/26/alphabet-could-be-the-safest-way-to-own-anthropic-here-s-the-math/",
-      "published_at": "2026-11-26T17:47:02Z"
-    },
-    {
-      "title": "Amazon Has 59 Buy Ratings and Not a Single Sell. Here’s Where its Headed",
+      "title": "Jim Lebenthal Says This Is “a Correction, Not Something Worse.” Why He’s Buying More Alphabet",
       "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/26/amazon-has-59-buy-ratings-and-not-a-single-sell-heres-where-its-headed/",
-      "published_at": "2026-11-26T17:10:02Z"
+      "url": "https://247wallst.com/investing/2026/11/26/jim-lebenthal-says-this-is-a-correction-not-something-worse-why-hes-buying-more-alphabet/",
+      "published_at": "2026-11-26T22:07:55Z"
+    },
+    {
+      "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+      "publisher": "TipRanks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-return-doesn-t-212200380.html",
+      "published_at": "2026-11-26T21:22:00Z"
     }
   ],
   "AMZN": [
     {
-      "title": "SpaceX Stocks Rise 1.3% as FCC Approves 1 Million Orbital Data Center Satellites",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stocks-rise-1-3-191028542.html",
-      "published_at": "2026-11-26T19:10:28Z"
+      "title": "5 Best Quantum Computing Stocks To Buy for 2027",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/articles/5-best-quantum-computing-stocks-032149616.html",
+      "published_at": "2026-11-27T03:21:49Z"
     },
     {
-      "title": "Goldman Sachs sends strong signal on Amazon stock before Black Friday",
-      "publisher": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-amazon-stock-370-target",
-      "published_at": "2026-11-26T18:17:00Z"
+      "title": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html",
+      "published_at": "2026-11-27T03:08:56Z"
     },
     {
-      "title": "Stanley Druckenmiller, Bill Ackman and 7 Other Famous Investors Own Amazon. Here’s Who Bought and Sold Recently",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/stanley-druckenmiller-bill-ackman-and-7-other-famous-investors-own-amazon-heres-who-bought-and-sold-recently?ref=yahoofinance&tlnk=yf-261126-2mffj2wm",
-      "published_at": "2026-11-26T18:11:13Z"
+      "title": "Weeks Before His Wife Needs a Nursing Home, He Buys a $75,000 SUV Online. Medicaid Ignores One Car Whatever It Costs, Taking $75,000 Off the Savings It Expects Them to Spend Down",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/11/26/weeks-before-his-wife-needs-a-nursing-home-he-buys-a-75000-suv-online-medicaid-ignores-one-car-whatever-it-costs-taking-75000-off-the-savings-it-expects-them-to-spend-down/",
+      "published_at": "2026-11-27T00:04:07Z"
     },
     {
-      "title": "Amazon , Walmart Battle for $124 Billion Holiday Shopping Market",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-walmart-battle-124-billion-175223253.html",
-      "published_at": "2026-11-26T17:52:23Z"
+      "title": "Amazon tried to kill Musk’s plan for 1 million AI satellites. The FCC chair scolded it and gave SpaceX the green light",
+      "publisher": "Moneywise",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-tried-kill-musk-plan-233000718.html",
+      "published_at": "2026-11-26T23:30:00Z"
     },
     {
-      "title": "NFL's Thanksgiving Boom Raises Stakes for Disney, Netflix",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/media-advertising/articles/nfls-thanksgiving-boom-raises-stakes-174228885.html",
-      "published_at": "2026-11-26T17:42:28Z"
+      "title": "Steve Cohen’s 5 Biggest Stock Bets for 2027",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/steve-cohen-5-biggest-stock-220614898.html",
+      "published_at": "2026-11-26T22:06:14Z"
     }
   ],
   "META": [
+    {
+      "title": "5 Best Tech Stocks to Buy for 2027 According to Hedge Funds",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-best-tech-stocks-buy-030856400.html",
+      "published_at": "2026-11-27T03:08:56Z"
+    },
+    {
+      "title": "Jensen Huang’s Return Doesn’t Make Nvidia Stock (NVDA) a Buy",
+      "publisher": "TipRanks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-return-doesn-t-212200380.html",
+      "published_at": "2026-11-26T21:22:00Z"
+    },
+    {
+      "title": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock.",
+      "publisher": "Barchart",
+      "url": "https://www.barchart.com/story/news/9022924/apple-enters-the-ai-agent-race-as-it-takes-on-openai-anthropic-and-meta-what-that-means-for-aapl-stock",
+      "published_at": "2026-11-26T19:30:03Z"
+    },
     {
       "title": "AMD Stocks Slip 1.75% After Filing Registers 337 Million Shares for Resale",
       "publisher": "GuruFocus.com",
@@ -171,27 +189,27 @@
       "publisher": "TIKR",
       "url": "https://www.tikr.com/blog/stanley-druckenmiller-bill-ackman-and-7-other-famous-investors-own-amazon-heres-who-bought-and-sold-recently?ref=yahoofinance&tlnk=yf-261126-2mffj2wm",
       "published_at": "2026-11-26T18:11:13Z"
-    },
-    {
-      "title": "George Soros and 64 Other Big Funds Bought Meta Last Quarter. David Tepper and 33 Others Sold. Who’s Right?",
-      "publisher": "TIKR",
-      "url": "https://www.tikr.com/blog/george-soros-and-64-other-big-funds-bought-meta-last-quarter-david-tepper-and-33-others-sold-whos-right?ref=yahoofinance&tlnk=yf-261126-jj5cfjgh",
-      "published_at": "2026-11-26T18:09:59Z"
-    },
-    {
-      "title": "Meta Faces India Lawsuit Over 5.4 Million Content Restrictions",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/meta-faces-india-lawsuit-over-180217910.html",
-      "published_at": "2026-11-26T18:02:17Z"
-    },
-    {
-      "title": "Meta Platforms Stocks Jump 3.4% on Reported Amazon Talks Over Muse AI Agent",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-stocks-jump-3-172338883.html",
-      "published_at": "2026-11-26T17:23:38Z"
     }
   ],
   "TSLA": [
+    {
+      "title": "‘How Can TSLA Compete With Waymo?’ Gary Black Questions Tesla’s Robotaxi Strategy, Predicts Waymo Will Lead in Miles and Trips",
+      "publisher": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/articles/tsla-compete-waymo-gary-black-013007370.html",
+      "published_at": "2026-11-27T01:30:07Z"
+    },
+    {
+      "title": "What Could Tesla (TSLA) Merger Talks Mean For Its Stock?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-tesla-tsla-merger-talks-013007632.html",
+      "published_at": "2026-11-27T01:30:07Z"
+    },
+    {
+      "title": "Should You Buy Tesla Stock Before December?",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/26/should-you-buy-tesla-stock-before-december/",
+      "published_at": "2026-11-26T22:35:02Z"
+    },
     {
       "title": "Tesla Stocks Slip 1.18% as EU Delays Self-Driving Vote to December 15",
       "publisher": "GuruFocus.com",
@@ -199,31 +217,25 @@
       "published_at": "2026-11-26T19:03:57Z"
     },
     {
-      "title": "Tesla: A SpaceX Merger Could Turn $5,000 Into $10,000",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-merger-could-turn-174606474.html",
-      "published_at": "2026-11-26T17:46:06Z"
-    },
-    {
-      "title": "Rivian Is Down 41% This Year. Can RIVN Stock Get Back to $20 in 2027?",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/26/rivian-is-down-41-this-year-can-rivn-stock-get-back-to-20-in-2027/",
-      "published_at": "2026-11-26T17:06:18Z"
-    },
-    {
-      "title": "Elon Musk didn’t sell a single share in SpaceX’s record $85.7B IPO. Anthropic’s 7 cofounders cashed out $1.96B in theirs",
-      "publisher": "Moneywise",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-didn-t-sell-170000854.html",
-      "published_at": "2026-11-26T17:00:00Z"
-    },
-    {
-      "title": "XPeng Raises Stakes for Tesla Stock Investors' Big Growth Bet",
-      "publisher": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/xpeng-raises-stakes-tesla-stock-163240808.html",
-      "published_at": "2026-11-26T16:32:40Z"
+      "title": "Charlie Munger Said BYD Was ‘So Much Ahead Of Tesla, It’s Almost Ridiculous’ in 2023. BYD Then Outsold Tesla, But Berkshire Sold Every Share.",
+      "publisher": "Barchart",
+      "url": "https://www.barchart.com/story/news/9022591/charlie-munger-said-byd-was-so-much-ahead-of-tesla-its-almost-ridiculous-in-2023-byd-then-outsold-tesla-but-berkshire-sold-every-share",
+      "published_at": "2026-11-26T18:30:03Z"
     }
   ],
   "AVGO": [
+    {
+      "title": "Broadcom (AVGO) Could Be the Biggest Winner From the Shift to Custom AI Chips",
+      "publisher": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-could-biggest-winner-031533044.html",
+      "published_at": "2026-11-27T03:15:33Z"
+    },
+    {
+      "title": "These 2 AI Chip Stocks Are Down 36% to 39% From Their Highs. Here’s What History Says Happens Next.",
+      "publisher": "Motley Fool",
+      "url": "https://www.fool.com/investing/2026/11/26/these-2-ai-chip-stocks-are-down-36-to-39-from-their-highs-here-s-what-history-says-happens-next/",
+      "published_at": "2026-11-27T00:20:02Z"
+    },
     {
       "title": "5 Most Oversold Semiconductor Stocks to Buy for 2027",
       "publisher": "Insider Monkey",
@@ -241,26 +253,26 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-edge-lower-rebounding-183041028.html",
       "published_at": "2026-11-26T18:30:41Z"
-    },
-    {
-      "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/26/nvidia-just-dropped-31-in-a-month-will-nvda-stock-hit-125-or-200-first/",
-      "published_at": "2026-11-26T16:06:22Z"
-    },
-    {
-      "title": "S&P’s NVIDIA Warning is Backward Looking Governance Theater That Gives Everyone an Opportunity to Buy at $150",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/26/sps-nvidia-warning-is-backward-looking-governance-theater-that-gives-everyone-an-opportunity-to-buy-at-150/",
-      "published_at": "2026-11-26T15:45:38Z"
     }
   ],
   "AMD": [
+    {
+      "title": "Eric Trump-Backed Robot Startup’s Employees Lose Health Insurance After Weeks Without Pay as Company Scrambles for $150 Million Lifeline: Report",
+      "publisher": "Benzinga",
+      "url": "https://finance.yahoo.com/healthcare/articles/eric-trump-backed-robot-startup-023005325.html",
+      "published_at": "2026-11-27T02:30:05Z"
+    },
     {
       "title": "5 Most Oversold Semiconductor Stocks to Buy for 2027",
       "publisher": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-oversold-semiconductor-stocks-194738573.html",
       "published_at": "2026-11-26T19:47:38Z"
+    },
+    {
+      "title": "KHC, PINS, AMD: 3 Bets I’d Consider Waging From Thanksgiving Eve’s Top 25 Unusually Active Options",
+      "publisher": "Barchart",
+      "url": "https://www.barchart.com/story/news/9022595/khc-pins-amd-3-bets-id-consider-waging-from-thanksgiving-eves-top-25-unusually-active-options",
+      "published_at": "2026-11-26T18:30:04Z"
     },
     {
       "title": "AMD Stocks Slip 1.75% After Filing Registers 337 Million Shares for Resale",
@@ -273,18 +285,6 @@
       "publisher": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvent-electric-nvt-brings-ai-171331695.html",
       "published_at": "2026-11-26T17:13:31Z"
-    },
-    {
-      "title": "Cerebras Expands AI Inference Reach: Can It Challenge NVDA & AMD?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-expands-ai-inference-reach-161400247.html",
-      "published_at": "2026-11-26T16:14:00Z"
-    },
-    {
-      "title": "NVIDIA Just Dropped 31% in a Month. Will NVDA Stock Hit $125 or $200 First?",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/26/nvidia-just-dropped-31-in-a-month-will-nvda-stock-hit-125-or-200-first/",
-      "published_at": "2026-11-26T16:06:22Z"
     }
   ],
   "NFLX": [
@@ -353,6 +353,24 @@
   ],
   "ORCL": [
     {
+      "title": "Wondering Why Oracle Fell? Here's What The Bears Saw",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wondering-why-oracle-fell-heres-012625677.html",
+      "published_at": "2026-11-27T01:26:25Z"
+    },
+    {
+      "title": "‘Room to Spare,’ Says Investor About Oracle Stock",
+      "publisher": "TipRanks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/room-spare-says-investor-oracle-215243159.html",
+      "published_at": "2026-11-26T21:52:43Z"
+    },
+    {
+      "title": "Fleeing Stocks at 63, She Parks $700,000 of Her 401(k) in a Corporate Bond Fund for Safety. As Banks Dump Data Center Loans, a 5% Slide in Her “Safe” Fund Would Cost Her $35,000",
+      "publisher": "24/7 Wall St.",
+      "url": "https://247wallst.com/personal-finance/2026/11/26/fleeing-stocks-at-63-she-parks-700000-of-her-401k-in-a-corporate-bond-fund-for-safety-as-banks-dump-data-center-loans-a-5-slide-in-her-safe-fund-would-cost-her-35000/",
+      "published_at": "2026-11-26T21:36:32Z"
+    },
+    {
       "title": "Alphabet Stocks Slip 2.13% as Credit Swaps Hit Record Amid $9.1 Billion Cash Burn",
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stocks-slip-2-13-182601811.html",
@@ -363,24 +381,6 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stocks-sink-5-13-171842760.html",
       "published_at": "2026-11-26T17:18:42Z"
-    },
-    {
-      "title": "Oracle Stock Dipped Under $100 as Banks Try to Unload Its Data-Center Loans",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/26/oracle-stock-dipped-under-100-as-banks-try-to-unload-its-data-center-loans/",
-      "published_at": "2026-11-26T16:27:22Z"
-    },
-    {
-      "title": "Cerebras Expands AI Inference Reach: Can It Challenge NVDA & AMD?",
-      "publisher": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-expands-ai-inference-reach-161400247.html",
-      "published_at": "2026-11-26T16:14:00Z"
-    },
-    {
-      "title": "Jim Cramer Says Micron Stock Is “Comically Cheap” at About 3 Times Earnings",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/26/jim-cramer-says-micron-stock-is-comically-cheap-at-about-3-times-earnings/",
-      "published_at": "2026-11-26T13:53:39Z"
     }
   ],
   "ADBE": [
@@ -417,6 +417,12 @@
   ],
   "COST": [
     {
+      "title": "When Walmart, Target, Costco, and other major retailers open on Black Friday",
+      "publisher": "TheStreet",
+      "url": "https://www.thestreet.com/retail/when-walmart-target-costco-and-other-major-retailers-open-on-black-friday",
+      "published_at": "2026-11-27T00:37:00Z"
+    },
+    {
       "title": "Costco sells something consumers want even if they don't need it",
       "publisher": "TheStreet",
       "url": "https://www.thestreet.com/retail/costco-borrows-a-starbucks-trick-as-shoppers-cut-back",
@@ -439,15 +445,15 @@
       "publisher": "TheStreet",
       "url": "https://www.thestreet.com/retail/cvs-thanksgiving-2026-store-pharmacy-hours",
       "published_at": "2026-11-26T15:17:00Z"
-    },
-    {
-      "title": "Dillard’s Just Declared a $35 Special Dividend Worth Nearly 6% of Its Share Price",
-      "publisher": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/2026/11/26/dillards-just-declared-a-35-special-dividend-worth-nearly-6-of-its-share-price/",
-      "published_at": "2026-11-26T14:07:22Z"
     }
   ],
   "JPM": [
+    {
+      "title": "Is Standard Chartered (LSE:STAN) Undervalued Following Its J.P. Morgan Conference Appearance?",
+      "publisher": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/standard-chartered-lse-stan-undervalued-220908677.html",
+      "published_at": "2026-11-26T22:09:08Z"
+    },
     {
       "title": "JPMorgan Sees $450 Billion AI Debt Wave as Credit Risks Mount",
       "publisher": "GuruFocus.com",
@@ -471,12 +477,6 @@
       "publisher": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-financial-sel-sector-110458586.html",
       "published_at": "2026-11-26T11:04:58Z"
-    },
-    {
-      "title": "Why Outages at Apps Like Chase Mean Cybersecurity Is Now Everyone’s Problem",
-      "publisher": "Unchained",
-      "url": "https://unchainedcrypto.com/why-outages-at-apps-like-chase-mean-cybersecurity-is-now-everyones-problem/",
-      "published_at": "2026-11-26T11:00:08Z"
     }
   ]
 }
